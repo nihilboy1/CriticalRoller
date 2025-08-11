@@ -1,0 +1,27 @@
+{
+  "name": "rolador-de-acerto-crítico",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.2.12",
+    "howler": "^2.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-sounds": "^1.0.25",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.12",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.1.10",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

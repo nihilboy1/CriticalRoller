@@ -1,0 +1,6 @@
+{
+  "name": "Rolador de Acerto Crítico",
+  "description": "Uma aplicação web para rolar e exibir efeitos de acertos críticos de um baralho de cartas customizado para Dungeons & Dragons 5e. Selecione o tipo de dano e role para ver o resultado dramático!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
