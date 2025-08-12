@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "effects": {
+      "Contusão": {
+        "title": "OFENSA COLETIVA",
+        "description": "Faça um teste de Carisma CD 15. Se falhar, fica marcado, até que o alvo esteja morto, derrotado, ou fora do seu alcance."
+      },
+      "Perfurante": {
+        "title": "MÁ PONTARIA",
+        "description": "Uma criatura aleatória mais distante do alvo se torna o novo alvo."
+      },
+      "Cortante": {
+        "title": "ENJOADO",
+        "description": "Você fica envenenado, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "FENDA MÁGICA",
+        "description": "Você é teleportado para o local mais próximo adjacente ao alvo."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "effects": {
+      "Contusão": {
+        "title": "PULSO TORCIDO",
+        "description": "Suas jogadas de ataque corpo a corpo perdem o bônus de proficiência, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "ATRAPALHADO",
+        "description": "Toda sua munição cai no chão."
+      },
+      "Cortante": {
+        "title": "GUARDA BAIXA",
+        "description": "A próxima jogada de ataque realizada contra você tem vantagem."
+      },
+      "Mágico": {
+        "title": "ENERGIA DRENADA",
+        "description": "Você perde um espaço de magia aleatório."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "effects": {
+      "Contusão": {
+        "title": "ESCAPULIU",
+        "description": "Sua arma cai no chão atrás do alvo."
+      },
+      "Perfurante": {
+        "title": "AGORA É PESSOAL",
+        "description": "Você fica marcado apenas pelo alvo, até que ele esteja morto, derrotado, ou fora do seu alcance."
+      },
+      "Cortante": {
+        "title": "FOI DE ENCONTRO",
+        "description": "A arma do alvo causa dano em você. Na ausência de uma arma, você sofre pontos de dano igual ao seu nível de personagem, ou nível de desafio (mínimo 1)."
+      },
+      "Mágico": {
+        "title": "MAGIA INVERTIDA",
+        "description": "A magia recupera pontos de vida do alvo ao invés de causar dano."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "effects": {
+      "Contusão": {
+        "title": "PIRIRI",
+        "description": "Você tem desvantagem em testes de Carisma, até realizar um descanso curto ou longo."
+      },
+      "Perfurante": {
+        "title": "CALCANHAR DO AMIGO",
+        "description": "Um aliado aleatório mais próximo ao alvo perde um dado de vida."
+      },
+      "Cortante": {
+        "title": "FRESCURA",
+        "description": "Seus ataques causam metade do dano, até o fim de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "KA-GA'DA",
+        "description": "Um aliado aleatório fica marcado, até que o alvo esteja morto, derrotado, ou fora do seu alcance."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "effects": {
+      "Contusão": {
+        "title": "TODO TORTO",
+        "description": "Seu ataque acerta você mesmo, causando metade do dano."
+      },
+      "Perfurante": {
+        "title": "PERDA DE CONFIANÇA",
+        "description": "Você possui desvantagem em jogadas contra esse alvo, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "PÉ TORCIDO",
+        "description": "Seu deslocamento cai pela metade, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "QUEDA DE RESISTÊNCIA",
+        "description": "Você tem desvantagem em testes de resistência contra magia, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "effects": {
+      "Contusão": {
+        "title": "DEFECADA NA CALÇA",
+        "description": "Qualquer criatura com olfato, e que estiver a 1,5 metro (1 quadrado) de distância de você, fica envenenada, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "MÃO MOLE",
+        "description": "Sua arma cai no chão."
+      },
+      "Cortante": {
+        "title": "BATIDA NO ESTÔMAGO",
+        "description": "Você regurgita sua última refeição."
+      },
+      "Mágico": {
+        "title": "CANSAÇO MENTAL",
+        "description": "Sua habilidade de conjuração perde o bônus de proficiência nos ataques e CD, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "effects": {
+      "Contusão": {
+        "title": "ATRAÇÃO PELO SOLO",
+        "description": "Você fica caído."
+      },
+      "Perfurante": {
+        "title": "DANCINHA RIDÍCULA",
+        "description": "Faça um teste de Carisma CD 15. Se falhar, você se torna o alvo predileto dos inimigos que possam te ver, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "ERROU BONITO",
+        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Sofra pontos de dano iguais ao seu bônus de proficiência."
+      },
+      "Mágico": {
+        "title": "MAGIA TRAIÇOEIRA",
+        "description": "Você se torna o novo alvo."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "effects": {
+      "Contusão": {
+        "title": "BRAÇO QUEBRADO",
+        "description": "Você só pode usar uma das mãos, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "NÃO ERA BEM ISSO",
+        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Ele é empurrado 1d10 metros (1d6 quadrados)."
+      },
+      "Cortante": {
+        "title": "CHOQUE NO NERVO",
+        "description": "Sua próxima ação não pode ser uma jogada de ataque."
+      },
+      "Mágico": {
+        "title": "CEGUEIRA ARCANA",
+        "description": "Uma criatura aleatória mais próxima de você se torna o novo alvo."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "effects": {
+      "Contusão": {
+        "title": "ESTILHAÇOS",
+        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Ele é destruído."
+      },
+      "Perfurante": {
+        "title": "DESCONCENTRADO",
+        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas à distância."
+      },
+      "Cortante": {
+        "title": "EGO FERIDO",
+        "description": "Você não pode atacar outro alvo, até que esse esteja morto, derrotado ou fora do seu alcance."
+      },
+      "Mágico": {
+        "title": "ALVO NA TESTA",
+        "description": "Um aliado aleatório mais próximo ao alvo fica marcado, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "effects": {
+      "Contusão": {
+        "title": "ARMA DANIFICADA",
+        "description": "Sua arma não mágica tem seu dado de dano reduzido em um, até ser reparada."
+      },
+      "Perfurante": {
+        "title": "VERTIGEM",
+        "description": "Toda vez que você se mover, fica envenenado  até o início de seu próximo turno, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "FALTA DE ALONGAMENTO",
+        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas naturais."
+      },
+      "Mágico": {
+        "title": "TRANSFERÊNCIA DE PODER",
+        "description": "A próxima jogada de ataque que o alvo realizar será um ACERTO CRÍTICO."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "effects": {
+      "Contusão": {
+        "title": "ARMADURA DANIFICADA",
+        "description": "Você sofre -1 de penalidade na CA com sua armadura, até ela ser reparada."
+      },
+      "Perfurante": {
+        "title": "TUDO QUE VAI, VOLTA",
+        "description": "O alvo pode realizar um ataque de oportunidade à distância contra você"
+      },
+      "Cortante": {
+        "title": "EMPURRÃO",
+        "description": "Você é empurrado para trás 1d6 metros (1d4 quadrados)."
+      },
+      "Mágico": {
+        "title": "KLONAGEM ARCANA",
+        "description": "Sua magia cria um clone do alvo, o mais próximo dele possível, com apenas 1 ponto de vida máximo."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "effects": {
+      "Contusão": {
+        "title": "MÃO FRACA",
+        "description": "Sua arma cai no chão acertando seu dedão. Você sofre 1 ponto de dano."
+      },
+      "Perfurante": {
+        "title": "PROJÉTIL DE CHUMBO",
+        "description": "O chão, onde se encontra um aliado aleatório mais próximo ao alvo, cede, se tornando terreno difícil. Aquele aliado fica caído."
+      },
+      "Cortante": {
+        "title": "FLUÍDO NO OLHO",
+        "description": "Faça um teste de resistência de Destreza CD 15. Se falhar, fica cego, até o fim de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "PARALISIA MÁGICA",
+        "description": "Você fica paralisado, até uma criatura encostar em você."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "effects": {
+      "Contusão": {
+        "title": "CRÍTICO NO CHÃO",
+        "description": "Você fica cego, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "AÇÃO E REAÇÃO",
+        "description": "Você é deslocado 1,5 metro (1 quadrado) para trás e fica caído."
+      },
+      "Cortante": {
+        "title": "ENROSCADO",
+        "description": "Você não pode mais se afastar desse alvo, até um dos dois sofrer dano."
+      },
+      "Mágico": {
+        "title": "PERTURBAÇÃO MÁGICA",
+        "description": "Você adquire a fobia \"Cenosillicafobia\" e passa a ter medo paralisante e irracional de ver copos (principalmente de bebidas alcoólicas) vazios."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "effects": {
+      "Contusão": {
+        "title": "ENFERRUJADO",
+        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas corpo a corpo."
+      },
+      "Perfurante": {
+        "title": "DESCOORDENADO",
+        "description": "Faça um teste de Destreza CD 15. Se falhar, deixa sua arma e/ou toda sua munição cair no chão."
+      },
+      "Cortante": {
+        "title": "CANSEIRA",
+        "description": "Você perde um dado de vida. Na ausência de um, sofra pontos de dano iguais ao seu bônus de proficiência."
+      },
+      "Mágico": {
+        "title": "EXAUSTÃO MENTAL",
+        "description": "Você não pode conjurar magias, até o fim de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "effects": {
+      "Contusão": {
+        "title": "DESAJEITADO",
+        "description": "Você sofre -1 de penalidade nas jogadas de ataque com armas corpo a corpo, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "COMO SE USA ISSO?",
+        "description": "Sua próxima jogada de ataque à distância é feita sem o bônus de proficiência."
+      },
+      "Cortante": {
+        "title": "DOR AGUDA",
+        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, não pode realizar ataques com armas naturais, até o fim de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "INJEÇÃO MÁGICA",
+        "description": "O alvo realiza um novo turno nessa rodada, logo após o seu."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "effects": {
+      "Contusão": {
+        "title": "OLÉ ABSURDO",
+        "description": "Se ainda te restou deslocamento, você se move até ficar do lado oposto do alvo e fica caído."
+      },
+      "Perfurante": {
+        "title": "TREMEDEIRA",
+        "description": "Você sofre -1 de penalidade nas jogadas de ataque à distância, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "TROCA DE GENTILEZAS",
+        "description": "Você provoca um ataque de oportunidade do alvo."
+      },
+      "Mágico": {
+        "title": "EXPLOSÃO ARCANA",
+        "description": "O dano da magia é distribuído igualmente para todas as criaturas dentro de um raio de 9 metros (6 quadrados) de você."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "effects": {
+      "Contusão": {
+        "title": "FALTA DE FIRMEZA",
+        "description": "Faça um teste de Força CD 15. Se falhar, sua arma cai no chão."
+      },
+      "Perfurante": {
+        "title": "VITIMISMO",
+        "description": "Você vira um poço de sentimentos negativos, até acertar um ataque."
+      },
+      "Cortante": {
+        "title": "DORMÊNCIA",
+        "description": "Sua próxima jogada de ataque com arma natural é feita sem o bônus de proficiência."
+      },
+      "Mágico": {
+        "title": "CONTATO EXTRA PLANAR",
+        "description": "Um de seus itens mágicos fica com uma \"Propriedade Prejudicial Menor\" (GdM p. 221)."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "effects": {
+      "Contusão": {
+        "title": "MOVIMENTO ERRADO",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, um aliado adjacente a você se torna o novo alvo."
+      },
+      "Perfurante": {
+        "title": "DEDO QUEBRADO",
+        "description": "Você sofre -2 de penalidade nas jogadas de ataque ao usar aquela mão, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "ALERGIA",
+        "description": "O alvo causa rinite em você. Testes de Sabedoria (Percepção) têm desvantagem, até você realizar um descando curto ou longo."
+      },
+      "Mágico": {
+        "title": "MANIFESTAÇÃO ESPIRITUAL",
+        "description": "Seu principal item abriga um espírito aconselhador de alinhamento oposto ao seu. Só você pode ouvi-lo."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "effects": {
+      "Contusão": {
+        "title": "DESLIZE DE PERCURSO",
+        "description": "Um aliado aleatório adjacente a você perde um dado de vida. Na ausência de um, ele sofre pontos de dano iguais ao bônus de proficiência dele."
+      },
+      "Perfurante": {
+        "title": "INTIMIDADO",
+        "description": "Faça um teste de resistência de Carisma CD 15. Se falhar, fica marcado pelo alvo, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "MEMBRO DESLOCADO",
+        "description": "Esse ataque não pode ser mais realizado, a não que você gaste uma ação e sofra pontos de dano iguais ao seu bônus de proficiência."
+      },
+      "Mágico": {
+        "title": "PERSEGUIÇÃO DIVINA",
+        "description": "Uma divindade de seu Reino, e de alinhamento oposto ao seu, não te quer bem."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "effects": {
+      "Contusão": {
+        "title": "LAPSO ATENÇÃO",
+        "description": "Faça um teste de resistência de Inteligência CD 15. Se falhar, no seu próximo turno tem desvantagem em uma jogada."
+      },
+      "Perfurante": {
+        "title": "JOELHO TORCIDO",
+        "description": "Você sofre 1 ponto de dano toda vez que você iniciar seu movimento, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "FRATURA EXPOSTA",
+        "description": "Você sofre 2 pontos de dano para cada nível de personagem, ou nível de desafio (mínimo 1). Aquele membro não pode ser utilizado, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "RISO INCONTROLÁVEL",
+        "description": "Você é infectado com a doença \"Febre Tagarelante\" (GdM p. 257)."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "effects": {
+      "Contusão": {
+        "title": "BRECHA NA DEFESA",
+        "description": "Faça um teste de Destreza CD 15. Se falhar, você provoca um ataque de oportunidade do alvo."
+      },
+      "Perfurante": {
+        "title": "OPS!",
+        "description": "Um aliado aleatório mais próximo ao alvo solta o que estiver segurando nas mãos. Ele sofre pontos de dano iguais ao bônus de proficiência dele."
+      },
+      "Cortante": {
+        "title": "TORNOZELO TORCIDO",
+        "description": "Seu movimento só pode ser realizado em linha reta, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "LESEIRA",
+        "description": "Você é infectado com a doença \"Praga do Esgoto\" (GdM p. 257)."
+      }
+    }
+  },
+  {
+    "id": 22,
+    "effects": {
+      "Contusão": {
+        "title": "ASSUSTADO",
+        "description": "Faça um teste de resistência de Carisma CD 15. Se falhar, fica amedrontado pelo alvo, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "TENSÃO MUSCULAR",
+        "description": "A distância de seus ataques à distância cai pela metade, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "TOCA AQUI!",
+        "description": "Você e um aliado aleatório adjacente sofrem 1 ponto de dano. Ele solta o que estiver segurando em uma das mãos."
+      },
+      "Mágico": {
+        "title": "OLHOS DE SANGUE",
+        "description": "Você é infectado com a doença \"Decomposição Ocular\" (GdM p. 257)."
+      }
+    }
+  },
+  {
+    "id": 23,
+    "effects": {
+      "Contusão": {
+        "title": "HIPOCONDRÍACO",
+        "description": "Você só pode usar novamente sua ação se reclamar exageradamente de alguma dor no seu corpo, até receber cura mágica."
+      },
+      "Perfurante": {
+        "title": "FRAQUEZA",
+        "description": "Faça um teste de Força CD 15. Se falhar, fica caído, e só pode se levantar no próximo turno."
+      },
+      "Cortante": {
+        "title": "DOR NAS COSTAS",
+        "description": "Você não consegue realizar um descanso curto, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "MENTE FERRADA",
+        "description": "Você adquire uma \"Loucura de Curto Prazo\" (GdM p. 260), até realizar um descando curto ou longo."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "effects": {
+      "Contusão": {
+        "title": "DESARMADO",
+        "description": "O alvo fica em posse de sua arma. (Se quiser recuperar sua arma, veja \"Desarmar\" no GdM p. 272.)"
+      },
+      "Perfurante": {
+        "title": "FALTA DE AR",
+        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, fica atordoado, até o fim de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "LIGAMENTO ROMPIDO",
+        "description": "Você sofre 1 ponto de dano para cada nível de personagem, ou nível de desafio (mínimo 1). Aquele membro não pode ser utilizado, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "ZUMBIDO AGUDO",
+        "description": "Você fica surdo, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "effects": {
+      "Contusão": {
+        "title": "LESÃO MUSCULAR",
+        "description": "Todas as suas jogadas que usam a Destreza sofrem -1 de penalidade, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "FALTA DE ESTRATÉGIA",
+        "description": "Faça um teste de Inteligência CD 15. Se falhar, você se esquece de alguma estratégia criada para esse encontro."
+      },
+      "Cortante": {
+        "title": "TAPA NA CARA",
+        "description": "A iniciativa do seu alvo passa a ser logo depois da sua. Ele tem vantagem na próxima jogada de ataque natural contra você."
+      },
+      "Mágico": {
+        "title": "MUDANÇA DE SEXO",
+        "description": "Faça um teste de resistência de Constituição CD 10. Se falhar, as características físicas sexuais de sua raça invertem."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "effects": {
+      "Contusão": {
+        "title": "NÃO FUI EU, FOI ELE!",
+        "description": "Um aliado aleatório adjacente ao alvo provoca um ataque de oportunidade do alvo."
+      },
+      "Perfurante": {
+        "title": "PRECISO MATAR!",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize o ataque mais forte possível contra um alvo inimigo mais fraco."
+      },
+      "Cortante": {
+        "title": "OSSO TRINCADO",
+        "description": "Todas as suas jogadas que usam a Força sofrem -1 de penalidade, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "REFORÇO MÁGICO",
+        "description": "O alvo fica imune a qualquer condição, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 27,
+    "effects": {
+      "Contusão": {
+        "title": "ACERTO SIMULTÂNEO",
+        "description": "Seu ataque acerta o alvo normalmente, mas o alvo rola o dano de um ataque básico contra você."
+      },
+      "Perfurante": {
+        "title": "DOR NA LOMBAR",
+        "description": "Seu deslocamento cai para 1,5 metro (1 quadrado), até receber tratamento."
+      },
+      "Cortante": {
+        "title": "TROPEÇO",
+        "description": "Faça um teste de resistência de Destreza CD 15. Se falhar, fica caído."
+      },
+      "Mágico": {
+        "title": "SIM SALABIM",
+        "description": "O alvo fica invisível, até você sofrer dano ou encontro acabar."
+      }
+    }
+  },
+  {
+    "id": 28,
+    "effects": {
+      "Contusão": {
+        "title": "COSTELA FRATURADA",
+        "description": "Você sofre 1 ponto de dano a cada jogada de ataque que realizar, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "TORÇÃO NO BRAÇO",
+        "description": "Você sofre 1 ponto de dano para cada nível de personagem, ou nível de desafio (mínimo 1)."
+      },
+      "Cortante": {
+        "title": "GIRATÓRIA DE TAPA",
+        "description": "Todas as criaturas adjacentes a você sofrem pontos de dano iguais ao seu bônus de proficiência, exceto o alvo."
+      },
+      "Mágico": {
+        "title": "SANGUE FORTE",
+        "description": "O alvo tem vantagem em testes de resistência contra magia, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 29,
+    "effects": {
+      "Contusão": {
+        "title": "INIMIGO MARCIAL",
+        "description": "Você troca de lugar com o alvo e fica caído."
+      },
+      "Perfurante": {
+        "title": "ANSIEDADE",
+        "description": "Você não pode se mover sem antes realizar uma jogada de ataque à distância, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "ERRO DE JULGAMENTO",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, o alvo não é mais uma ameaça para você, até você sofrer algum dano."
+      },
+      "Mágico": {
+        "title": "ESTÁTUA!",
+        "description": "Você fica petrificado, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 30,
+    "effects": {
+      "Contusão": {
+        "title": "ENVERGONHADO",
+        "description": "Seu ataque gera uma cena ridícula e você fica com um \"Transtorno de Personalidade Antissocial\", até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "QUICADA NA CABEÇA",
+        "description": "A iniciativa do seu alvo passa a ser logo depois da sua. Ele tem vantagem na próxima jogada de ataque contra você."
+      },
+      "Cortante": {
+        "title": "XÊNIO",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, faça uma aposta idiota contra esse alvo."
+      },
+      "Mágico": {
+        "title": "EGERNÉTIK",
+        "description": "O alvo fica acelerado como na Magia \"Velocidade\", até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 31,
+    "effects": {
+      "Contusão": {
+        "title": "PROVOCAÇÃO",
+        "description": "A iniciativa do seu alvo passa a ser logo depois da sua."
+      },
+      "Perfurante": {
+        "title": "NERVO DO ALIADO",
+        "description": "Um aliado aleatório adjacente ao alvo adquire 1 nível de exaustão ."
+      },
+      "Cortante": {
+        "title": "NOJINHO",
+        "description": "Se você não for treinado em Sobrevivência, fica incapacitado, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "MENTE BLOQUEADA",
+        "description": "Você não pode mais fazer essa magia, até realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 32,
+    "effects": {
+      "Contusão": {
+        "title": "ALÉM DO LIMITE",
+        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, adquira 1 nível de exaustão ."
+      },
+      "Perfurante": {
+        "title": "FOI DEMAIS",
+        "description": "Você gasta o triplo da munição nesse ataque."
+      },
+      "Cortante": {
+        "title": "PANCADA",
+        "description": "Você fica atordoado, até o fim de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "SÍNDROME DE ESTOCOLMO",
+        "description": "Faça um teste de resistência de Sabedoria CD 15. Se falhar, fica enfeitiçado pelo alvo . Refaça o teste no fim de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 33,
+    "effects": {
+      "Contusão": {
+        "title": "CÃIBRA NO ABDOME",
+        "description": "Todas as suas jogadas que usam a Força sofrem -1 de penalidade, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "ENTORSE NO JOELHO",
+        "description": "Seu deslocamento cai pela metade, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "TE AGARRANDO",
+        "description": "O alvo pode realizar um \"Agarrão\" contra você."
+      },
+      "Mágico": {
+        "title": "INVÓLUCRO MÁGICO",
+        "description": "O alvo fica com resistência a dano mágico, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 34,
+    "effects": {
+      "Contusão": {
+        "title": "CHOQUE DO GOLPE",
+        "description": "Você fica surdo, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "HEADSHOT, NO AMIGO",
+        "description": "Um aliado aleatório mais próximo faz um teste de resistência de Constituição CD 15. Se falhar, fica paralisado, até o fim de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "QUE COISA FEIA!",
+        "description": "Se você não for treinado em Intimidação, fica amedrontado pelo alvo, até o fim de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "CAPA DE GORDURA",
+        "description": "O alvo recebe pontos de vida temporários iguais ao nível da magia multiplicado por 2 (mínimo 1)."
+      }
+    }
+  },
+  {
+    "id": 35,
+    "effects": {
+      "Contusão": {
+        "title": "ISSO NÃO É PRA MIM!",
+        "description": "Faça um teste de resistência de Sabedoria CD 15. Se falhar, fica incapacitado, até o fim de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "DESILUDIDO",
+        "description": "Você não pode receber inspiração, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "CHEGA PRA LÁ",
+        "description": "Se você não for treinado em Atletismo, é empurrado 3 metros (2 quadrados) para trás."
+      },
+      "Mágico": {
+        "title": "RESISTÊNCIA BAIXA",
+        "description": "Você fica com vulnerabilidade a dano, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 36,
+    "effects": {
+      "Contusão": {
+        "title": "TE ENCONTRANDO",
+        "description": "O alvo pode realizar um \"Encontrão\" contra você."
+      },
+      "Perfurante": {
+        "title": "FORMIGAMENTO",
+        "description": "Todas as suas jogadas que usam a Destreza sofrem -1 de penalidade, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "MORDIDA DO MIKE",
+        "description": "O alvo faz um ataque de mordida em você."
+      },
+      "Mágico": {
+        "title": "CASCA GROSSA",
+        "description": "O alvo tem resistência a dano mágico, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 37,
+    "effects": {
+      "Contusão": {
+        "title": "RASTEIRA",
+        "description": "Se você não for treinado em Acrobacia, fica caído."
+      },
+      "Perfurante": {
+        "title": "BEM NO OUVIDO",
+        "description": "Um aliado aleatório mais próximo ao alvo fica surdo, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "UI!",
+        "description": "Você grita \"Ui!\" e coloca essa arma natural na boca. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+      },
+      "Mágico": {
+        "title": "DESLIZE ARCANO",
+        "description": "Você perde mais um espaço desse nível de magia, ou o que estiver restando de outro nível."
+      }
+    }
+  },
+  {
+    "id": 38,
+    "effects": {
+      "Contusão": {
+        "title": "ENTERRADA",
+        "description": "Sua arma fica presa no chão. Um teste bem-sucedido de Força (Atletismo) CD 15 a remove."
+      },
+      "Perfurante": {
+        "title": "RICOCHETE",
+        "description": "Sua arma ou munição ricocheteia no alvo e acerta um aliado aleatório, deixando-o atordoado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "TROMBADA",
+        "description": "Faça um teste de resistência de Constituição CD 10. Se falhar, fica inconsciente, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "METALIZAÇÃO",
+        "description": "O alvo tem +5 na CA, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 39,
+    "effects": {
+      "Contusão": {
+        "title": "ARRGH!",
+        "description": "Você grita \"Arrgh!\" e chacoalha a mão várias vezes. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+      },
+      "Perfurante": {
+        "title": "DISPARO TORTO",
+        "description": "Uma criatura aleatória, até 6 metros (4 quadrados) do alvo, se torna o novo alvo."
+      },
+      "Cortante": {
+        "title": "INCONTINÊNCIA URINÁRIA",
+        "description": "Você faz xixi na calça."
+      },
+      "Mágico": {
+        "title": "VENTANIA",
+        "description": "Toda a região em um raio de 5 km é tomada por \"Ventos Fortes\" (GdM p. 110), até você realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "effects": {
+      "Contusão": {
+        "title": "MÃO SUADA",
+        "description": "Sua arma é arremessada para trás 1d10 metros (1d6 quadrados) de distância."
+      },
+      "Perfurante": {
+        "title": "POR CIMA DO ALVO",
+        "description": "Uma criatura aleatória mais distante atrás de seu alvo se torna o novo alvo."
+      },
+      "Cortante": {
+        "title": "CHACOALHADA",
+        "description": "1d4 equipamentos aleatórios carregados, e não vestidos, caem no chão."
+      },
+      "Mágico": {
+        "title": "NEVASCA",
+        "description": "Toda a região em um raio de 5 km é tomada por \"Frio Extremo\" (GdM p. 109), até você realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "effects": {
+      "Contusão": {
+        "title": "OPORTUNIDADE",
+        "description": "Role 1d20. Se o resultado for maior ou igual a 11, você pode realizar uma ação. Se o resultado for menor que 11, o alvo pode realizar uma ação."
+      },
+      "Perfurante": {
+        "title": "MAL AÍ",
+        "description": "Você desarma um aliado aleatório adjacente ao alvo. A arma dele cai no chão."
+      },
+      "Cortante": {
+        "title": "LÍNGUA CORTADA",
+        "description": "Você perde parte da língua e não pode falar direito, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "MORMAÇO",
+        "description": "Toda a região em um raio de 5 km é tomada por \"Calor Extremo\" (GdM p. 110), até você realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 42,
+    "effects": {
+      "Contusão": {
+        "title": "ABRAÇADO",
+        "description": "Você fica agarrado pelo seu alvo."
+      },
+      "Perfurante": {
+        "title": "XINGANDO O INIMIGO",
+        "description": "O alvo pode se mover seu deslocamento imediatamente."
+      },
+      "Cortante": {
+        "title": "ESPIRRADA",
+        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, você fica envenenado, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "DILÚVIO",
+        "description": "Toda a região em um raio de 5 km é tomada por \"Precipitação Pesada\" (GdM p. 110), até você realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 43,
+    "effects": {
+      "Contusão": {
+        "title": "BATE E VOLTA",
+        "description": "Você fica atordoado, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "ERROU POR MUITO",
+        "description": "Um aliado aleatório adjacente ao alvo se torna o novo alvo."
+      },
+      "Cortante": {
+        "title": "CARENTE",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize um \"Agarrão\" contra o alvo."
+      },
+      "Mágico": {
+        "title": "VISITA À SUA MENTE",
+        "description": "O alvo aprende a fazer essa magia apenas uma vez, sem necessidade de componentes ou foco mágico, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 44,
+    "effects": {
+      "Contusão": {
+        "title": "FAGULHA NO OLHO",
+        "description": "Você fica com sensibilidade à luz solar, e tem desvantagem nas jogadas de ataque e testes de Sabedoria (Percepção), até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "AI!",
+        "description": "Você grita \"Ai!\" e dá vários pulinhos. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+      },
+      "Cortante": {
+        "title": "DE MAU JEITO",
+        "description": "Você sobre pontos de dano iguais ao seu bônus de proficiência."
+      },
+      "Mágico": {
+        "title": "SUPRESSÃO MÁGICA",
+        "description": "Todos os efeitos mágicos em você, oriundos de itens e magias, são anulados, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 45,
+    "effects": {
+      "Contusão": {
+        "title": "BAIXA ESTIMA",
+        "description": "Você não pode usar inspiração, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "SEM PONTARIA",
+        "description": "Você possui desvantagem no próximo ataque."
+      },
+      "Cortante": {
+        "title": "BOFETADA NA ORELHA",
+        "description": "Um aliado aleatório adjacente a você fica surdo, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "VISTA BORRADA",
+        "description": "Você tem 50% de chance de errar um ataque, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 46,
+    "effects": {
+      "Contusão": {
+        "title": "VAI NA MÃO!",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, você solta sua(s) arma(s) e luta desarmado contra esse alvo, até que ele esteja morto, derrotado ou fora do seu alcance."
+      },
+      "Perfurante": {
+        "title": "CISCO NO OLHO",
+        "description": "Você sofre -5 de penalidade nos testes de percepção, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "NARIGADA",
+        "description": "Você perde o olfato, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "OBSESSÃO PELO FEITIÇO",
+        "description": "Seus espaços de magia só podem ser utilizados para realizar essa mesma magia, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 47,
+    "effects": {
+      "Contusão": {
+        "title": "FARPA NO OLHO",
+        "description": "Um aliado aleatório adjacente a você fica cego, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "DISTENSÃO MUSCULAR",
+        "description": "Você não pode usar a ação para atacar com armas à distância, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "TONTURA",
+        "description": "Nesse encontro sua iniciativa cai para a última posição. Perca seu próximo turno."
+      },
+      "Mágico": {
+        "title": "PROFECIA DO AZAR",
+        "description": "A próxima jogada de ataque ou teste de resistência que fizer resultará em \"1\" natural."
+      }
+    }
+  },
+  {
+    "id": 48,
+    "effects": {
+      "Contusão": {
+        "title": "STRATEEGIA, STRATÉGI...",
+        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize o ataque mais forte possível contra um alvo inimigo mais próximo."
+      },
+      "Perfurante": {
+        "title": "PRESO NO CHÃO",
+        "description": "Um aliado aleatório mais próximo ao alvo fica impedido, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "EFEITO DOMINÓ",
+        "description": "Você e todos os aliados adjacentes ficam caídos."
+      },
+      "Mágico": {
+        "title": "TOCADO POR UNICOLAS",
+        "description": "Seu rosto adquire a aparência de uma fabulosa divindade de rosto humano portando um único chifre em espiral, até fazer uma prece multicolorida em voz alta."
+      }
+    }
+  },
+  {
+    "id": 49,
+    "effects": {
+      "Contusão": {
+        "title": "CÃIBRA NA PERNA",
+        "description": "Seu deslocamento cai pela metade, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "FLATULÊNCIA",
+        "description": "O aliado mais próximo de você tem desvantagem no seu próximo ataque."
+      },
+      "Cortante": {
+        "title": "PÁ, PLUM!",
+        "description": "Você fica inconsciente, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "AVERSÃO INEXPLICÁVEL",
+        "description": "Você adquire a fobia \"Dextrofobia\" e passa a ter medo de objetos do lado direito do corpo e da mão direita."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "effects": {
+      "Contusão": {
+        "title": "NEM FEZ CÓCEGAS!",
+        "description": "Você fica amedrontado pelo alvo, até que ele esteja morto, derrotado ou fora do seu alcance."
+      },
+      "Perfurante": {
+        "title": "ARTICULAÇÃO DOLORIDA",
+        "description": "Você não pode mais usar reações, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "FADIGADO",
+        "description": "Você adquire 1 nível de exaustão ."
+      },
+      "Mágico": {
+        "title": "MEDO EXAGERADO",
+        "description": "Você adquire a fobia \"Estupofobia\" e passa a ter medo de pessoas estúpidas."
+      }
+    }
+  }
+]

@@ -1,14 +1,14 @@
 import React, { useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { SoundProvider } from 'react-sounds';
-import { useGameLogic } from './hooks/useGameLogic';
-import DamageTypeSelector from './components/DamageTypeSelector';
-import FumbleTypeSelector from './components/FumbleTypeSelector';
-import ResultCard from './components/ResultCard';
-import Rules from './components/Rules';
-import Header from './components/Header';
-import ModeSwitcher from './components/ModeSwitcher';
-import RollButton from './components/RollButton';
+import { useGameLogic } from './src/hooks/useGameLogic';
+import DamageTypeSelector from './src/components/DamageTypeSelector';
+import FumbleTypeSelector from './src/components/FumbleTypeSelector';
+import ResultCard from './src/components/ResultCard';
+import Rules from './src/components/Rules';
+import Header from './src/components/Header';
+import ModeSwitcher from './src/components/ModeSwitcher';
+import RollButton from './src/components/RollButton';
 
 const AppContent: React.FC = () => {
   const {
@@ -20,6 +20,8 @@ const AppContent: React.FC = () => {
     handleModeChange,
     handleTypeSelect,
     handleRoll,
+    criticalHitCards,
+    criticalFumbleCards,
   } = useGameLogic();
 
   const resultCardRef = useRef<HTMLDivElement>(null);
@@ -71,23 +73,18 @@ const AppContent: React.FC = () => {
           onRoll={() => handleRoll(resultCardRef)}
         />
 
-        {mode === 'hit' ? (
-          <ResultCard
-            ref={resultCardRef}
-            mode="hit"
-            card={drawnHitCard}
-            selectedType={selectedType}
-            isRolling={isRolling}
-          />
-        ) : (
-          <ResultCard
-            ref={resultCardRef}
-            mode="fumble"
-            card={drawnFumbleCard}
-            selectedType={selectedType}
-            isRolling={isRolling}
-          />
-        )}
+        <ResultCard
+          ref={resultCardRef}
+          mode={mode}
+          card={mode === 'hit' ? drawnHitCard : drawnFumbleCard}
+          selectedType={selectedType}
+          isRolling={isRolling}
+          cardCount={
+            mode === 'hit'
+              ? criticalHitCards.length
+              : criticalFumbleCards.length
+          }
+        />
       </div>
 
       <Rules mode={mode} />

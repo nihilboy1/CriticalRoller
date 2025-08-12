@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "effects": {
+      "Contusão": {
+        "title": "Traqueia Esmagada",
+        "description": "Dano Crítico, e o alvo fica incapacitado  e não pode falar e respirar, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Mão Perfurada",
+        "description": "Dano Crítico, e o alvo solta um item que tiver segurando e não pode usar aquele membro, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Testa Cortada",
+        "description": "Dano Crítico, e o alvo fica cego, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Vulnerabilidade Mágica",
+        "description": "Dano Crítico, e o alvo tem vulnerabilidade a dano mágico, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 2,
+    "effects": {
+      "Contusão": {
+        "title": "Pancada na Barriga",
+        "description": "Dano Crítico, e o alvo não consegue se alimentar ou ingerir líquidos, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Ciático Pinçado",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica impedido, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Coluna Machucada",
+        "description": "Dano Crítico, e o alvo fica caído, não podendo se levantar, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Encolhimento",
+        "description": "Dano Crítico, e o alvo tem seu tamanho reduzido, como na Magia \"Aumentar/Reduzir\", até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 3,
+    "effects": {
+      "Contusão": {
+        "title": "Ombro Deslocado",
+        "description": "Dano Crítico, e o alvo não pode realizar um \"Encontrão\", até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Pulmão Perfurado",
+        "description": "Dano Crítico, e alvo adquire 2 níveis de exaustão, que podem ser removidos com tratamento."
+      },
+      "Cortante": {
+        "title": "Artéria Cortada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, sofre dano igual a metade dos pontos de vida restantes."
+      },
+      "Mágico": {
+        "title": "Afeto Mágico",
+        "description": "Dano Crítico, e o alvo fica enfeitiçado  por você, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 4,
+    "effects": {
+      "Contusão": {
+        "title": "Enxergando Estrelas",
+        "description": "Dano Crítico, e o alvo fica com sensibilidade à luz, desvantagem em jogadas de ataques e testes de Sabedoria (Percepção), até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "Bem no Nervo",
+        "description": "Dano Crítico, e o alvo fica atordoado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Cicatriz no Rosto",
+        "description": "Dano Crítico, e o alvo tem desvantagem em testes de Carisma (Persuasão) e vantagem em testes de Carisma (Intimidação), até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Transposição",
+        "description": "Dano Crítico, e o alvo troca de lugar com você."
+      }
+    }
+  },
+  {
+    "id": 5,
+    "effects": {
+      "Contusão": {
+        "title": "Pancada na Têmpora",
+        "description": "Dano Crítico, e o alvo fica inconsciente, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Fragmentos Alojados",
+        "description": "Dano Crítico, e o alvo apenas consegue se curar magicamente, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "Fatiado",
+        "description": "Dano Crítico, e o alvo não pode usar seus modificadores de habilidade nas jogadas, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Lobotomia Arcana",
+        "description": "Dano Crítico, e o alvo muda a sua tendência em um grau entre leal e caótico. Se ele for neutro, muda aleatoriamente."
+      }
+    }
+  },
+  {
+    "id": 6,
+    "effects": {
+      "Contusão": {
+        "title": "Treme Terra",
+        "description": "Dano Crítico, e o local do alvo e toda área ao redor dele, de até 1,5m (1 quadrado), se torna terreno difícil."
+      },
+      "Perfurante": {
+        "title": "Barriga Perfurada",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade em todas as jogadas, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Corte no Nervo",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade na CA, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Descontrole",
+        "description": "Dano Crítico, e o alvo realiza um ataque de oportunidade contra um aliado aleatório dele."
+      }
+    }
+  },
+  {
+    "id": 7,
+    "effects": {
+      "Contusão": {
+        "title": "Impacto Profundo",
+        "description": "Dano Crítico, e o alvo sofre 1 ponto de dano por nível de personagem, ou nível de desafio (mínimo 1), causado por um objeto do ambiente da cena."
+      },
+      "Perfurante": {
+        "title": "Língua Perfurada",
+        "description": "Dano Crítico, e o alvo passa a falar com a língua entre os dentes, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Adrenalina",
+        "description": "Dano Crítico, e você tem +1 em jogadas de ataque, até o fim do encontro. Então perca 1 dado de vida ou adquira 1 nível de exaustão ."
+      },
+      "Mágico": {
+        "title": "Confusão",
+        "description": "Dano Crítico, e a próxima jogada de ataque que o alvo realizar, é feita contra uma criatura aleatória."
+      }
+    }
+  },
+  {
+    "id": 8,
+    "effects": {
+      "Contusão": {
+        "title": "Hematoma",
+        "description": "Dano Crítico, e o alvo sofre -2 de penalidade nas jogadas que utilizam Força, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Atravessado",
+        "description": "Dano Crítico, e outro alvo, localizado atrás e adjacente a esse, pode sofrer metade do dano."
+      },
+      "Cortante": {
+        "title": "Corte Comprido",
+        "description": "Dano Crítico, e o alvo sofre 1 ponto de dano por nível de personagem, ou nível de desafio (mínimo 1), e deixa cair algo preso por cordas, tiras ou alças."
+      },
+      "Mágico": {
+        "title": "Mudança de Personalidade",
+        "description": "Dano Crítico, e o alvo escolhe entre ter um traço de personalidade substituído por outro, à sua escolha, ou sofrer 5 (1d10) pontos de dano psíquico."
+      }
+    }
+  },
+  {
+    "id": 9,
+    "effects": {
+      "Contusão": {
+        "title": "Costelas Quebradas",
+        "description": "Dano Crítico, e o alvo sofre -2 de penalidade nas jogadas que utilizam Força, até realizar um descanso curto ou longo."
+      },
+      "Perfurante": {
+        "title": "Pregado no Lugar",
+        "description": "Dano Crítico, e o alvo fica impedido, até ser bem-sucedido em um teste de Força (Atletismo) CD 15."
+      },
+      "Cortante": {
+        "title": "Reação Alérgica",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, fica envenenado, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Descarga Cerebral",
+        "description": "Dano Crítico, e o alvo muda a sua tendência em um grau entre bom e mal. Se ele for neutro, muda aleatoriamente."
+      }
+    }
+  },
+  {
+    "id": 10,
+    "effects": {
+      "Contusão": {
+        "title": "Beijando o Chão",
+        "description": "Dano Crítico, e o alvo fica caído."
+      },
+      "Perfurante": {
+        "title": "Coluna Perfurada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, fica inconsciente, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Corte Dilacerante",
+        "description": "Dano Crítico, e o alvo tem seu deslocamento igual a 0. Qualquer jogada envolvendo Força é uma falha, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Efeito Máximo",
+        "description": "Dano Crítico, com todas as variáveis da magia maximizadas."
+      }
+    }
+  },
+  {
+    "id": 11,
+    "effects": {
+      "Contusão": {
+        "title": "Fibrilação Atrial",
+        "description": "Dano Crítico, e o alvo fica paralisado, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Perna Perfurada",
+        "description": "Dano Crítico, e o alvo tem seu deslocamento reduzido pela metade, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Golpe Amplo",
+        "description": "Dano Crítico, e outro alvo, adjacente a você, pode sofrer metade do dano."
+      },
+      "Mágico": {
+        "title": "Brilho Arcano",
+        "description": "Dano Crítico, e o alvo brilha, emitindo luz como uma tocha, até realizar um descanso curto ou longo."
+      }
+    }
+  },
+  {
+    "id": 12,
+    "effects": {
+      "Contusão": {
+        "title": "Lesão Cerebral",
+        "description": "Dano Crítico, e o alvo perde 1d8 dias de memória, junto de todas as características e habilidades do seu antecedente, até realizar um descanso longo."
+      },
+      "Perfurante": {
+        "title": "Farpas na Pele",
+        "description": "Dano Crítico, e o alvo fica envenenado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Escalpado",
+        "description": "Dano Crítico, e o alvo sofre -2 de penalidade nas jogadas que utilizam Carisma, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Aura de Proteção",
+        "description": "Dano Crítico, e você tem +2 de bônus na CA, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 13,
+    "effects": {
+      "Contusão": {
+        "title": "Lobo Temporal Danificado",
+        "description": "Dano Crítico, e o alvo passa a escutar todas as frases sendo pronunciadas de trás para frente, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Enterrada nas Costas",
+        "description": "Dano Crítico, e o alvo fica incapacitado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Garganta Cortada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, não pode falar e respirar, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Telepata",
+        "description": "Dano Crítico, e você pode se comunicar telepaticamente, até realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 14,
+    "effects": {
+      "Contusão": {
+        "title": "Vista Borrada",
+        "description": "Dano Crítico, e o alvo não é mais capaz de ler, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Peito Atravessado",
+        "description": "Dano Crítico, e o alvo fica amedrontado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Tirou do Sério",
+        "description": "Dano Crítico, e o alvo sofre -3 de penalidade nas jogadas que utilizam Sabedoria, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Super Visão",
+        "description": "Dano Crítico, e você fica com visão de Raio-X, até realizar um descanso curto ou longo. O poder de penetração é igual à Magia \"Detectar Magia\"."
+      }
+    }
+  },
+  {
+    "id": 15,
+    "effects": {
+      "Contusão": {
+        "title": "Audição Prejudicada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, tem desvantagem em testes de Sabedoria (Percepção) na audição."
+      },
+      "Perfurante": {
+        "title": "Crânio Atravessado",
+        "description": "Dano Crítico, e o alvo se torna muito extrovertido até, receber tratamento."
+      },
+      "Cortante": {
+        "title": "Ira de Sangue",
+        "description": "Dano Crítico, e o alvo não sabe mais distinguir o que está vivo ou morto, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Contato Idiomático",
+        "description": "Dano Crítico, e você entende e fala a língua do alvo, até realizar um descanso longo."
+      }
+    }
+  },
+  {
+    "id": 16,
+    "effects": {
+      "Contusão": {
+        "title": "Deficiência Visual",
+        "description": "Dano Crítico, e o alvo fica com a visão do tipo normal. Caso ele já possua esse tipo de visão, fica cego, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Perfurada Cruel",
+        "description": "Dano Crítico, e o alvo se torna muito introvertido, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Olho por Olho",
+        "description": "Dano Crítico, e o alvo só pode atacar você, até ele conseguir te causar essa mesma quantia de dano, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "Magia Vampírica",
+        "description": "Dano Crítico, e você recupera a metade do dano causado em pontos de vida."
+      }
+    }
+  },
+  {
+    "id": 17,
+    "effects": {
+      "Contusão": {
+        "title": "Miopia Severa",
+        "description": "Dano Crítico, e o alvo enxerga até uma distância máxima igual à metade de seu deslocamento, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Dor Agoniante",
+        "description": "Dano Crítico, e o alvo fica impedido, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Fatigado",
+        "description": "Dano Crítico, e o alvo escolhe apenas um tipo de ataque (corpo a corpo, à distância ou mágico) para ser utilizado, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "Lentificado",
+        "description": "Dano Crítico, e o alvo fica lento, como na Magia \"Lentidão\", até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 18,
+    "effects": {
+      "Contusão": {
+        "title": "Dano em Cadeia",
+        "description": "Dano Crítico, e 1/4 do dano em todos as criaturas inimigas adjacentes ao alvo."
+      },
+      "Perfurante": {
+        "title": "Perfuração Profunda",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, só pode mover ou executar uma ação, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Perda de Compostura",
+        "description": "Dano Crítico, e o alvo sofre -2 de penalidade nas jogadas que utilizam Sabedoria, até realizar um descanso curto ou longo."
+      },
+      "Mágico": {
+        "title": "Dobra Planar",
+        "description": "Dano Crítico, e você pode se teleportar a uma distância de até seu deslocamento."
+      }
+    }
+  },
+  {
+    "id": 19,
+    "effects": {
+      "Contusão": {
+        "title": "Resistência Baixa",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, perde todas suas resistências naturais a dano, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Buraco no Corpo",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Carisma, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "Talho no Braço",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Destreza, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Vórtex Temporal",
+        "description": "Dano Crítico, e o alvo desaparece, reaparecendo no mesmo local no início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 20,
+    "effects": {
+      "Contusão": {
+        "title": "Desorientado",
+        "description": "Dano Crítico, e no início do turno do alvo, o mesmo gasta todo seu movimento em direção à criatura mais próxima."
+      },
+      "Perfurante": {
+        "title": "Ombro Ferido",
+        "description": "Dano Crítico, e o alvo tem desvantagem em todas as jogadas que usam um braço, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Tripas de Fora",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica amedrontado, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Conduíte",
+        "description": "Dano Crítico, e você tem +1 na CD de resistência e bônus nas jogadas de ataque de suas magias, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 21,
+    "effects": {
+      "Contusão": {
+        "title": "Pancada na Cabeça",
+        "description": "Dano Crítico, e o alvo sofre -3 nas jogadas que utilizam Inteligência, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Contração Muscular",
+        "description": "Dano Crítico, e a arma principal do alvo causa dano, sem modificadores, nele mesmo."
+      },
+      "Cortante": {
+        "title": "Pedaço Arrancado",
+        "description": "Dano Crítico, e outro inimigo, que pode te ver, fica marcado, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Pancada Mágica",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica atordoado, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 22,
+    "effects": {
+      "Contusão": {
+        "title": "Guarda Baixa",
+        "description": "Dano Crítico, e o alvo perde o modificador da Destreza da CA. Qualquer jogada envolvendo Destreza é uma falha, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Cravado na Cabeça",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Inteligência, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "Sacrifício",
+        "description": "Dano Crítico, e você pode cair para 0 pontos de vida e fazer mais uma jogada de ataque com vantagem contra o alvo."
+      },
+      "Mágico": {
+        "title": "Cãibra Arcana",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica paralisado, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 23,
+    "effects": {
+      "Contusão": {
+        "title": "Interior Exposto",
+        "description": "Dano Crítico, e as imunidades a dano do alvo agora se tornam resistências a dano, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Ofensiva Astuta",
+        "description": "Dano Crítico, e você fica invisível para o alvo, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Osso Lascado",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, não pode realizar ações bônus ou reações, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Magia Pegajosa",
+        "description": "Dano Crítico, e o alvo não pode falar, até ser bem-sucedido em um teste de resistência de Destreza CD 15 ou receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 24,
+    "effects": {
+      "Contusão": {
+        "title": "Falta de Ar",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Constituição, até realizar um descanso curto ou longo."
+      },
+      "Perfurante": {
+        "title": "Punhaladas",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, provoca um ataque de oportunidade de você."
+      },
+      "Cortante": {
+        "title": "Em Sequência",
+        "description": "Dano Crítico, e se você se mover, pode fazer uma nova jogada de ataque com desvantagem contra qualquer criatura."
+      },
+      "Mágico": {
+        "title": "Barreira Mágica",
+        "description": "Dano Crítico, e você tem imunidade a dano de energia e psíquico, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 25,
+    "effects": {
+      "Contusão": {
+        "title": "Trauma Abdominal",
+        "description": "Dano Crítico, e o alvo não pode mais realizar um \"Esquivar\", até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Rim Perfurado",
+        "description": "Dano Crítico, e o alvo não consegue realizar um descanso curto ou longo, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Corte Profundo",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Constituição, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Fé Mágica",
+        "description": "Dano Crítico, e você tem imunidade a dano necrótico e radiante, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 26,
+    "effects": {
+      "Contusão": {
+        "title": "Marretando",
+        "description": "Dano Crítico, e aliados adjacentes a você têm +1 de bônus nas jogadas de ataque corpo a corpo, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "Estocada no Peito",
+        "description": "Dano Crítico, e alvo adquire 1 nível de exaustão e perde 1 dado de vida . Caso não haja dados de vida, o alvo sofre 5 (1d10) pontos de dano."
+      },
+      "Cortante": {
+        "title": "A Sorte está ao seu Lado",
+        "description": "Dano Crítico, e a próxima vez que você for alvo de uma jogada de ataque, e que resultar em 10 ou menos natural, é uma falha crítica."
+      },
+      "Mágico": {
+        "title": "Fitomágika",
+        "description": "Dano Crítico, e você tem imunidade a dano ácido e veneno, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 27,
+    "effects": {
+      "Contusão": {
+        "title": "Ossos Quebrados",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Força CD 15. Se falhar, fica caído e não pode se levantar, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Estocada nas Costas",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano iguais ao seu bônus de proficiência."
+      },
+      "Cortante": {
+        "title": "Jugular Cortada",
+        "description": "Dano Crítico, e o alvo não consegue recuperar seus pontos de vida, até realizar um descanso curto ou longo."
+      },
+      "Mágico": {
+        "title": "Raio da Mentira",
+        "description": "Dano Crítico, e o alvo se torna um mentiroso compulsivo, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 28,
+    "effects": {
+      "Contusão": {
+        "title": "Pancada da Indecência",
+        "description": "Dano Crítico, e o alvo sofre -3 nas jogadas que utilizam Carisma, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Estocada no Nariz",
+        "description": "Dano Crítico, e o alvo tem desvantagem em testes de Sabedoria (Percepção) envolvendo o olfato, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Corte em X",
+        "description": "Dano Crítico, e você ataca novamente o mesmo alvo com desvantagem, utilizando a mesma arma."
+      },
+      "Mágico": {
+        "title": "Escudo Elemental",
+        "description": "Dano Crítico, e você tem imunidade a dano elemental (elétrico, fogo, frio e trovejante), até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 29,
+    "effects": {
+      "Contusão": {
+        "title": "Nocaute",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, fica inconsciente, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Sem Noção",
+        "description": "Dano Crítico, e o alvo sofre -2 nas jogadas que utilizam Sabedoria, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Braço Lesionado",
+        "description": "Dano Crítico, e o alvo não pode mais usar aquele braço, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Espirro de Basilisco",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica petrificado, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 30,
+    "effects": {
+      "Contusão": {
+        "title": "Cabeça Esmagada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica incapacitado, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "No Olho!",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Destreza CD 10. Se falhar, tem desvantagem em testes de Sabedoria (Percepção) envolvendo a visão."
+      },
+      "Cortante": {
+        "title": "Abdome Ferido",
+        "description": "Dano Crítico, e o corpo do alvo não pode mais conceder meia-cobertura, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "Band-aid Power",
+        "description": "Dano Crítico, e você tem imunidade a dano cortante, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 31,
+    "effects": {
+      "Contusão": {
+        "title": "Órgão Esmagado",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano igual à soma de seus modificadores de Força e Sabedoria (mínimo 2)."
+      },
+      "Perfurante": {
+        "title": "Estômago Perfurado",
+        "description": "Dano Crítico, e o alvo sofre mais 1 ponto de dano ácido por nível de personagem, ou nível de desafio (mínimo 1)."
+      },
+      "Cortante": {
+        "title": "Tente me Acertar",
+        "description": "Dano Crítico, e enquanto você não se mover e não trocar de arma, pode realizar um \"Esquivar\" com uma ação bônus, até o fim do encontro."
+      },
+      "Mágico": {
+        "title": "Magia Defletora",
+        "description": "Dano Crítico, e você tem imunidade a dano perfurante, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 32,
+    "effects": {
+      "Contusão": {
+        "title": "Rótula Amassada",
+        "description": "Dano Crítico, e o alvo não pode mais quebrar seu movimento, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Sangramento Interno",
+        "description": "Dano Crítico, e o alvo sofre mais 1 ponto de dano de contusão por nível de personagem, ou nível de desafio (mínimo 1)."
+      },
+      "Cortante": {
+        "title": "Cortar e Correr",
+        "description": "Dano Crítico, e você pode realizar um \"Desengajar\", se tiver deslocamento sobrando."
+      },
+      "Mágico": {
+        "title": "Truque de Invisibilidade",
+        "description": "Dano Crítico, e se você não se mover, fica invisível, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 33,
+    "effects": {
+      "Contusão": {
+        "title": "Hematoma",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano igual ao seu modificador de Força vezes dois (mínimo 2)."
+      },
+      "Perfurante": {
+        "title": "Super Crítico",
+        "description": "Dano Crítico, e o alvo é empurrado 3 metros, ou 2 quadrados para trás, e sofre mais 2 pontos de dano por nível de personagem, ou nível de desafio (mínimo 1)."
+      },
+      "Cortante": {
+        "title": "Sangue para todo lado",
+        "description": "Dano Crítico, e o alvo fica amedrontado com criaturas feridas que pode ver, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Rejuvenescimento",
+        "description": "Dano Crítico, e o alvo tem sua idade dividida pela metade."
+      }
+    }
+  },
+  {
+    "id": 34,
+    "effects": {
+      "Contusão": {
+        "title": "Falta de Ar",
+        "description": "Dano Crítico, e o alvo não pode realizar uma \"Ajuda\", até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "Embaixo da Linha",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano igual ao seu modificador de Destreza vezes dois (mínimo 2)."
+      },
+      "Cortante": {
+        "title": "Braço Amputado",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, perde um braço."
+      },
+      "Mágico": {
+        "title": "Envelhecimento",
+        "description": "Dano Crítico, e o alvo tem sua idade dobrada."
+      }
+    }
+  },
+  {
+    "id": 35,
+    "effects": {
+      "Contusão": {
+        "title": "Pancadão",
+        "description": "Dano Crítico, e um item segurado e não mágico, e de uma categoria de tamanho igual ou menor que a sua, pode ser destruído pelo seu ataque."
+      },
+      "Perfurante": {
+        "title": "Vertigem",
+        "description": "Dano Crítico, e o alvo tem 50% de chance de errar seus ataques, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Slijo de Sangue",
+        "description": "Dano Crítico, e inimigos adjacentes fazem um teste de Sabedoria CD 10. Se falharem, ficam amedrontados, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Ossos de Borracha",
+        "description": "Dano Crítico, e você tem imunidade a dano de contusão, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 36,
+    "effects": {
+      "Contusão": {
+        "title": "Porrada Motivadora",
+        "description": "Dano Crítico, e um aliado, que consegue te ver, tem uma condição removida."
+      },
+      "Perfurante": {
+        "title": "Queda de Pressão",
+        "description": "Dano Crítico, e todas as jogadas de ataque do alvo causam metade do dano, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Virilha Seccionada",
+        "description": "Dano Crítico, e o alvo não pode realizar um \"Desengajar\", até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Zumbido Agudo",
+        "description": "Dano Crítico, e o alvo fica surdo, até o fim do encontro."
+      }
+    }
+  },
+  {
+    "id": 37,
+    "effects": {
+      "Contusão": {
+        "title": "Fêmur Fraturado",
+        "description": "Dano Crítico, e o alvo tem seu deslocamento reduzido pela metade e não pode saltar, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Ataque Duplo",
+        "description": "Dano Crítico, e você pode fazer uma nova jogada de ataque com desvantagem contra outro alvo."
+      },
+      "Cortante": {
+        "title": "Pele Arrancada",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade na CA e -1 nas jogadas que utilizam Carisma, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Feitiço do Amor",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Carisma CD 15. Se falhar, fica enfeitiçado por você, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 38,
+    "effects": {
+      "Contusão": {
+        "title": "Ritmo de Combate",
+        "description": "Dano Crítico, e todas as suas jogadas de ataque que resultarem em 1 natural não é uma falha crítica, até o fim do encontro."
+      },
+      "Perfurante": {
+        "title": "Miolo Afetado",
+        "description": "Dano Crítico, e o alvo não pode usar seus modificadores de habilidade nas jogadas de ataque, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Golpe Anão!",
+        "description": "Dano Crítico, com todos os dados de dano substituídos por d12s. Caso seus dados já sejam todos d12s, adicione 1d12 ao dano."
+      },
+      "Mágico": {
+        "title": "Força de Vontade",
+        "description": "Dano Crítico, e você recupera o uso de um poder de raça ou classe, que só poderia ser recuperado após um descanso curto ou longo."
+      }
+    }
+  },
+  {
+    "id": 39,
+    "effects": {
+      "Contusão": {
+        "title": "Joelho Deslocado",
+        "description": "Dano Crítico, e o alvo sofre -3 nas jogadas que utilizam Destreza, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Trespassada",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano igual ao seu modificador de Inteligência vezes dois (mínimo 2)."
+      },
+      "Cortante": {
+        "title": "Braço Dilacerado",
+        "description": "Dano Crítico, e o alvo solta um item que tiver segurando, e não pode usar aquele braço, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Vulnerabilidade Mágica",
+        "description": "Dano Crítico, e o alvo tem vulnerabilidade a dano mágico, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 40,
+    "effects": {
+      "Contusão": {
+        "title": "Sangue Espirrado",
+        "description": "Dano Crítico, e outro inimigo adjacente a você fica marcado, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Intestino Perfurado",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica envenenado, até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Tecido Exposto",
+        "description": "Dano Crítico, e o alvo sofre pontos de dano igual à soma de seus modificadores de Força e Destreza (mínimo 2)."
+      },
+      "Mágico": {
+        "title": "Vulnerabilidade Física",
+        "description": "Dano Crítico, e o alvo tem vulnerabilidade a dano de contusão, perfurante e cortante, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 41,
+    "effects": {
+      "Contusão": {
+        "title": "Tíbia Quebrada",
+        "description": "Dano Crítico, e o alvo não pode realizar uma \"Disparada\", até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Fraqueza Temporária",
+        "description": "Dano Crítico, e todo dano que o alvo causar é reduzido pela metade, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Preso na Lâmina",
+        "description": "Dano Crítico, e se o o alvo for de uma categoria de tamanho igual ou menor que a sua, fica agarrado. Soltar a arma encerra essa condição."
+      },
+      "Mágico": {
+        "title": "Resistência Física",
+        "description": "Dano Crítico, e você tem resistência a dano de contusão, perfurante e cortante, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 42,
+    "effects": {
+      "Contusão": {
+        "title": "Miolo Solto",
+        "description": "Dano Crítico, e o alvo se esquece aleatoriamente de um idioma que conhece, até realizar um descanso longo."
+      },
+      "Perfurante": {
+        "title": "Testa Marcada",
+        "description": "Dano Crítico, e o alvo fica marcado, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Investida Intimidadora",
+        "description": "Dano Crítico, e o alvo não consegue te atacar, até o início de seu próximo turno."
+      },
+      "Mágico": {
+        "title": "Resistência Mágica",
+        "description": "Dano Crítico, e você tem resistência a dano mágico, até o início de seu próximo turno."
+      }
+    }
+  },
+  {
+    "id": 43,
+    "effects": {
+      "Contusão": {
+        "title": "Roxo de Pancada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Destreza CD 15. Se falhar, fica marcado, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Entre as Costelas",
+        "description": "Dano Crítico, e todas as jogadas de ataques contra esse alvo, que resultarem em 19 ou mais natural, é um acerto crítico, até o fim do encontro."
+      },
+      "Cortante": {
+        "title": "Dedos Amputados",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade em testes de Força (Atletismo)."
+      },
+      "Mágico": {
+        "title": "Sensibilidade Auditiva",
+        "description": "Dano Crítico, e o alvo tem vulnerabilidade a dano trovejante, até receber tratamento."
+      }
+    }
+  },
+  {
+    "id": 44,
+    "effects": {
+      "Contusão": {
+        "title": "Hemorragia Interna",
+        "description": "Dano Crítico, e o próximo descanso curto do alvo apenas recupera metade dos pontos de vida, com as rolagens dos dados de vida."
+      },
+      "Perfurante": {
+        "title": "Nervo Pinçado",
+        "description": "Dano Crítico, e o alvo não pode mais realizar jogadas com vantagem, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "Orelha Amputada",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade em testes de Carisma (Persuasão) e tem +1 de bônus em testes de Carisma (Intimidação)."
+      },
+      "Mágico": {
+        "title": "Tratamento de Choque",
+        "description": "Dano Crítico, e o alvo escolhe entre ter um defeito substituído por outro, à sua escolha, ou sofrer 5 (1d10) pontos de dano psíquico."
+      }
+    }
+  },
+  {
+    "id": 45,
+    "effects": {
+      "Contusão": {
+        "title": "Empolgado",
+        "description": "Dano Crítico, e você tem uma ação bônus extra, até o fim do turno."
+      },
+      "Perfurante": {
+        "title": "Até o Cabo",
+        "description": "Dano Crítico, e se optar por soltar a sua arma, pode realizar um novo ataque contra o mesmo alvo. A arma permanece presa no alvo, até ser removida."
+      },
+      "Cortante": {
+        "title": "Nariz Amputado",
+        "description": "Dano Crítico, e o alvo sofre -3 de penalidade em testes de Carisma (Persuasão) e tem +3 de bônus em testes de Carisma (Intimidação)."
+      },
+      "Mágico": {
+        "title": "Recarga Mágica",
+        "description": "Dano Crítico, e o espaço de sua magia não é gasto."
+      }
+    }
+  },
+  {
+    "id": 46,
+    "effects": {
+      "Contusão": {
+        "title": "Dedão Esmagado",
+        "description": "Dano Crítico, e o alvo tem desvantagem em jogadas de ataque físico, até o início de seu próximo turno."
+      },
+      "Perfurante": {
+        "title": "Antecipar",
+        "description": "Dano Crítico, e você pode usar sua ação bônus para realizar um \"Preparar\" ."
+      },
+      "Cortante": {
+        "title": "Slijo de Sangue",
+        "description": "Dano Crítico, e você recebe inspiração."
+      },
+      "Mágico": {
+        "title": "Solo Deformado",
+        "description": "Dano Crítico, e todo o terreno onde a magia atingiu é considerado terreno difícil."
+      }
+    }
+  },
+  {
+    "id": 47,
+    "effects": {
+      "Contusão": {
+        "title": "Pé Esmagado",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, tem seu deslocamento reduzido pela metade, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Membro Atravessado",
+        "description": "Dano Crítico, e o alvo sofre -2 de penalidade nas jogadas que utilizam Destreza, até realizar um descanso curto ou longo."
+      },
+      "Cortante": {
+        "title": "Cheiro de Sangue",
+        "description": "Dano Crítico, e uma criatura que você pode ver recebe inspiração."
+      },
+      "Mágico": {
+        "title": "Pulso Mágico",
+        "description": "Dano Crítico, e o alvo é empurrado 3 metros ou 2 quadrados para trás e fica caído."
+      }
+    }
+  },
+  {
+    "id": 48,
+    "effects": {
+      "Contusão": {
+        "title": "Derrame Ocular",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 15. Se falhar, fica cego, até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Cravada nas Costas",
+        "description": "Dano Crítico, e o alvo sofre -3 de penalidade nas jogadas que utilizam Força, até o início de seu próximo turno."
+      },
+      "Cortante": {
+        "title": "Perna Decepada",
+        "description": "Dano Crítico, e o alvo faz um teste de resistência de Constituição CD 10. Se falhar, tem seu deslocamento reduzido pela metade."
+      },
+      "Mágico": {
+        "title": "Sobrevida Arcana",
+        "description": "Dano Crítico, e você recebe pontos de vida temporários igual ao seu nível de personagem, ou nível de desafio (mínimo 1), multiplicado por 2."
+      }
+    }
+  },
+  {
+    "id": 49,
+    "effects": {
+      "Contusão": {
+        "title": "Joelho Destruído",
+        "description": "Dano Crítico, e o alvo tem seu deslocamento reduzido em 1,5 metro (1 quadrado), até receber tratamento."
+      },
+      "Perfurante": {
+        "title": "Rosto Retalhado",
+        "description": "Dano Crítico, e o alvo sofre -3 de penalidade em testes de Carisma (Persuasão) e tem +3 de bônus em testes de Carisma (Intimidação), até receber tratamento."
+      },
+      "Cortante": {
+        "title": "Tendão Rompido",
+        "description": "Dano Crítico, e a iniciativa do alvo é sempre igual a 0, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Magia Perfurante",
+        "description": "Dano Crítico, e o alvo automaticamente falha no teste de resistência da magia, ou sua magia é conjurada em um nível superior."
+      }
+    }
+  },
+  {
+    "id": 50,
+    "effects": {
+      "Contusão": {
+        "title": "Dentes Perdidos",
+        "description": "Dano Crítico, e o alvo sofre -1 de penalidade em testes de Carisma (Persuasão) e tem +1 de bônus em testes de Carisma (Intimidação)."
+      },
+      "Perfurante": {
+        "title": "Sede de Sangue",
+        "description": "Dano Crítico, e você pode realizar uma nova jogada de ataque com desvantagem, ou mover seu deslocamento."
+      },
+      "Cortante": {
+        "title": "Corte Doloroso",
+        "description": "Dano Crítico, e o alvo apenas pode realizar uma ação ou se mover, até receber tratamento."
+      },
+      "Mágico": {
+        "title": "Alteração Mental",
+        "description": "Dano Crítico, e o alvo escolhe entre ter um ideal substituído por outro, à sua escolha, ou sofrer 5 (1d10) pontos de dano psíquico."
+      }
+    }
+  }
+]

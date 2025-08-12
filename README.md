@@ -1,16 +1,58 @@
-# Run and deploy your AI Studio app
+# Rolador de Acerto Crítico
 
-This contains everything you need to run your app locally.
+O Rolador de Acerto Crítico é uma ferramenta online projetada para mestres e jogadores de RPG de mesa. Ele automatiza a rolagem de acertos críticos e Erros Críticos, adicionando um elemento de surpresa e emoção às suas sessões de jogo.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1I09VdsSnW75ep4fy5M3kF0VjP48S8fVT?showPreview=true&showCode=true&showAssistant=true
+## Funcionalidades
 
-## Run Locally
+- **Modos de Rolagem**: Alterne facilmente entre os modos "Acerto Crítico" e "Erro Crítico" com um único clique.
+- **Seleção de Dano**: Escolha o tipo de dano (Contusão, Perfurante, Cortante ou Mágico) para obter resultados personalizados.
+- **Resultados Detalhados**: Cada rolagem gera um resultado único e descritivo, com um título e uma descrição do efeito.
+- **Animações e Sons**: Desfrute de uma experiência imersiva com animações de rolagem e efeitos sonoros.
+- **Regras Acessíveis**: Consulte as regras de acerto crítico e erro crítico diretamente na aplicação.
 
-**Prerequisites:**  Node.js
+## Tecnologias Utilizadas
 
+- **React**: Uma biblioteca JavaScript para criar interfaces de usuário.
+- **TypeScript**: Um superconjunto de JavaScript que adiciona tipagem estática.
+- **Tailwind CSS**: Um framework CSS utilitário para estilização rápida e responsiva.
+- **Framer Motion**: Uma biblioteca de animação para React.
+- **Vite**: Uma ferramenta de build moderna e rápida para desenvolvimento web.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Como Executar Localmente
+
+Para executar o projeto em sua máquina local, siga os passos abaixo:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/nihilboy1/CriticalRoller.git
+   ```
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd CriticalRoller
+   ```
+3. **Instale as dependências:**
+   ```bash
+   npm install
+   ```
+4. **Inicie o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+5. **Abra o navegador e acesse:**
+   [http://localhost:5173](http://localhost:5173)
+
+## Estrutura do Projeto
+
+O projeto está organizado da seguinte forma:
+
+- `public/`: Contém os arquivos estáticos, como fontes e os dados das cartas em formato JSON.
+- `src/`: Contém o código-fonte da aplicação.
+  - `components/`: Componentes React reutilizáveis.
+  - `constants/`: Constantes utilizadas na aplicação, como ícones e sons.
+  - `hooks/`: Hooks personalizados do React.
+  - `utils/`: Funções utilitárias.
+- `types.ts`: Definições de tipos do TypeScript.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver alguma ideia para melhorar a aplicação, sinta-se à vontade para abrir uma issue ou enviar um pull request.
