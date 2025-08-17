@@ -26,6 +26,8 @@ export const useGameLogic = () => {
   const { play: playSelect } = useSound(SOUNDS.TYPE_SELECT);
   const { play: playHit } = useSound(SOUNDS.HIT_REVEAL);
   const { play: playFumble } = useSound(SOUNDS.FUMBLE_REVEAL);
+  const { play: playTrayOpen } = useSound(SOUNDS.TRAY_OPEN);
+  const { play: playTrayClose } = useSound(SOUNDS.TRAY_CLOSE);
 
   const handleModeChange = useCallback(
     (newMode: Mode) => {
@@ -86,6 +88,14 @@ export const useGameLogic = () => {
     ]
   );
 
+  const handleTrayOpen = useCallback(() => {
+    playTrayOpen();
+  }, [playTrayOpen]);
+
+  const handleTrayClose = useCallback(() => {
+    playTrayClose();
+  }, [playTrayClose]);
+
   return {
     mode,
     selectedType,
@@ -95,6 +105,8 @@ export const useGameLogic = () => {
     handleModeChange,
     handleTypeSelect,
     handleRoll,
+    handleTrayOpen,
+    handleTrayClose,
     criticalHitCards,
     criticalFumbleCards,
   };

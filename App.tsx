@@ -1,14 +1,15 @@
-import React, { useRef } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { SoundProvider } from 'react-sounds';
-import { useGameLogic } from './src/hooks/useGameLogic';
-import DamageTypeSelector from './src/components/DamageTypeSelector';
-import FumbleTypeSelector from './src/components/FumbleTypeSelector';
-import ResultCard from './src/components/ResultCard';
-import Rules from './src/components/Rules';
-import Header from './src/components/Header';
-import ModeSwitcher from './src/components/ModeSwitcher';
-import RollButton from './src/components/RollButton';
+import React, { useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { SoundProvider } from "react-sounds";
+import { useGameLogic } from "./src/hooks/useGameLogic";
+import DamageTypeSelector from "./src/components/DamageTypeSelector";
+import FumbleTypeSelector from "./src/components/FumbleTypeSelector";
+import ResultCard from "./src/components/ResultCard";
+import AllResultsList from "./src/components/AllResultsList";
+import Rules from "./src/components/Rules";
+import Header from "./src/components/Header";
+import ModeSwitcher from "./src/components/ModeSwitcher";
+import RollButton from "./src/components/RollButton";
 
 const AppContent: React.FC = () => {
   const {
@@ -29,9 +30,9 @@ const AppContent: React.FC = () => {
   const isRollButtonDisabled = isRolling || !selectedType;
 
   const mainBgClass =
-    mode === 'hit'
-      ? 'bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(132,204,22,0.15),rgba(255,255,255,0))]'
-      : 'bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(239,68,68,0.15),rgba(255,255,255,0))]';
+    mode === "hit"
+      ? "bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(132,204,22,0.15),rgba(255,255,255,0))]"
+      : "bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(239,68,68,0.15),rgba(255,255,255,0))]";
 
   return (
     <main
@@ -47,10 +48,10 @@ const AppContent: React.FC = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            transition={{ duration: 0.3, ease: 'easeInOut' }}
+            transition={{ duration: 0.3, ease: "easeInOut" }}
             className="w-full flex justify-center"
           >
-            {mode === 'hit' ? (
+            {mode === "hit" ? (
               <DamageTypeSelector
                 selectedType={selectedType}
                 onSelect={handleTypeSelect}
@@ -76,14 +77,21 @@ const AppContent: React.FC = () => {
         <ResultCard
           ref={resultCardRef}
           mode={mode}
-          card={mode === 'hit' ? drawnHitCard : drawnFumbleCard}
+          card={mode === "hit" ? drawnHitCard : drawnFumbleCard}
           selectedType={selectedType}
           isRolling={isRolling}
           cardCount={
-            mode === 'hit'
+            mode === "hit"
               ? criticalHitCards.length
               : criticalFumbleCards.length
           }
+        />
+
+        <AllResultsList
+          mode={mode}
+          selectedType={selectedType}
+          cards={mode === "hit" ? criticalHitCards : criticalFumbleCards}
+          isRolling={isRolling}
         />
       </div>
 
