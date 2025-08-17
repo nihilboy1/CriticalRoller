@@ -856,7 +856,7 @@
       },
       "Mágico": {
         "title": "MORMAÇO",
-        "description": "Toda a região em um raio de 5 km é tomada por \"Calor Extremo\" (GdM p. 110), até você realizar um descanso longo."
+        "description": "Toda a região em um raio de 1km é tomada por calor muito forte, durante 1 hora."
       }
     }
   },
