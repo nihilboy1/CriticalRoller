@@ -3,20 +3,20 @@
     "id": 1,
     "effects": {
       "Contusão": {
-        "title": "OFENSA COLETIVA",
-        "description": "Faça um teste de Carisma CD 15. Se falhar, fica marcado, até que o alvo esteja morto, derrotado, ou fora do seu alcance."
+        "title": "Ofensa Coletiva",
+        "description": "Suas palavras saem distorcidas e carregadas de um insulto acidental que ecoa pelo campo de batalha. || Mecânica: Você fica marcado até passar em um Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante), o alvo estar morto, derrotado ou fora do seu alcance."
       },
       "Perfurante": {
-        "title": "MÁ PONTARIA",
-        "description": "Uma criatura aleatória mais distante do alvo se torna o novo alvo."
+        "title": "Má Pontaria",
+        "description": "Um tremor involuntário no pulso desvia o curso do seu ataque para longe do alvo original. || Mecânica: Uma criatura aleatória mais distante do alvo se torna o novo alvo."
       },
       "Cortante": {
-        "title": "ENJOADO",
-        "description": "Você fica envenenado, até o fim do encontro."
+        "title": "Corte no Próprio Dedo",
+        "description": "Ao ajustar a pegada, você sente o fio da lâmina morder sua própria mão. || Mecânica: Você fica envenenado (pela dor e choque) até o fim do encontro ou receber tratamento."
       },
       "Mágico": {
-        "title": "FENDA MÁGICA",
-        "description": "Você é teleportado para o local mais próximo adjacente ao alvo."
+        "title": "Fenda Mágica",
+        "description": "O tecido da realidade se rasga sob seus pés, sugando-o para um vácuo momentâneo. || Mecânica: Você é teleportado para o local mais próximo adjacente ao alvo."
       }
     }
   },
@@ -24,20 +24,20 @@
     "id": 2,
     "effects": {
       "Contusão": {
-        "title": "PULSO TORCIDO",
-        "description": "Suas jogadas de ataque corpo a corpo perdem o bônus de proficiência, até o fim do encontro."
+        "title": "Pulso Torcido",
+        "description": "O impacto seco contra a defesa do inimigo reverbera dolorosamente pelos seus ossos. || Mecânica: Suas jogadas de ataque corpo a corpo perdem o bônus de proficiência até o fim do encontro ou receber tratamento."
       },
       "Perfurante": {
-        "title": "ATRAPALHADO",
-        "description": "Toda sua munição cai no chão."
+        "title": "Atrapalhado",
+        "description": "Ao tentar sacar um projétil, seus dedos escorregam e o porta-munição se abre completamente. || Mecânica: Toda sua munição cai no chão."
       },
       "Cortante": {
-        "title": "GUARDA BAIXA",
-        "description": "A próxima jogada de ataque realizada contra você tem vantagem."
+        "title": "Guarda Baixa",
+        "description": "O peso da sua arma o arrasta para frente, deixando seu peito totalmente exposto por um instante. || Mecânica: A próxima jogada de ataque realizada contra você tem vantagem."
       },
       "Mágico": {
-        "title": "ENERGIA DRENADA",
-        "description": "Você perde um espaço de magia aleatório."
+        "title": "Energia Drenada",
+        "description": "Um refluxo arcano consome a centelha mística que você estava prestes a liberar. || Mecânica: Você perde um espaço de magia aleatório."
       }
     }
   },
@@ -45,20 +45,20 @@
     "id": 3,
     "effects": {
       "Contusão": {
-        "title": "ESCAPULIU",
-        "description": "Sua arma cai no chão atrás do alvo."
+        "title": "Escapuliu",
+        "description": "O suor ou o sangue fazem sua arma deslizar das mãos no momento do impacto. || Mecânica: Sua arma cai no chão em um ponto aleatório a 1,5m de você."
       },
       "Perfurante": {
-        "title": "AGORA É PESSOAL",
-        "description": "Você fica marcado apenas pelo alvo, até que ele esteja morto, derrotado, ou fora do seu alcance."
+        "title": "Agora é Pessoal",
+        "description": "Um olhar de puro ódio é trocado entre você e o inimigo, criando um vínculo de fúria cega. || Mecânica: Você fica marcado apenas pelo alvo até que ele esteja morto, derrotado ou fora do seu alcance."
       },
       "Cortante": {
-        "title": "FOI DE ENCONTRO",
-        "description": "A arma do alvo causa dano em você. Na ausência de uma arma, você sofre pontos de dano igual ao seu nível de personagem, ou nível de desafio (mínimo 1)."
+        "title": "Foi de Encontro",
+        "description": "O oponente antecipa seu movimento e usa sua própria força para lançá-lo contra a lâmina dele. || Mecânica: A arma do alvo causa dano em você. Na ausência de uma arma, você sofre dano igual ao seu nível de personagem ou ND (mínimo 1)."
       },
       "Mágico": {
-        "title": "MAGIA INVERTIDA",
-        "description": "A magia recupera pontos de vida do alvo ao invés de causar dano."
+        "title": "Magia Invertida",
+        "description": "As runas de destruição se reorganizam no ar, emitindo um brilho verde de cura sobre o oponente. || Mecânica: A magia recupera pontos de vida do alvo em vez de causar dano."
       }
     }
   },
@@ -66,20 +66,20 @@
     "id": 4,
     "effects": {
       "Contusão": {
-        "title": "PIRIRI",
-        "description": "Você tem desvantagem em testes de Carisma, até realizar um descanso curto ou longo."
+        "title": "Choque no Estômago",
+        "description": "O impacto contra o inimigo faz seu próprio corpo retroceder, comprimindo seu diafragma e causando um desconforto agudo. || Mecânica: Você tem desvantagem em testes de Carisma até realizar um descanso curto ou longo."
       },
       "Perfurante": {
-        "title": "CALCANHAR DO AMIGO",
-        "description": "Um aliado aleatório mais próximo ao alvo perde um dado de vida."
+        "title": "Calcanhar do Amigo",
+        "description": "O projétil ou ponta da arma desvia de forma errática, atingindo o ponto cego de um companheiro. || Mecânica: Um aliado aleatório mais próximo ao alvo perde um dado de vida."
       },
       "Cortante": {
-        "title": "FRESCURA",
-        "description": "Seus ataques causam metade do dano, até o fim de seu próximo turno."
+        "title": "Lâmina Presa",
+        "description": "Sua lâmina se enterra fundo demais em uma superfície próxima, exigindo esforço para soltar. || Mecânica: Seus ataques causam metade do dano até o fim de seu próximo turno ou receber tratamento."
       },
       "Mágico": {
-        "title": "KA-GA'DA",
-        "description": "Um aliado aleatório fica marcado, até que o alvo esteja morto, derrotado, ou fora do seu alcance."
+        "title": "Ka-ga'da",
+        "description": "A energia mágica descontrolada salta de suas mãos e envolve um amigo, tornando-o o centro das atenções. || Mecânica: Um aliado aleatório fica marcado até que o alvo esteja morto, derrotado ou fora do alcance."
       }
     }
   },
@@ -87,20 +87,20 @@
     "id": 5,
     "effects": {
       "Contusão": {
-        "title": "TODO TORTO",
-        "description": "Seu ataque acerta você mesmo, causando metade do dano."
+        "title": "Todo Torto",
+        "description": "Sua arma ricocheteia no escudo do inimigo e volta diretamente contra seu próprio corpo. || Mecânica: Seu ataque acerta você mesmo, causando metade do dano."
       },
       "Perfurante": {
-        "title": "PERDA DE CONFIANÇA",
-        "description": "Você possui desvantagem em jogadas contra esse alvo, até o fim do encontro."
+        "title": "Perda de Confiança",
+        "description": "A precisão do inimigo o deixa intimidado, fazendo suas mãos tremerem toda vez que o encara. || Mecânica: Você possui desvantagem em jogadas contra esse alvo até o fim do encontro ou receber tratamento."
       },
       "Cortante": {
-        "title": "PÉ TORCIDO",
-        "description": "Seu deslocamento cai pela metade, até o fim do encontro."
+        "title": "Músculo Distendido",
+        "description": "Ao desferir um arco amplo, você sente um músculo da perna repuxar com violência. || Mecânica: Seu deslocamento cai pela metade até o fim do encontro ou receber tratamento."
       },
       "Mágico": {
-        "title": "QUEDA DE RESISTÊNCIA",
-        "description": "Você tem desvantagem em testes de resistência contra magia, até o fim do encontro."
+        "title": "Queda de Resistência",
+        "description": "Uma aura de azar místico se instala sobre você, dissipando suas defesas naturais. || Mecânica: Você tem desvantagem em testes de resistência contra magia até o fim do encontro ou receber tratamento."
       }
     }
   },
@@ -108,20 +108,20 @@
     "id": 6,
     "effects": {
       "Contusão": {
-        "title": "DEFECADA NA CALÇA",
-        "description": "Qualquer criatura com olfato, e que estiver a 1,5 metro (1 quadrado) de distância de você, fica envenenada, até o início de seu próximo turno."
+        "title": "Esforço Excessivo",
+        "description": "O esforço físico bruto para esmagar o oponente causa um relaxamento muscular indesejado. || Mecânica: Qualquer criatura com olfato a 1,5 metro de você fica envenenada até o início de seu próximo turno."
       },
       "Perfurante": {
-        "title": "MÃO MOLE",
-        "description": "Sua arma cai no chão."
+        "title": "Mão Mole",
+        "description": "Seus dedos perdem a sensibilidade por um segundo e o cabo da arma escorrega. || Mecânica: Sua arma cai no chão."
       },
       "Cortante": {
-        "title": "BATIDA NO ESTÔMAGO",
-        "description": "Você regurgita sua última refeição."
+        "title": "Corte Superficial no Rosto",
+        "description": "Sua própria arma ricocheteia e raspa sua testa, o sangue escorre e atrapalha sua visão. || Mecânica: Você fica cego até passar em um Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "CANSAÇO MENTAL",
-        "description": "Sua habilidade de conjuração perde o bônus de proficiência nos ataques e CD, até o fim do encontro."
+        "title": "Cansaço Mental",
+        "description": "Um zumbido insuportável invade sua mente, drenando sua concentração arcana. || Mecânica: Sua habilidade de conjuração perde o bônus de proficiência em ataques e CD até o fim do encontro ou receber tratamento."
       }
     }
   },
@@ -129,20 +129,20 @@
     "id": 7,
     "effects": {
       "Contusão": {
-        "title": "ATRAÇÃO PELO SOLO",
-        "description": "Você fica caído."
+        "title": "Atração pelo Solo",
+        "description": "O peso do seu próprio golpe o desequilibra, fazendo o chão parecer subitamente muito atraente. || Mecânica: Você fica caído."
       },
       "Perfurante": {
-        "title": "DANCINHA RIDÍCULA",
-        "description": "Faça um teste de Carisma CD 15. Se falhar, você se torna o alvo predileto dos inimigos que possam te ver, até o início de seu próximo turno."
+        "title": "Dancinha Ridícula",
+        "description": "Ao tentar recuperar o equilíbrio, você executa uma série de passos desengonçados que atraem todos os olhares. || Mecânica: Você se torna o alvo predileto dos inimigos que podem vê-lo até passar em um Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante) ou seu próximo turno."
       },
       "Cortante": {
-        "title": "ERROU BONITO",
-        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Sofra pontos de dano iguais ao seu bônus de proficiência."
+        "title": "Errou Bonito",
+        "description": "Sua lâmina ignora o inimigo e se enterra com fúria em um objeto sólido próximo. || Mecânica: Acerta um objeto não mágico aleatório. Sofra dano igual ao seu bônus de proficiência pelo impacto."
       },
       "Mágico": {
-        "title": "MAGIA TRAIÇOEIRA",
-        "description": "Você se torna o novo alvo."
+        "title": "Magia Traiçoeira",
+        "description": "O feitiço faz uma curva impossível no ar e decide que você é um alvo muito mais interessante. || Mecânica: Você se torna o novo alvo da magia."
       }
     }
   },
@@ -150,20 +150,20 @@
     "id": 8,
     "effects": {
       "Contusão": {
-        "title": "BRAÇO QUEBRADO",
-        "description": "Você só pode usar uma das mãos, até receber tratamento."
+        "title": "Braço Quebrado",
+        "description": "Um estalo seco e uma dor lancinante indicam que o osso não aguentou o estresse do combate. || Mecânica: Você só pode usar uma das mãos até receber tratamento."
       },
       "Perfurante": {
-        "title": "NÃO ERA BEM ISSO",
-        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Ele é empurrado 1d10 metros (1d6 quadrados)."
+        "title": "Não era Bem Isso",
+        "description": "O projétil atravessa a tapeçaria ou acerta um suporte, causando um deslocamento inesperado no cenário. || Mecânica: Objeto aleatório é empurrado 1d10 metros."
       },
       "Cortante": {
-        "title": "CHOQUE NO NERVO",
-        "description": "Sua próxima ação não pode ser uma jogada de ataque."
+        "title": "Ferimento Latejante",
+        "description": "Um corte mal calculado faz seu braço tremer, impedindo novos movimentos ofensivos. || Mecânica: Sua próxima ação não pode ser uma jogada de ataque."
       },
       "Mágico": {
-        "title": "CEGUEIRA ARCANA",
-        "description": "Uma criatura aleatória mais próxima de você se torna o novo alvo."
+        "title": "Cegueira Arcana",
+        "description": "Um flash de luz negra queima suas retinas espirituais, impedindo-o de focar no inimigo. || Mecânica: Uma criatura aleatória mais próxima de você se torna o novo alvo."
       }
     }
   },
@@ -171,20 +171,20 @@
     "id": 9,
     "effects": {
       "Contusão": {
-        "title": "ESTILHAÇOS",
-        "description": "Seu ataque acerta um objeto aleatório, não mágico, e de uma categoria de tamanho igual ou menor que a sua. Ele é destruído."
+        "title": "Estilhaços",
+        "description": "Seu golpe esmaga a estrutura próxima, lançando pedaços de madeira e pedra para todos os lados. || Mecânica: Objeto aleatório não mágico de seu tamanho ou menor é destruído."
       },
       "Perfurante": {
-        "title": "DESCONCENTRADO",
-        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas à distância."
+        "title": "Desconcentrado",
+        "description": "Uma gota de suor ou um inseto entra em seu olho no exato momento do disparo. || Mecânica: Penalidade de -5 na próxima jogada de ataque à distância ou receber tratamento."
       },
       "Cortante": {
-        "title": "EGO FERIDO",
-        "description": "Você não pode atacar outro alvo, até que esse esteja morto, derrotado ou fora do seu alcance."
+        "title": "Fúria Humilhada",
+        "description": "A humilhação do erro faz você focar toda sua raiva apenas naquele que o fez falhar. || Mecânica: Você não pode atacar outro alvo até que este esteja derrotado ou fora de alcance."
       },
       "Mágico": {
-        "title": "ALVO NA TESTA",
-        "description": "Um aliado aleatório mais próximo ao alvo fica marcado, até o fim do encontro."
+        "title": "Alvo na Testa",
+        "description": "Uma marca rúnica brilhante e pulsante surge sobre um de seus aliados, atraindo a fome do inimigo. || Mecânica: Um aliado aleatório fica marcado até o fim do encontro."
       }
     }
   },
@@ -192,20 +192,20 @@
     "id": 10,
     "effects": {
       "Contusão": {
-        "title": "ARMA DANIFICADA",
-        "description": "Sua arma não mágica tem seu dado de dano reduzido em um, até ser reparada."
+        "title": "Arma Empenada",
+        "description": "O metal range e se deforma, perdendo o equilíbrio ideal após o impacto mal calculado. || Mecânica: Arma não mágica tem dado de dano reduzido em um nível até ser reparada."
       },
       "Perfurante": {
-        "title": "VERTIGEM",
-        "description": "Toda vez que você se mover, fica envenenado  até o início de seu próximo turno, até o fim do encontro."
+        "title": "Vertigem",
+        "description": "O mundo começa a girar e as cores se misturam, tornando cada passo um desafio ao seu estômago. || Mecânica: Toda vez que se mover, fica envenenado até o início do seu próximo turno."
       },
       "Cortante": {
-        "title": "FALTA DE ALONGAMENTO",
-        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas naturais."
+        "title": "Rasgão na Roupa",
+        "description": "Sua lâmina prende no seu próprio equipamento, limitando seus movimentos naturais. || Mecânica: Penalidade de -5 na próxima jogada de ataque com armas naturais ou receber tratamento."
       },
       "Mágico": {
-        "title": "TRANSFERÊNCIA DE PODER",
-        "description": "A próxima jogada de ataque que o alvo realizar será um ACERTO CRÍTICO."
+        "title": "Transferência de Poder",
+        "description": "O fluxo de mana se inverte, agindo como um condutor de energia que fortalece o oponente. || Mecânica: A próxima jogada de ataque do alvo será um Acerto Crítico."
       }
     }
   },
@@ -213,20 +213,20 @@
     "id": 11,
     "effects": {
       "Contusão": {
-        "title": "ARMADURA DANIFICADA",
-        "description": "Você sofre -1 de penalidade na CA com sua armadura, até ela ser reparada."
+        "title": "Armadura Danificada",
+        "description": "Uma fivela se rompe ou uma placa se desloca, deixando uma brecha perigosa em sua defesa. || Mecânica: Penalidade de -1 na CA enquanto usar essa armadura, até ser reparada."
       },
       "Perfurante": {
-        "title": "TUDO QUE VAI, VOLTA",
-        "description": "O alvo pode realizar um ataque de oportunidade à distância contra você"
+        "title": "Tudo que Vai, Volta",
+        "description": "Sua hesitação dá ao inimigo a brecha perfeita para um contra-ataque rápido e preciso. || Mecânica: O alvo pode realizar um ataque de oportunidade à distância contra você."
       },
       "Cortante": {
-        "title": "EMPURRÃO",
-        "description": "Você é empurrado para trás 1d6 metros (1d4 quadrados)."
+        "title": "Rechaçado",
+        "description": "A força do seu golpe é repelida com tanta eficácia que você é jogado para trás. || Mecânica: Você é empurrado 1d6 metros (1d4 quadrados)."
       },
       "Mágico": {
-        "title": "KLONAGEM ARCANA",
-        "description": "Sua magia cria um clone do alvo, o mais próximo dele possível, com apenas 1 ponto de vida máximo."
+        "title": "Klonagem Arcana",
+        "description": "A magia residual se condensa na forma do seu inimigo, criando uma miragem física e hostil. || Mecânica: Cria um clone do alvo com 1 PV no espaço adjacente mais próximo."
       }
     }
   },
@@ -234,20 +234,20 @@
     "id": 12,
     "effects": {
       "Contusão": {
-        "title": "MÃO FRACA",
-        "description": "Sua arma cai no chão acertando seu dedão. Você sofre 1 ponto de dano."
+        "title": "Mão Fraca",
+        "description": "A arma escorrega e o cabo atinge em cheio o seu pé, esmagando seus dedos. || Mecânica: Arma cai e você sofre dano igual ao seu bônus de proficiência."
       },
       "Perfurante": {
-        "title": "PROJÉTIL DE CHUMBO",
-        "description": "O chão, onde se encontra um aliado aleatório mais próximo ao alvo, cede, se tornando terreno difícil. Aquele aliado fica caído."
+        "title": "Projétil de Chumbo",
+        "description": "Seu disparo atinge o solo sob um companheiro, fazendo a terra ceder em uma armadilha natural. || Mecânica: Solo sob um aliado vira terreno difícil e ele fica caído."
       },
       "Cortante": {
-        "title": "FLUÍDO NO OLHO",
-        "description": "Faça um teste de resistência de Destreza CD 15. Se falhar, fica cego, até o fim de seu próximo turno."
+        "title": "Sangue no Olho",
+        "description": "Um corte lateral espirra sangue diretamente em suas pupilas, nublando sua visão. || Mecânica: Você fica cego até passar em um Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
       },
       "Mágico": {
-        "title": "PARALISIA MÁGICA",
-        "description": "Você fica paralisado, até uma criatura encostar em você."
+        "title": "Paralisia Mágica",
+        "description": "Correntes de energia azulada travam suas articulações, transformando-o em uma estátua viva. || Mecânica: Fica paralisado até uma criatura tocar em você ou receber tratamento."
       }
     }
   },
@@ -255,20 +255,20 @@
     "id": 13,
     "effects": {
       "Contusão": {
-        "title": "CRÍTICO NO CHÃO",
-        "description": "Você fica cego, até o início de seu próximo turno."
+        "title": "Crítico no Chão",
+        "description": "O impacto contra o solo levanta uma nuvem de poeira e faíscas que queimam seus olhos. || Mecânica: Você fica cego até o início do seu próximo turno ou receber tratamento."
       },
       "Perfurante": {
-        "title": "AÇÃO E REAÇÃO",
-        "description": "Você é deslocado 1,5 metro (1 quadrado) para trás e fica caído."
+        "title": "Ação e Reação",
+        "description": "A física trabalha contra você; o recuo ou o impacto o joga desajeitadamente para trás. || Mecânica: Deslocado 1,5 metro para trás e fica caído."
       },
       "Cortante": {
-        "title": "ENROSCADO",
-        "description": "Você não pode mais se afastar desse alvo, até um dos dois sofrer dano."
+        "title": "Enroscado",
+        "description": "Sua roupa ou armadura se prende nos espinhos ou correias do equipamento do inimigo. || Mecânica: Não pode se afastar do alvo até um dos dois sofrer dano."
       },
       "Mágico": {
-        "title": "PERTURBAÇÃO MÁGICA",
-        "description": "Você adquire a fobia \"Cenosillicafobia\" e passa a ter medo paralisante e irracional de ver copos (principalmente de bebidas alcoólicas) vazios."
+        "title": "Sede Irracional",
+        "description": "Sua mente é invadida por uma visão terrível de tabernas vazias e sede eterna. || Mecânica: Adquire fobia de ver copos vazios até o próximo descanso."
       }
     }
   },
@@ -276,20 +276,20 @@
     "id": 14,
     "effects": {
       "Contusão": {
-        "title": "ENFERRUJADO",
-        "description": "Você sofre -5 de penalidade na próxima jogada de ataque com armas corpo a corpo."
+        "title": "Enferrujado",
+        "description": "Suas articulações parecem travar, como se o ferro em seu sangue tivesse se tornado sólido. || Mecânica: Penalidade de -5 no próximo ataque corpo a corpo ou receber tratamento."
       },
       "Perfurante": {
-        "title": "DESCOORDENADO",
-        "description": "Faça um teste de Destreza CD 15. Se falhar, deixa sua arma e/ou toda sua munição cair no chão."
+        "title": "Descoordenado",
+        "description": "Seu cérebro envia o comando, mas suas mãos agem como se nunca tivessem segurado uma arma antes. || Mecânica: Você deixa cair sua arma e munição no chão, a menos que passe em um Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
-        "title": "CANSEIRA",
-        "description": "Você perde um dado de vida. Na ausência de um, sofra pontos de dano iguais ao seu bônus de proficiência."
+        "title": "Esgotamento",
+        "description": "Uma fadiga súbita drena suas energias vitais, deixando-o ofegante e vulnerável. || Mecânica: Perde um dado de vida (ou sofre dano igual à proficiência)."
       },
       "Mágico": {
-        "title": "EXAUSTÃO MENTAL",
-        "description": "Você não pode conjurar magias, até o fim de seu próximo turno."
+        "title": "Exaustão Mental",
+        "description": "O esforço arcano foi grande demais, deixando seus circuitos mentais temporariamente fritos. || Mecânica: Não pode conjurar magias até o fim do próximo turno ou receber tratamento."
       }
     }
   },
@@ -297,20 +297,20 @@
     "id": 15,
     "effects": {
       "Contusão": {
-        "title": "DESAJEITADO",
-        "description": "Você sofre -1 de penalidade nas jogadas de ataque com armas corpo a corpo, até o fim do encontro."
+        "title": "Desajeitado",
+        "description": "Seus movimentos perdem a fluidez marcial, tornando-se lentos e previsíveis. || Mecânica: Penalidade de -1 em ataques corpo a corpo até o fim do encontro ou receber tratamento."
       },
       "Perfurante": {
-        "title": "COMO SE USA ISSO?",
-        "description": "Sua próxima jogada de ataque à distância é feita sem o bônus de proficiência."
+        "title": "Dúvida Cruel",
+        "description": "A mecânica da sua arma parece um enigma insolúvel por um breve instante. || Mecânica: Próximo ataque à distância sem bônus de proficiência."
       },
       "Cortante": {
-        "title": "DOR AGUDA",
-        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, não pode realizar ataques com armas naturais, até o fim de seu próximo turno."
+        "title": "Tendão Repuxado",
+        "description": "Um espasmo doloroso percorre seus músculos ao tentar um movimento natural. || Mecânica: Você não pode usar armas naturais até passar em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
       },
       "Mágico": {
-        "title": "INJEÇÃO MÁGICA",
-        "description": "O alvo realiza um novo turno nessa rodada, logo após o seu."
+        "title": "Injeção Mágica",
+        "description": "Um surto de adrenalina mágica é transferido acidentalmente para o sistema do seu inimigo. || Mecânica: O alvo realiza um novo turno imediatamente após o seu."
       }
     }
   },
@@ -318,20 +318,20 @@
     "id": 16,
     "effects": {
       "Contusão": {
-        "title": "OLÉ ABSURDO",
-        "description": "Se ainda te restou deslocamento, você se move até ficar do lado oposto do alvo e fica caído."
+        "title": "Olé Absurdo",
+        "description": "O inimigo esquiva de forma tão humilhante que você acaba tropeçando além dele. || Mecânica: Move-se até o lado oposto do alvo e fica caído."
       },
       "Perfurante": {
-        "title": "TREMEDEIRA",
-        "description": "Você sofre -1 de penalidade nas jogadas de ataque à distância, até o fim do encontro."
+        "title": "Tremedeira",
+        "description": "O frio da batalha ou o medo causam um tremor persistente em seus dedos. || Mecânica: Penalidade de -1 em ataques à distância até o fim do encontro ou receber tratamento."
       },
       "Cortante": {
-        "title": "TROCA DE GENTILEZAS",
-        "description": "Você provoca um ataque de oportunidade do alvo."
+        "title": "Provocação Acidental",
+        "description": "Ao falhar, você abre uma brecha que o inimigo não pode ignorar. || Mecânica: Provoca um ataque de oportunidade do alvo."
       },
       "Mágico": {
-        "title": "EXPLOSÃO ARCANA",
-        "description": "O dano da magia é distribuído igualmente para todas as criaturas dentro de um raio de 9 metros (6 quadrados) de você."
+        "title": "Explosão Arcana",
+        "description": "A magia explode prematuramente em suas mãos, espalhando energia para todos os lados. || Mecânica: Dano distribuído igualmente entre todas as criaturas em um raio de 9 metros."
       }
     }
   },
@@ -339,20 +339,20 @@
     "id": 17,
     "effects": {
       "Contusão": {
-        "title": "FALTA DE FIRMEZA",
-        "description": "Faça um teste de Força CD 15. Se falhar, sua arma cai no chão."
+        "title": "Falta de Firmeza",
+        "description": "A empunhadura da sua arma parece subitamente pesada e escorregadia demais. || Mecânica: Sua arma cai no chão, a menos que passe em um Teste de Resistência de Força CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "VITIMISMO",
-        "description": "Você vira um poço de sentimentos negativos, até acertar um ataque."
+        "title": "Insegurança",
+        "description": "Você começa a se questionar se realmente nasceu para ser um herói. || Mecânica: Não pode receber Inspiração até tratamento."
       },
       "Cortante": {
-        "title": "DORMÊNCIA",
-        "description": "Sua próxima jogada de ataque com arma natural é feita sem o bônus de proficiência."
+        "title": "Mão Dormente",
+        "description": "A vibração do golpe para a circulação em seus dedos, deixando suas garras inúteis. || Mecânica: Próximo ataque com arma natural sem bônus de proficiência ou receber tratamento."
       },
       "Mágico": {
-        "title": "CONTATO EXTRA PLANAR",
-        "description": "Um de seus itens mágicos fica com uma \"Propriedade Prejudicial Menor\" (GdM p. 221)."
+        "title": "Corrupção de Item",
+        "description": "Uma voz de outra dimensão sussurra segredos proibidos, corrompendo um de seus pertences. || Mecânica: Um item adquire uma 'Propriedade Prejudicial Menor'."
       }
     }
   },
@@ -360,20 +360,20 @@
     "id": 18,
     "effects": {
       "Contusão": {
-        "title": "MOVIMENTO ERRADO",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, um aliado adjacente a você se torna o novo alvo."
+        "title": "Confusão Espacial",
+        "description": "Sua percepção espacial falha e você confunde a silhueta de um amigo com a do inimigo. || Mecânica: Você acerta um aliado adjacente, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "DEDO QUEBRADO",
-        "description": "Você sofre -2 de penalidade nas jogadas de ataque ao usar aquela mão, até receber tratamento."
+        "title": "Dedo Travado",
+        "description": "Ao puxar o gatilho ou corda, seu dedo fica preso e estala de forma audível. || Mecânica: Penalidade de -2 no ataque com aquela mão até tratamento."
       },
       "Cortante": {
-        "title": "ALERGIA",
-        "description": "O alvo causa rinite em você. Testes de Sabedoria (Percepção) têm desvantagem, até você realizar um descando curto ou longo."
+        "title": "Hemorragia Menor",
+        "description": "Um corte na própria perna faz o sangue escorrer, distraindo sua atenção. || Mecânica: Desvantagem em Percepção até um descanso curto ou longo."
       },
       "Mágico": {
-        "title": "MANIFESTAÇÃO ESPIRITUAL",
-        "description": "Seu principal item abriga um espírito aconselhador de alinhamento oposto ao seu. Só você pode ouvi-lo."
+        "title": "Objeto Assombrado",
+        "description": "Um fantasma tagarela decide que seu elmo ou cajado é a nova morada dele. || Mecânica: Item abriga espírito de alinhamento oposto; só você o ouve."
       }
     }
   },
@@ -381,20 +381,20 @@
     "id": 19,
     "effects": {
       "Contusão": {
-        "title": "DESLIZE DE PERCURSO",
-        "description": "Um aliado aleatório adjacente a você perde um dado de vida. Na ausência de um, ele sofre pontos de dano iguais ao bônus de proficiência dele."
+        "title": "Trombada no Amigo",
+        "description": "Seu pé resvala e você esbarra com força em um companheiro, tirando o fôlego dele. || Mecânica: Aliado adjacente perde um dado de vida (ou sofre dano igual à proficiência)."
       },
       "Perfurante": {
-        "title": "INTIMIDADO",
-        "description": "Faça um teste de resistência de Carisma CD 15. Se falhar, fica marcado pelo alvo, até o fim do encontro."
+        "title": "Vulnerável",
+        "description": "A presença do inimigo se torna esmagadora, fazendo você se sentir pequeno e frágil. || Mecânica: Você fica marcado pelo alvo até passar em um Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante) ou o fim do encontro."
       },
       "Cortante": {
-        "title": "MEMBRO DESLOCADO",
-        "description": "Esse ataque não pode ser mais realizado, a não que você gaste uma ação e sofra pontos de dano iguais ao seu bônus de proficiência."
+        "title": "Ombro Deslocado",
+        "description": "O ombro sai do lugar com um estalo horrendo após um golpe excessivamente forte. || Mecânica: Gasta ação e sofre dano igual à proficiência para usar o ataque de novo ou receber tratamento."
       },
       "Mágico": {
-        "title": "PERSEGUIÇÃO DIVINA",
-        "description": "Uma divindade de seu Reino, e de alinhamento oposto ao seu, não te quer bem."
+        "title": "Olhar Divino",
+        "description": "Um raio de luz negra desce dos céus; você irritou alguém muito poderoso lá em cima. || Mecânica: Uma divindade oposta passa a observá-lo com desdém."
       }
     }
   },
@@ -402,20 +402,20 @@
     "id": 20,
     "effects": {
       "Contusão": {
-        "title": "LAPSO ATENÇÃO",
-        "description": "Faça um teste de resistência de Inteligência CD 15. Se falhar, no seu próximo turno tem desvantagem em uma jogada."
+        "title": "Distração Fatal",
+        "description": "Sua mente divaga para o que você vai jantar, deixando-o vulnerável por um momento crucial. || Mecânica: Você tem desvantagem na próxima jogada, a menos que passe em um Teste de Resistência de Inteligência CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "JOELHO TORCIDO",
-        "description": "Você sofre 1 ponto de dano toda vez que você iniciar seu movimento, até receber tratamento."
+        "title": "Cãibra no Joelho",
+        "description": "A cartilagem protesta com uma pontada aguda a cada passo que você tenta dar. || Mecânica: Sofre bônus de proficiência em dano toda vez que iniciar movimento até tratamento."
       },
       "Cortante": {
-        "title": "FRATURA EXPOSTA",
-        "description": "Você sofre 2 pontos de dano para cada nível de personagem, ou nível de desafio (mínimo 1). Aquele membro não pode ser utilizado, até receber tratamento."
+        "title": "Membro Debilitado",
+        "description": "O osso rompe a pele em uma cena sangrenta que o impede de agir com eficiência. || Mecânica: Sofre 2 pontos de dano por nível. Membro inutilizável até tratamento."
       },
       "Mágico": {
-        "title": "RISO INCONTROLÁVEL",
-        "description": "Você é infectado com a doença \"Febre Tagarelante\" (GdM p. 257)."
+        "title": "Febre Arcana",
+        "description": "Uma cólica de riso histérico e febril domina seus pulmões. || Mecânica: Infectado com a doença 'Febre Tagarelante' ou receber tratamento."
       }
     }
   },
@@ -423,20 +423,20 @@
     "id": 21,
     "effects": {
       "Contusão": {
-        "title": "BRECHA NA DEFESA",
-        "description": "Faça um teste de Destreza CD 15. Se falhar, você provoca um ataque de oportunidade do alvo."
+        "title": "Brecha na Defesa",
+        "description": "Você se estica demais no ataque, deixando o inimigo sorridente com a oportunidade. || Mecânica: Você provoca um ataque de oportunidade, a menos que passe em um Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "OPS!",
-        "description": "Um aliado aleatório mais próximo ao alvo solta o que estiver segurando nas mãos. Ele sofre pontos de dano iguais ao bônus de proficiência dele."
+        "title": "Virote Amigo",
+        "description": "Sua flecha ou virote passa zunindo e atinge a mão de um amigo, fazendo-o soltar tudo. || Mecânica: Aliado solta o que segura e sofre dano igual à proficiência."
       },
       "Cortante": {
-        "title": "TORNOZELO TORCIDO",
-        "description": "Seu movimento só pode ser realizado em linha reta, até o fim do encontro."
+        "title": "Rigidez",
+        "description": "Seus ligamentos falham e você só consegue caminhar de forma rígida e limitada. || Mecânica: Movimento apenas em linha reta até o fim do encontro ou receber tratamento."
       },
       "Mágico": {
-        "title": "LESEIRA",
-        "description": "Você é infectado com a doença \"Praga do Esgoto\" (GdM p. 257)."
+        "title": "Mente de Lodo",
+        "description": "Seus pensamentos ficam lentos e viscosos, como se estivessem mergulhados em lama. || Mecânica: Infectado com a doença 'Praga do Esgoto' ou receber tratamento."
       }
     }
   },
@@ -444,20 +444,20 @@
     "id": 22,
     "effects": {
       "Contusão": {
-        "title": "ASSUSTADO",
-        "description": "Faça um teste de resistência de Carisma CD 15. Se falhar, fica amedrontado pelo alvo, até o fim do encontro."
+        "title": "Pavor",
+        "description": "Um grito de guerra do inimigo faz seu coração disparar e seus instintos mandarem você correr. || Mecânica: Você fica amedrontado pelo alvo até passar em um Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
       },
       "Perfurante": {
-        "title": "TENSÃO MUSCULAR",
-        "description": "A distância de seus ataques à distância cai pela metade, até receber tratamento."
+        "title": "Encurtado",
+        "description": "Suas fibras musculares travam, impedindo-o de esticar o arco ou arremessar com força. || Mecânica: Alcance de ataques à distância cai pela metade até tratamento."
       },
       "Cortante": {
-        "title": "TOCA AQUI!",
-        "description": "Você e um aliado aleatório adjacente sofrem 1 ponto de dano. Ele solta o que estiver segurando em uma das mãos."
+        "title": "Impacto Cruzado",
+        "description": "No meio da confusão, você acaba batendo as mãos com um aliado de forma desastrosa. || Mecânica: Você e aliado sofrem bônus de proficiência em dano; ele solta um item."
       },
       "Mágico": {
-        "title": "OLHOS DE SANGUE",
-        "description": "Você é infectado com a doença \"Decomposição Ocular\" (GdM p. 257)."
+        "title": "Visão Turva",
+        "description": "Venas estouram em seus olhos, transformando sua visão em um borrão carmesim. || Mecânica: Infectado com a doença 'Decomposição Ocular' ou receber tratamento."
       }
     }
   },
@@ -465,20 +465,20 @@
     "id": 23,
     "effects": {
       "Contusão": {
-        "title": "HIPOCONDRÍACO",
-        "description": "Você só pode usar novamente sua ação se reclamar exageradamente de alguma dor no seu corpo, até receber cura mágica."
+        "title": "Apatia Combativa",
+        "description": "Você se convence de que aquele arranhão foi um ferimento mortal e hesita em agir. || Mecânica: Só pode realizar ações se um aliado usar o bônus de proficiência dele como cura ou incentivo."
       },
       "Perfurante": {
-        "title": "FRAQUEZA",
-        "description": "Faça um teste de Força CD 15. Se falhar, fica caído, e só pode se levantar no próximo turno."
+        "title": "Joelhos de Gelatina",
+        "description": "Suas pernas perdem a sustentação, como se fossem feitas de gelatina. || Mecânica: Você fica caído e só levanta no próximo turno, a menos que passe em um Teste de Resistência de Força CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
-        "title": "DOR NAS COSTAS",
-        "description": "Você não consegue realizar um descanso curto, até receber tratamento."
+        "title": "Coluna Travada",
+        "description": "Um nervo pinçado em sua coluna torna qualquer tentativa de repouso um suplício. || Mecânica: Não consegue realizar descanso curto até tratamento."
       },
       "Mágico": {
-        "title": "MENTE FERRADA",
-        "description": "Você adquire uma \"Loucura de Curto Prazo\" (GdM p. 260), até realizar um descando curto ou longo."
+        "title": "Mente Fragmentada",
+        "description": "Sua consciência se fragmenta em mil pedaços coloridos e desconexos. || Mecânica: Adquire 'Loucura de Curto Prazo' até um descanso ou receber tratamento."
       }
     }
   },
@@ -486,20 +486,20 @@
     "id": 24,
     "effects": {
       "Contusão": {
-        "title": "DESARMADO",
-        "description": "O alvo fica em posse de sua arma. (Se quiser recuperar sua arma, veja \"Desarmar\" no GdM p. 272.)"
+        "title": "Desarmado",
+        "description": "Com um movimento ágil, o oponente arranca a arma de suas mãos e a exibe como um troféu. || Mecânica: Alvo fica em posse de sua arma."
       },
       "Perfurante": {
-        "title": "FALTA DE AR",
-        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, fica atordoado, até o fim de seu próximo turno."
+        "title": "Sufoco",
+        "description": "O impacto ou o susto faz seus pulmões esquecerem como funcionam por alguns segundos. || Mecânica: Você fica atordoado até passar em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante) ou o fim do próximo turno."
       },
       "Cortante": {
-        "title": "LIGAMENTO ROMPIDO",
-        "description": "Você sofre 1 ponto de dano para cada nível de personagem, ou nível de desafio (mínimo 1). Aquele membro não pode ser utilizado, até receber tratamento."
+        "title": "Ligamento Rompido",
+        "description": "Um som de tecido rasgando ecoa de sua articulação, seguido de uma imobilidade gélida. || Mecânica: Sofre dano igual à sua proficiência por turno. Membro inutilizável até tratamento."
       },
       "Mágico": {
-        "title": "ZUMBIDO AGUDO",
-        "description": "Você fica surdo, até o fim do encontro."
+        "title": "Zumbido Agudo",
+        "description": "Uma frequência mágica altíssima invade seus ouvidos, abafando qualquer outro som. || Mecânica: Fica surdo até o fim do encontro ou receber tratamento."
       }
     }
   },
@@ -507,20 +507,20 @@
     "id": 25,
     "effects": {
       "Contusão": {
-        "title": "LESÃO MUSCULAR",
-        "description": "Todas as suas jogadas que usam a Destreza sofrem -1 de penalidade, até receber tratamento."
+        "title": "Reflexos Lentos",
+        "description": "Seus reflexos tornam-se pesados, como se estivesse lutando sob a água. || Mecânica: Penalidade de -1 em jogadas de Destreza até tratamento."
       },
       "Perfurante": {
-        "title": "FALTA DE ESTRATÉGIA",
-        "description": "Faça um teste de Inteligência CD 15. Se falhar, você se esquece de alguma estratégia criada para esse encontro."
+        "title": "Amnésia Tática",
+        "description": "Sua mente fica branca; o plano perfeito que você tinha desapareceu completamente. || Mecânica: Você esquece uma estratégia do encontro, a menos que passe em um Teste de Resistência de Inteligência CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
-        "title": "TAPA NA CARA",
-        "description": "A iniciativa do seu alvo passa a ser logo depois da sua. Ele tem vantagem na próxima jogada de ataque natural contra você."
+        "title": "Humilhação",
+        "description": "O oponente lhe desfere uma bofetada humilhante que o deixa desorientado e furioso. || Mecânica: Iniciativa do alvo passa para logo após a sua; ele ganha vantagem no próximo ataque natural contra você."
       },
       "Mágico": {
-        "title": "MUDANÇA DE SEXO",
-        "description": "Faça um teste de resistência de Constituição CD 10. Se falhar, as características físicas sexuais de sua raça invertem."
+        "title": "Metamorfose Selvagem",
+        "description": "A energia de transmutação residual reconstrói sua biologia em um piscar de olhos. || Mecânica: Sua aparência muda drasticamente por 1d4 horas, a menos que passe em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante)."
       }
     }
   },
@@ -528,20 +528,20 @@
     "id": 26,
     "effects": {
       "Contusão": {
-        "title": "NÃO FUI EU, FOI ELE!",
-        "description": "Um aliado aleatório adjacente ao alvo provoca um ataque de oportunidade do alvo."
+        "title": "Culpado",
+        "description": "Você aponta para um aliado como distração, mas o oponente aproveita para atacá-lo com fúria. || Mecânica: Aliado adjacente ao alvo provoca ataque de oportunidade do mesmo."
       },
       "Perfurante": {
-        "title": "PRECISO MATAR!",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize o ataque mais forte possível contra um alvo inimigo mais fraco."
+        "title": "Instinto Predador",
+        "description": "Uma sede de sangue irracional domina seus sentidos, focando no elo mais fraco da corrente. || Mecânica: No seu próximo turno, você realiza o ataque mais forte contra o alvo mais fraco, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
-        "title": "OSSO TRINCADO",
-        "description": "Todas as suas jogadas que usam a Força sofrem -1 de penalidade, até receber tratamento."
+        "title": "Fissura Óssea",
+        "description": "Uma fissura em seu osso torna cada esforço físico uma tortura latejante. || Mecânica: Penalidade de -1 em jogadas de Força até tratamento."
       },
       "Mágico": {
-        "title": "REFORÇO MÁGICO",
-        "description": "O alvo fica imune a qualquer condição, até o fim do encontro."
+        "title": "Aura de Proteção",
+        "description": "Seu feitiço envolve o oponente em uma película protetora impenetrável. || Mecânica: Alvo fica imune a condições até o fim do encontro."
       }
     }
   },
@@ -549,20 +549,20 @@
     "id": 27,
     "effects": {
       "Contusão": {
-        "title": "ACERTO SIMULTÂNEO",
-        "description": "Seu ataque acerta o alvo normalmente, mas o alvo rola o dano de um ataque básico contra você."
+        "title": "Impacto Recíproco",
+        "description": "Vocês se atingem ao mesmo tempo, em uma troca de golpes brutal e pouco técnica. || Mecânica: Acerta o alvo, mas ele realiza um ataque básico contra você no mesmo instante."
       },
       "Perfurante": {
-        "title": "DOR NA LOMBAR",
-        "description": "Seu deslocamento cai para 1,5 metro (1 quadrado), até receber tratamento."
+        "title": "Lombar Travada",
+        "description": "Um mau jeito ao disparar ou golpear trava suas costas em uma posição rígida. || Mecânica: Deslocamento cai para 1,5 metro até tratamento."
       },
       "Cortante": {
-        "title": "TROPEÇO",
-        "description": "Faça um teste de resistência de Destreza CD 15. Se falhar, fica caído."
+        "title": "Tropeço",
+        "description": "Seu pé se enrosca em um detrito ou na própria bota, levando-o ao chão. || Mecânica: Você fica caído, a menos que passe em um Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "SIM SALABIM",
-        "description": "O alvo fica invisível, até você sofrer dano ou encontro acabar."
+        "title": "Desvanecer",
+        "description": "O oponente simplesmente desaparece de vista, envolto em uma névoa de invisibilidade. || Mecânica: Alvo fica invisível até você sofrer dano ou o encontro acabar."
       }
     }
   },
@@ -570,20 +570,20 @@
     "id": 28,
     "effects": {
       "Contusão": {
-        "title": "COSTELA FRATURADA",
-        "description": "Você sofre 1 ponto de dano a cada jogada de ataque que realizar, até receber tratamento."
+        "title": "Costela Trincada",
+        "description": "Cada respiração e cada golpe fazem as pontas de suas costelas espetarem seus pulmões. || Mecânica: Sofre 1 ponto de dano por ataque realizado até tratamento."
       },
       "Perfurante": {
-        "title": "TORÇÃO NO BRAÇO",
-        "description": "Você sofre 1 ponto de dano para cada nível de personagem, ou nível de desafio (mínimo 1)."
+        "title": "Tendinite",
+        "description": "Seus tendões esticam além do limite, causando um choque doloroso pelo membro. || Mecânica: Sofre bônus de proficiência em dano."
       },
       "Cortante": {
-        "title": "GIRATÓRIA DE TAPA",
-        "description": "Todas as criaturas adjacentes a você sofrem pontos de dano iguais ao seu bônus de proficiência, exceto o alvo."
+        "title": "Giro Descontrolado",
+        "description": "Você perde o controle da arma e começa a girar, atingindo tudo ao seu redor. || Mecânica: Criaturas adjacentes (exceto o alvo) sofrem dano igual à sua proficiência."
       },
       "Mágico": {
-        "title": "SANGUE FORTE",
-        "description": "O alvo tem vantagem em testes de resistência contra magia, até o fim do encontro."
+        "title": "Imunidade Arcana",
+        "description": "O organismo do seu oponente absorve a magia e cria anticorpos arcanos instantâneos. || Mecânica: Alvo tem vantagem em resistências contra magia até o fim do encontro."
       }
     }
   },
@@ -591,20 +591,20 @@
     "id": 29,
     "effects": {
       "Contusão": {
-        "title": "INIMIGO MARCIAL",
-        "description": "Você troca de lugar com o alvo e fica caído."
+        "title": "Permuta",
+        "description": "O oponente usa sua própria inércia para trocarem de posição, deixando-o desorientado. || Mecânica: Troca de lugar com o alvo e fica caído."
       },
       "Perfurante": {
-        "title": "ANSIEDADE",
-        "description": "Você não pode se mover sem antes realizar uma jogada de ataque à distância, até receber tratamento."
+        "title": "Inércia",
+        "description": "A pressão de acertar o próximo tiro o impede de sequer conseguir andar direito. || Mecânica: Não pode se mover sem antes atacar à distância até tratamento."
       },
       "Cortante": {
-        "title": "ERRO DE JULGAMENTO",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, o alvo não é mais uma ameaça para você, até você sofrer algum dano."
+        "title": "Subestimação",
+        "description": "Você se convence de que o oponente desistiu de lutar, baixando completamente sua guarda. || Mecânica: Você ignora o alvo como ameaça até sofrer dano dele, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "ESTÁTUA!",
-        "description": "Você fica petrificado, até o início de seu próximo turno."
+        "title": "Petrificação Momento",
+        "description": "Sua pele e roupas se tornam pedra fria e cinzenta por um momento eterno. || Mecânica: Fica petrificado até o início do seu próximo turno ou receber tratamento."
       }
     }
   },
@@ -612,20 +612,20 @@
     "id": 30,
     "effects": {
       "Contusão": {
-        "title": "ENVERGONHADO",
-        "description": "Seu ataque gera uma cena ridícula e você fica com um \"Transtorno de Personalidade Antissocial\", até receber tratamento."
+        "title": "Apatia Social",
+        "description": "Sua falha é tão ridícula que você sente o peso do julgamento de todos ao redor. || Mecânica: Penalidade de -2 em testes sociais até o próximo descanso ou tratamento."
       },
       "Perfurante": {
-        "title": "QUICADA NA CABEÇA",
-        "description": "A iniciativa do seu alvo passa a ser logo depois da sua. Ele tem vantagem na próxima jogada de ataque contra você."
+        "title": "Ricochete Próprio",
+        "description": "Sua arma ou munição bate no alvo e ricocheteia no seu próprio crânio. || Mecânica: Alvo age após você e tem vantagem no próximo ataque contra você."
       },
       "Cortante": {
-        "title": "XÊNIO",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, faça uma aposta idiota contra esse alvo."
+        "title": "Aposta Imprudente",
+        "description": "Uma confiança estúpida toma conta de você, levando-o a desafiar o oponente para algo absurdo. || Mecânica: Você faz uma aposta idiota contra o alvo, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "EGERNÉTIK",
-        "description": "O alvo fica acelerado como na Magia \"Velocidade\", até o fim do encontro."
+        "title": "Aceleração Alvo",
+        "description": "O tempo parece desacelerar para o seu oponente, dando-lhe reflexos sobre-humanos. || Mecânica: Alvo recebe efeito de 'Velocidade' até o fim do encontro."
       }
     }
   },
@@ -633,20 +633,20 @@
     "id": 31,
     "effects": {
       "Contusão": {
-        "title": "PROVOCAÇÃO",
-        "description": "A iniciativa do seu alvo passa a ser logo depois da sua."
+        "title": "Liderança Perdida",
+        "description": "Sua falha dá ao oponente a confiança necessária para ditar o ritmo do combate. || Mecânica: A iniciativa do alvo passa para logo após a sua."
       },
       "Perfurante": {
-        "title": "NERVO DO ALIADO",
-        "description": "Um aliado aleatório adjacente ao alvo adquire 1 nível de exaustão ."
+        "title": "Choque de Aliado",
+        "description": "Seu projétil raspa no pescoço de um amigo, deixando-o em estado de choque e fadiga. || Mecânica: Aliado adjacente ao alvo ganha 1 nível de exaustão."
       },
       "Cortante": {
-        "title": "NOJINHO",
-        "description": "Se você não for treinado em Sobrevivência, fica incapacitado, até o início de seu próximo turno."
+        "title": "Enjoo de Sangue",
+        "description": "O odor das entranhas ou fluídos do oponente faz seu estômago dar voltas insuportáveis. || Mecânica: Se não for treinado em Sobrevivência, fica incapacitado até o próximo turno."
       },
       "Mágico": {
-        "title": "MENTE BLOQUEADA",
-        "description": "Você não pode mais fazer essa magia, até realizar um descanso longo."
+        "title": "Bloqueio Mental",
+        "description": "Uma barreira mental se ergue, impedindo-o de acessar as fórmulas necessárias para este feitiço. || Mecânica: Não pode usar esta magia até um descanso longo ou tratamento."
       }
     }
   },
@@ -654,20 +654,20 @@
     "id": 32,
     "effects": {
       "Contusão": {
-        "title": "ALÉM DO LIMITE",
-        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, adquira 1 nível de exaustão ."
+        "title": "Sobrecarga",
+        "description": "Você coloca força demais no golpe, ouvindo seus próprios músculos protestarem com violência. || Mecânica: Você ganha 1 nível de exaustão, a menos que passe em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "FOI DEMAIS",
-        "description": "Você gasta o triplo da munição nesse ataque."
+        "title": "Desperdício",
+        "description": "Sua empolgação faz você descarregar quase toda sua aljava ou pente em um único erro. || Mecânica: Gasta o triplo da munição para este ataque."
       },
       "Cortante": {
-        "title": "PANCADA",
-        "description": "Você fica atordoado, até o fim de seu próximo turno."
+        "title": "Auto-Impacto",
+        "description": "Você acerta a própria cabeça com o cabo da arma ou o escudo. || Mecânica: Fica atordoado até o fim do próximo turno ou receber tratamento."
       },
       "Mágico": {
-        "title": "SÍNDROME DE ESTOCOLMO",
-        "description": "Faça um teste de resistência de Sabedoria CD 15. Se falhar, fica enfeitiçado pelo alvo . Refaça o teste no fim de seu próximo turno."
+        "title": "Encanto Adverso",
+        "description": "O olhar do oponente parece subitamente gentil e compreensivo sob o efeito da sua magia. || Mecânica: Você fica enfeitiçado pelo alvo até passar em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante). Repita o teste ao fim de cada turno seu."
       }
     }
   },
@@ -675,20 +675,20 @@
     "id": 33,
     "effects": {
       "Contusão": {
-        "title": "CÃIBRA NO ABDOME",
-        "description": "Todas as suas jogadas que usam a Força sofrem -1 de penalidade, até o fim do encontro."
+        "title": "Cãibra Central",
+        "description": "Uma dor aguda trava sua musculatura central, impedindo-o de aplicar força total. || Mecânica: Penalidade de -1 em jogadas de Força até o fim do encontro ou receber tratamento."
       },
       "Perfurante": {
-        "title": "ENTORSE NO JOELHO",
-        "description": "Seu deslocamento cai pela metade, até realizar um descanso curto ou longo."
+        "title": "Entorse",
+        "description": "Ao apoiar o peso para disparar, seu joelho cede com um estalo seco. || Mecânica: Deslocamento cai pela metade até um descanso curto ou longo ou receber tratamento."
       },
       "Cortante": {
-        "title": "TE AGARRANDO",
-        "description": "O alvo pode realizar um \"Agarrão\" contra você."
+        "title": "Preso",
+        "description": "Sua arma natural fica presa na armadura ou pele do oponente, permitindo que ele o puxe. || Mecânica: O alvo pode tentar 'Agarrar' você como reação."
       },
       "Mágico": {
-        "title": "INVÓLUCRO MÁGICO",
-        "description": "O alvo fica com resistência a dano mágico, até o fim do encontro."
+        "title": "Pele de Mana",
+        "description": "A energia mágica se cristaliza ao redor do alvo, criando uma segunda pele resistente. || Mecânica: Alvo ganha resistência a dano mágico até o fim do encontro."
       }
     }
   },
@@ -696,20 +696,20 @@
     "id": 34,
     "effects": {
       "Contusão": {
-        "title": "CHOQUE DO GOLPE",
-        "description": "Você fica surdo, até o início de seu próximo turno."
+        "title": "Retorno Sonoro",
+        "description": "A vibração da arma contra a defesa inimiga é tão forte que faz seus ouvidos sangrarem. || Mecânica: Fica surdo até o início do seu próximo turno ou receber tratamento."
       },
       "Perfurante": {
-        "title": "HEADSHOT, NO AMIGO",
-        "description": "Um aliado aleatório mais próximo faz um teste de resistência de Constituição CD 15. Se falhar, fica paralisado, até o fim de seu próximo turno."
+        "title": "Vexame",
+        "description": "Seu disparo encontra o crânio de um aliado, deixando-o vendo estrelas. || Mecânica: Um aliado aleatório fica paralisado até o fim do turno, a menos que passe em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
-        "title": "QUE COISA FEIA!",
-        "description": "Se você não for treinado em Intimidação, fica amedrontado pelo alvo, até o fim de seu próximo turno."
+        "title": "Postura Perdida",
+        "description": "Você percebe que seu ataque foi vergonhosamente ruim e perde toda a dignidade. || Mecânica: Se não for treinado em Intimidação, fica amedrontado pelo alvo até o próximo turno."
       },
       "Mágico": {
-        "title": "CAPA DE GORDURA",
-        "description": "O alvo recebe pontos de vida temporários iguais ao nível da magia multiplicado por 2 (mínimo 1)."
+        "title": "Vigor Alvo",
+        "description": "Um ectoplasma espesso e nutritivo envolve o alvo, fechando suas feridas. || Mecânica: Alvo recebe PV temporários iguais ao dobro do nível da magia."
       }
     }
   },
@@ -717,20 +717,20 @@
     "id": 35,
     "effects": {
       "Contusão": {
-        "title": "ISSO NÃO É PRA MIM!",
-        "description": "Faça um teste de resistência de Sabedoria CD 15. Se falhar, fica incapacitado, até o fim de seu próximo turno."
+        "title": "Choque de Realidade",
+        "description": "O horror do combate o atinge de forma súbita, fazendo-o questionar suas escolhas. || Mecânica: Você fica incapacitado até o fim do próximo turno, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "DESILUDIDO",
-        "description": "Você não pode receber inspiração, até receber tratamento."
+        "title": "Ceticismo",
+        "description": "Você perde a fé em suas habilidades e na competência dos seus companheiros. || Mecânica: Não pode receber Inspiração até o próximo descanso."
       },
       "Cortante": {
-        "title": "CHEGA PRA LÁ",
-        "description": "Se você não for treinado em Atletismo, é empurrado 3 metros (2 quadrados) para trás."
+        "title": "Repulsão",
+        "description": "O oponente o repele com um simples gesto, jogando-o para trás como se você fosse nada. || Mecânica: Se não for treinado em Atletismo, é empurrado 3 metros."
       },
       "Mágico": {
-        "title": "RESISTÊNCIA BAIXA",
-        "description": "Você fica com vulnerabilidade a dano, até o início de seu próximo turno."
+        "title": "Vulnerabilidade",
+        "description": "Suas defesas imunológicas e físicas entram em colapso total por alguns segundos. || Mecânica: Ganha vulnerabilidade a todo dano até seu próximo turno."
       }
     }
   },
@@ -738,20 +738,20 @@
     "id": 36,
     "effects": {
       "Contusão": {
-        "title": "TE ENCONTRANDO",
-        "description": "O alvo pode realizar um \"Encontrão\" contra você."
+        "title": "Investida Adversa",
+        "description": "O oponente percebe sua hesitação e investe contra você com o peso do corpo. || Mecânica: O alvo pode realizar um 'Encontrão' contra você como reação."
       },
       "Perfurante": {
-        "title": "FORMIGAMENTO",
-        "description": "Todas as suas jogadas que usam a Destreza sofrem -1 de penalidade, até o fim do encontro."
+        "title": "Formigamento",
+        "description": "Uma sensação de alfinetadas percorre seus braços, prejudicando sua coordenação fina. || Mecânica: Penalidade de -1 em jogadas de Destreza até o fim do encontro ou receber tratamento."
       },
       "Cortante": {
-        "title": "MORDIDA DO MIKE",
-        "description": "O alvo faz um ataque de mordida em você."
+        "title": "Contra-Ataque Brutal",
+        "description": "Em um momento de selvageria, o oponente avança para arrancar um pedaço de você com os dentes. || Mecânica: O alvo realiza um ataque de mordida imediato."
       },
       "Mágico": {
-        "title": "CASCA GROSSA",
-        "description": "O alvo tem resistência a dano mágico, até o fim do encontro."
+        "title": "Endurecer Alvo",
+        "description": "Sua magia endurece a pele do oponente, tornando-o quase impenetrável ao arcano. || Mecânica: Alvo ganha resistência a dano mágico até o fim do encontro."
       }
     }
   },
@@ -759,20 +759,20 @@
     "id": 37,
     "effects": {
       "Contusão": {
-        "title": "RASTEIRA",
-        "description": "Se você não for treinado em Acrobacia, fica caído."
+        "title": "Desequilíbrio",
+        "description": "Você esquece de onde estão seus próprios pés e acaba se auto-derrubando. || Mecânica: Se não for treinado em Acrobacia, fica caído."
       },
       "Perfurante": {
-        "title": "BEM NO OUVIDO",
-        "description": "Um aliado aleatório mais próximo ao alvo fica surdo, até receber tratamento."
+        "title": "Efeito Estalo",
+        "description": "O estalido do seu disparo ou arma é tão alto que estoura os tímpanos de quem está ao lado. || Mecânica: Aliado adjacente ao alvo fica surdo até tratamento."
       },
       "Cortante": {
-        "title": "UI!",
-        "description": "Você grita \"Ui!\" e coloca essa arma natural na boca. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+        "title": "Morder a Língua",
+        "description": "Sua mandíbula trava de forma dolorosa no momento do golpe. || Mecânica: Sofre bônus de proficiência em dano."
       },
       "Mágico": {
-        "title": "DESLIZE ARCANO",
-        "description": "Você perde mais um espaço desse nível de magia, ou o que estiver restando de outro nível."
+        "title": "Dreno Arcano",
+        "description": "O canal rúnico se rompe, drenando muito mais energia do que o pretendido. || Mecânica: Perde um espaço de magia adicional do mesmo nível ou outro disponível."
       }
     }
   },
@@ -780,20 +780,20 @@
     "id": 38,
     "effects": {
       "Contusão": {
-        "title": "ENTERRADA",
-        "description": "Sua arma fica presa no chão. Um teste bem-sucedido de Força (Atletismo) CD 15 a remove."
+        "title": "Arma Presa",
+        "description": "Você golpeia o solo com tanta força que sua arma fica enterrada até o cabo. || Mecânica: Sua arma fica presa no chão, a menos que passe em um Teste de Força (Atletismo) CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "RICOCHETE",
-        "description": "Sua arma ou munição ricocheteia no alvo e acerta um aliado aleatório, deixando-o atordoado, até o início de seu próximo turno."
+        "title": "Desvio Crítico",
+        "description": "O projétil bate no metal do oponente e volta contra um de seus amigos. || Mecânica: Atinge aliado aleatório, deixando-o atordoado até seu próximo turno ou receber tratamento."
       },
       "Cortante": {
-        "title": "TROMBADA",
-        "description": "Faça um teste de resistência de Constituição CD 10. Se falhar, fica inconsciente, até o início de seu próximo turno."
+        "title": "Impacto Craniano",
+        "description": "Sua cabeça bate contra a do oponente com força excessiva. || Mecânica: Você fica inconsciente até o próximo turno, a menos que passe em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "METALIZAÇÃO",
-        "description": "O alvo tem +5 na CA, até o início de seu próximo turno."
+        "title": "Placas de Ar",
+        "description": "Sua magia transmuta o ar ao redor do oponente em placas de metal flutuantes. || Mecânica: Alvo ganha +5 na CA até o início do seu próximo turno."
       }
     }
   },
@@ -801,20 +801,20 @@
     "id": 39,
     "effects": {
       "Contusão": {
-        "title": "ARRGH!",
-        "description": "Você grita \"Arrgh!\" e chacoalha a mão várias vezes. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+        "title": "Vibração Dolorosa",
+        "description": "O impacto mal calculado faz seus dedos vibrarem dolorosamente. || Mecânica: Sofre bônus de proficiência em dano."
       },
       "Perfurante": {
-        "title": "DISPARO TORTO",
-        "description": "Uma criatura aleatória, até 6 metros (4 quadrados) do alvo, se torna o novo alvo."
+        "title": "Vento Adverso",
+        "description": "O vento ou um erro de cálculo envia seu ataque para uma direção totalmente imprevisível. || Mecânica: Criatura aleatória em um raio de 6 metros vira o novo alvo."
       },
       "Cortante": {
-        "title": "INCONTINÊNCIA URINÁRIA",
-        "description": "Você faz xixi na calça."
+        "title": "Pânico Visceral",
+        "description": "O medo paralisante ou o esforço súbito faz você perder o controle básico de si mesmo. || Mecânica: Você fica envenenado (pela vergonha) até o próximo descanso ou tratamento."
       },
       "Mágico": {
-        "title": "VENTANIA",
-        "description": "Toda a região em um raio de 5 km é tomada por \"Ventos Fortes\" (GdM p. 110), até você realizar um descanso longo."
+        "title": "Clima Alterado",
+        "description": "Um vórtice de vento descontrolado irrompe de você, afetando todo o clima local. || Mecânica: Região (5km) afetada por 'Ventos Fortes' até um descanso longo."
       }
     }
   },
@@ -822,20 +822,20 @@
     "id": 40,
     "effects": {
       "Contusão": {
-        "title": "MÃO SUADA",
-        "description": "Sua arma é arremessada para trás 1d10 metros (1d6 quadrados) de distância."
+        "title": "Escorregão",
+        "description": "A adrenalina faz suas mãos transpirarem e a arma voa longe ao tentar o golpe. || Mecânica: Arma arremessada para trás a uma distância de 1d10 metros."
       },
       "Perfurante": {
-        "title": "POR CIMA DO ALVO",
-        "description": "Uma criatura aleatória mais distante atrás de seu alvo se torna o novo alvo."
+        "title": "Erro de Trajetória",
+        "description": "Seu tiro passa milímetros acima da cabeça do alvo, indo em busca de outra vítima. || Mecânica: Criatura aleatória atrás do alvo original vira o novo alvo."
       },
       "Cortante": {
-        "title": "CHACOALHADA",
-        "description": "1d4 equipamentos aleatórios carregados, e não vestidos, caem no chão."
+        "title": "Equipamento Solto",
+        "description": "Seu movimento brusco faz sua mochila se abrir e seus pertences se espalharem. || Mecânica: 1d4 equipamentos não vestidos caem no chão."
       },
       "Mágico": {
-        "title": "NEVASCA",
-        "description": "Toda a região em um raio de 5 km é tomada por \"Frio Extremo\" (GdM p. 109), até você realizar um descanso longo."
+        "title": "Gelidez",
+        "description": "O calor é sugado para dentro do seu feitiço falho, deixando o ar congelante. || Mecânica: Região (5km) afetada por 'Frio Extremo' até um descanso longo."
       }
     }
   },
@@ -843,20 +843,20 @@
     "id": 41,
     "effects": {
       "Contusão": {
-        "title": "OPORTUNIDADE",
-        "description": "Role 1d20. Se o resultado for maior ou igual a 11, você pode realizar uma ação. Se o resultado for menor que 11, o alvo pode realizar uma ação."
+        "title": "Sincronia",
+        "description": "O tempo parece parar enquanto você e o oponente buscam uma brecha. || Mecânica: Role 1d20. 11+ você age extra; 10- o alvo age extra."
       },
       "Perfurante": {
-        "title": "MAL AÍ",
-        "description": "Você desarma um aliado aleatório adjacente ao alvo. A arma dele cai no chão."
+        "title": "Vexame Tático",
+        "description": "Você acidentalmente bate na arma de um companheiro, fazendo-a voar longe. || Mecânica: Você desarma um aliado aleatório adjacente ao alvo."
       },
       "Cortante": {
-        "title": "LÍNGUA CORTADA",
-        "description": "Você perde parte da língua e não pode falar direito, até receber tratamento."
+        "title": "Silêncio",
+        "description": "Você morde a língua com tanta força que o gosto de ferro invade sua boca. || Mecânica: Não consegue falar com clareza até passar em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "MORMAÇO",
-        "description": "Toda a região em um raio de 1km é tomada por calor muito forte, durante 1 hora."
+        "title": "Onda de Calor",
+        "description": "A energia térmica se acumula ao seu redor, tornando o ar pesado e sufocante. || Mecânica: Calor intenso em raio de 1km durante 1 hora."
       }
     }
   },
@@ -864,20 +864,20 @@
     "id": 42,
     "effects": {
       "Contusão": {
-        "title": "ABRAÇADO",
-        "description": "Você fica agarrado pelo seu alvo."
+        "title": "Contato Indesejado",
+        "description": "Sua tentativa de ataque termina em um contato físico desajeitado. || Mecânica: Você termina o ataque agarrado pelo seu alvo."
       },
       "Perfurante": {
-        "title": "XINGANDO O INIMIGO",
-        "description": "O alvo pode se mover seu deslocamento imediatamente."
+        "title": "Fuga do Alvo",
+        "description": "Suas palavras ou movimentos provocam o oponente a avançar com determinação. || Mecânica: Alvo pode realizar seu deslocamento completo imediatamente."
       },
       "Cortante": {
-        "title": "ESPIRRADA",
-        "description": "Faça um teste de resistência de Constituição CD 15. Se falhar, você fica envenenado, até receber tratamento."
+        "title": "Síncope",
+        "description": "Você espirra com tanta força que o esforço compromete seu sistema interno. || Mecânica: Você fica envenenado até passar em um Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
       },
       "Mágico": {
-        "title": "DILÚVIO",
-        "description": "Toda a região em um raio de 5 km é tomada por \"Precipitação Pesada\" (GdM p. 110), até você realizar um descanso longo."
+        "title": "Tormenta",
+        "description": "As nuvens se fecham instantaneamente e uma chuva torrencial começa a cair. || Mecânica: Região (5km) com 'Precipitação Pesada' até descanso longo."
       }
     }
   },
@@ -885,20 +885,20 @@
     "id": 43,
     "effects": {
       "Contusão": {
-        "title": "BATE E VOLTA",
-        "description": "Você fica atordoado, até o início de seu próximo turno."
+        "title": "Choque de Escudo",
+        "description": "Você atinge a defesa do alvo com tanta força que o recuo atordoa seu próprio cérebro. || Mecânica: Fica atordoado até o início do seu próximo turno ou receber tratamento."
       },
       "Perfurante": {
-        "title": "ERROU POR MUITO",
-        "description": "Um aliado aleatório adjacente ao alvo se torna o novo alvo."
+        "title": "Munição Errante",
+        "description": "Seu erro é tão grosseiro que a munição faz uma parábola e busca um de seus aliados. || Mecânica: Aliado adjacente ao alvo vira o novo alvo do ataque."
       },
       "Cortante": {
-        "title": "CARENTE",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize um \"Agarrão\" contra o alvo."
+        "title": "Apego",
+        "description": "Uma necessidade súbita de proximidade o faz querer segurar o oponente. || Mecânica: No seu próximo turno, sua ação deve ser 'Agarrar' o alvo, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Mágico": {
-        "title": "VISITA À SUA MENTE",
-        "description": "O alvo aprende a fazer essa magia apenas uma vez, sem necessidade de componentes ou foco mágico, até o fim do encontro."
+        "title": "Aprendizado Alvo",
+        "description": "O oponente lê seus pensamentos arcanos e desvenda o segredo da sua magia. || Mecânica: Alvo aprende a magia e pode usá-la uma vez (sem componentes)."
       }
     }
   },
@@ -906,20 +906,20 @@
     "id": 44,
     "effects": {
       "Contusão": {
-        "title": "FAGULHA NO OLHO",
-        "description": "Você fica com sensibilidade à luz solar, e tem desvantagem nas jogadas de ataque e testes de Sabedoria (Percepção), até receber tratamento."
+        "title": "Ofuscamento",
+        "description": "O metal contra metal gera faíscas que queimam suas retinas. || Mecânica: Ganha sensibilidade à luz solar até tratamento."
       },
       "Perfurante": {
-        "title": "AI!",
-        "description": "Você grita \"Ai!\" e dá vários pulinhos. Sofra 1 ponto de dano do mesmo tipo que sua arma causa."
+        "title": "Troca de Dor",
+        "description": "Você pisa em algo pontiagudo no momento do disparo. || Mecânica: Sofre bônus de proficiência em dano."
       },
       "Cortante": {
-        "title": "DE MAU JEITO",
-        "description": "Você sobre pontos de dano iguais ao seu bônus de proficiência."
+        "title": "Espasmo",
+        "description": "Um movimento torcido faz seus músculos estalarem de forma dolorosa. || Mecânica: Sofre dano igual ao seu bônus de proficiência."
       },
       "Mágico": {
-        "title": "SUPRESSÃO MÁGICA",
-        "description": "Todos os efeitos mágicos em você, oriundos de itens e magias, são anulados, até o início de seu próximo turno."
+        "title": "Antimagia",
+        "description": "Um vácuo arcano se forma ao seu redor, apagando as luzes místicas. || Mecânica: Efeitos mágicos de itens e magias anulados até seu próximo turno ou receber tratamento."
       }
     }
   },
@@ -927,20 +927,20 @@
     "id": 45,
     "effects": {
       "Contusão": {
-        "title": "BAIXA ESTIMA",
-        "description": "Você não pode usar inspiração, até receber tratamento."
+        "title": "Melancolia",
+        "description": "Você se sente o pior aventureiro do mundo após este erro. || Mecânica: Não pode receber ou usar Inspiração até tratamento."
       },
       "Perfurante": {
-        "title": "SEM PONTARIA",
-        "description": "Você possui desvantagem no próximo ataque."
+        "title": "Foco Perdido",
+        "description": "O foco desaparece e o alvo parece estar em três lugares ao mesmo tempo. || Mecânica: Desvantagem na sua próxima jogada de ataque."
       },
       "Cortante": {
-        "title": "BOFETADA NA ORELHA",
-        "description": "Um aliado aleatório adjacente a você fica surdo, até o fim do encontro."
+        "title": "Zumbido no Companheiro",
+        "description": "Seu golpe desvia e você acerta a lateral da cabeça de um companheiro. || Mecânica: Aliado adjacente fica surdo até o fim do encontro ou receber tratamento."
       },
       "Mágico": {
-        "title": "VISTA BORRADA",
-        "description": "Você tem 50% de chance de errar um ataque, até receber tratamento."
+        "title": "Manchas Coloridas",
+        "description": "O brilho residual da magia deixa manchas persistentes em sua visão. || Mecânica: 50% de chance de errar qualquer ataque até tratamento."
       }
     }
   },
@@ -948,20 +948,20 @@
     "id": 46,
     "effects": {
       "Contusão": {
-        "title": "VAI NA MÃO!",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, você solta sua(s) arma(s) e luta desarmado contra esse alvo, até que ele esteja morto, derrotado ou fora do seu alcance."
+        "title": "Desprezo",
+        "description": "Sua raiva o faz descartar as armas e querer resolver tudo no braço. || Mecânica: Você solta suas armas e luta desarmado contra este alvo até que ele seja derrotado, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "CISCO NO OLHO",
-        "description": "Você sofre -5 de penalidade nos testes de percepção, até receber tratamento."
+        "title": "Irritação Visual",
+        "description": "Poeira ou areia entram em seus olhos no momento do tiro. || Mecânica: Penalidade de -5 em Percepção até tratamento."
       },
       "Cortante": {
-        "title": "NARIGADA",
-        "description": "Você perde o olfato, até receber tratamento."
+        "title": "Perda Sensorial",
+        "description": "Um impacto no seu rosto o deixa desorientado e sem olfato. || Mecânica: Perde o olfato até receber tratamento."
       },
       "Mágico": {
-        "title": "OBSESSÃO PELO FEITIÇO",
-        "description": "Seus espaços de magia só podem ser utilizados para realizar essa mesma magia, até receber tratamento."
+        "title": "Ciclo Repetitivo",
+        "description": "Sua mente fica presa em um ciclo repetitivo desta mesma fórmula arcana. || Mecânica: Espaços de magia só servem para esta magia até tratamento."
       }
     }
   },
@@ -969,20 +969,20 @@
     "id": 47,
     "effects": {
       "Contusão": {
-        "title": "FARPA NO OLHO",
-        "description": "Um aliado aleatório adjacente a você fica cego, até o início de seu próximo turno."
+        "title": "Estilhaço no Amigo",
+        "description": "Sua arma quebra um pedaço de material que voa direto no olho de um amigo. || Mecânica: Aliado adjacente fica cego até o início do seu próximo turno ou receber tratamento."
       },
       "Perfurante": {
-        "title": "DISTENSÃO MUSCULAR",
-        "description": "Você não pode usar a ação para atacar com armas à distância, até receber tratamento."
+        "title": "Braço Inútil",
+        "description": "Ao disparar, um músculo do seu braço se rasga com a tensão. || Mecânica: Não pode realizar ataques à distância até tratamento."
       },
       "Cortante": {
-        "title": "TONTURA",
-        "description": "Nesse encontro sua iniciativa cai para a última posição. Perca seu próximo turno."
+        "title": "Labirintite",
+        "description": "O mundo começa a pender para os lados e suas pernas tremem. || Mecânica: Iniciativa cai para último e você perde o próximo turno ou receber tratamento."
       },
       "Mágico": {
-        "title": "PROFECIA DO AZAR",
-        "description": "A próxima jogada de ataque ou teste de resistência que fizer resultará em \"1\" natural."
+        "title": "Destino Selado",
+        "description": "As estrelas se alinham contra você e o destino parece selado. || Mecânica: Sua próxima jogada ou resistência será um 1 natural automático."
       }
     }
   },
@@ -990,20 +990,20 @@
     "id": 48,
     "effects": {
       "Contusão": {
-        "title": "STRATEEGIA, STRATÉGI...",
-        "description": "Faça um teste de Sabedoria CD 15. Se falhar, no seu próximo turno realize o ataque mais forte possível contra um alvo inimigo mais próximo."
+        "title": "Instinto Cego",
+        "description": "Você tenta coordenar um plano, mas acaba apenas gritando ordens confusas. || Mecânica: No seu próximo turno, você deve realizar o ataque mais poderoso contra o inimigo mais próximo, a menos que passe em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       },
       "Perfurante": {
-        "title": "PRESO NO CHÃO",
-        "description": "Um aliado aleatório mais próximo ao alvo fica impedido, até o início de seu próximo turno."
+        "title": "Bota Presa",
+        "description": "Seu projétil prende a bota de um aliado no chão. || Mecânica: Aliado mais próximo ao alvo fica impedido até seu próximo turno ou receber tratamento."
       },
       "Cortante": {
-        "title": "EFEITO DOMINÓ",
-        "description": "Você e todos os aliados adjacentes ficam caídos."
+        "title": "Colapso em Cadeia",
+        "description": "Você cai e acaba levando todos os companheiros próximos junto. || Mecânica: Você e todos os aliados adjacentes ficam caídos."
       },
       "Mágico": {
-        "title": "TOCADO POR UNICOLAS",
-        "description": "Seu rosto adquire a aparência de uma fabulosa divindade de rosto humano portando um único chifre em espiral, até fazer uma prece multicolorida em voz alta."
+        "title": "Aspecto Divino",
+        "description": "Seu rosto assume a aparência de uma divindade estranha por um momento. || Mecânica: Aparência muda até realizar uma prece em voz alta."
       }
     }
   },
@@ -1011,20 +1011,20 @@
     "id": 49,
     "effects": {
       "Contusão": {
-        "title": "CÃIBRA NA PERNA",
-        "description": "Seu deslocamento cai pela metade, até receber tratamento."
+        "title": "Cãibra",
+        "description": "Uma contração muscular involuntária trava sua perna. || Mecânica: Deslocamento cai pela metade até receber tratamento."
       },
       "Perfurante": {
-        "title": "FLATULÊNCIA",
-        "description": "O aliado mais próximo de você tem desvantagem no seu próximo ataque."
+        "title": "Distração Olfativa",
+        "description": "Um gás ruidoso e fétido escapa, tirando a concentração de quem está ao lado. || Mecânica: Aliado mais próximo tem desvantagem no próximo ataque."
       },
       "Cortante": {
-        "title": "PÁ, PLUM!",
-        "description": "Você fica inconsciente, até o início de seu próximo turno."
+        "title": "Nocaute Próprio",
+        "description": "Você tropeça e bate a cabeça com força no chão. || Mecânica: Fica inconsciente até o início do seu próximo turno ou receber tratamento."
       },
       "Mágico": {
-        "title": "AVERSÃO INEXPLICÁVEL",
-        "description": "Você adquire a fobia \"Dextrofobia\" e passa a ter medo de objetos do lado direito do corpo e da mão direita."
+        "title": "Pânico Lateral",
+        "description": "Seu lado direito parece subitamente assustador para você. || Mecânica: Você tem desvantagem em ataques usando a mão direita até o próximo descanso."
       }
     }
   },
@@ -1032,20 +1032,20 @@
     "id": 50,
     "effects": {
       "Contusão": {
-        "title": "NEM FEZ CÓCEGAS!",
-        "description": "Você fica amedrontado pelo alvo, até que ele esteja morto, derrotado ou fora do seu alcance."
+        "title": "Terror Próprio",
+        "description": "O oponente simplesmente ri do seu erro, fazendo-o sentir um medo gélido. || Mecânica: Fica amedrontado pelo alvo até ele cair ou sumir."
       },
       "Perfurante": {
-        "title": "ARTICULAÇÃO DOLORIDA",
-        "description": "Você não pode mais usar reações, até receber tratamento."
+        "title": "Rigidez nos Dedos",
+        "description": "Seus dedos travam e você não consegue reagir a tempo. || Mecânica: Não pode realizar reações até receber tratamento."
       },
       "Cortante": {
-        "title": "FADIGADO",
-        "description": "Você adquire 1 nível de exaustão ."
+        "title": "Fadiga",
+        "description": "O esforço acumulado finalmente cobra o seu preço em vigor físico. || Mecânica: Você adquire 1 nível de exaustão."
       },
       "Mágico": {
-        "title": "MEDO EXAGERADO",
-        "description": "Você adquire a fobia \"Estupofobia\" e passa a ter medo de pessoas estúpidas."
+        "title": "Pânico Mental",
+        "description": "A mediocridade de alguém próximo se torna uma ameaça para sua mente. || Mecânica: Você fica incapacitado até passar em um Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante)."
       }
     }
   }
