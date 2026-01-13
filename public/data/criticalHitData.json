@@ -4,19 +4,19 @@
     "effects": {
       "Contusão": {
         "title": "Traqueia Esmagada",
-        "description": "O golpe atinge o pomo de Adão com um estalo seco. O alvo leva as mãos ao pescoço, sufocando enquanto o ar se recusa a entrar. || Mecânica: Dano Crítico; o alvo fica atordoado e não pode falar ou respirar até o início de seu próximo turno."
+        "description": "O golpe atinge o pomo de Adão com um estalo seco. O alvo leva as mãos ao pescoço, sufocando enquanto o ar se recusa a entrar. 🟩 MECÂNICA: Dano Crítico; o alvo fica atordoado e não pode falar ou respirar até o início de seu próximo turno."
       },
       "Perfurante": {
         "title": "Mão Perfurada",
-        "description": "A ponta da arma atravessa o dorso da mão, atingindo nervos vitais. Os dedos se abrem involuntariamente e o objeto que seguravam cai ao chão. || Mecânica: Dano Crítico; o alvo solta um item que tiver segurando e não pode usar aquele membro até o início de seu próximo turno."
+        "description": "A ponta da arma atravessa o dorso da mão, atingindo nervos vitais. Os dedos se abrem involuntariamente e o objeto que seguravam cai ao chão. 🟩 MECÂNICA: Dano Crítico; o alvo solta um item que tiver segurando e não pode usar aquele membro até o início de seu próximo turno."
       },
       "Cortante": {
         "title": "Testa Cortada",
-        "description": "Uma linha vermelha se abre acima dos olhos. O sangue quente escorre rapidamente, inundando a visão do oponente em um véu escarlate. || Mecânica: Dano Crítico; o alvo fica cego até o início de seu próximo turno."
+        "description": "Uma linha vermelha se abre acima dos olhos. O sangue quente escorre rapidamente, inundando a visão do oponente em um véu escarlate. 🟩 MECÂNICA: Dano Crítico; o alvo fica cego até o início de seu próximo turno."
       },
       "Mágico": {
         "title": "Vulnerabilidade Mágica",
-        "description": "A energia arcana sobrecarrega as defesas naturais da criatura, deixando um rastro de eletricidade estática que atrai novos feitiços. || Mecânica: Dano Crítico; o alvo tem vulnerabilidade a dano mágico até o início de seu próximo turno."
+        "description": "A energia arcana sobrecarrega as defesas naturais da criatura, deixando um rastro de eletricidade estática que atrai novos feitiços. 🟩 MECÂNICA: Dano Crítico; o alvo tem vulnerabilidade a dano mágico até o início de seu próximo turno."
       }
     }
   },
@@ -25,19 +25,19 @@
     "effects": {
       "Contusão": {
         "title": "Pancada na Barriga",
-        "description": "Um impacto surdo contra o estômago faz o alvo se curvar. A náusea é instantânea e o corpo rejeita qualquer tentativa de ingestão. || Mecânica: Dano Crítico; o alvo não consegue se alimentar ou ingerir líquidos até receber tratamento."
+        "description": "Um impacto surdo contra o estômago faz o alvo se curvar. A náusea é instantânea e o corpo rejeita qualquer tentativa de ingestão. 🟩 MECÂNICA: Dano Crítico; o alvo não consegue se alimentar ou ingerir líquidos até receber tratamento."
       },
       "Perfurante": {
         "title": "Ciático Pinçado",
-        "description": "A perfuração atinge um ponto nervoso crítico na base do quadril. Uma fisgada aguda desce pela perna, travando os movimentos do alvo. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: fica impedido até receber tratamento."
+        "description": "A perfuração atinge um ponto nervoso crítico na base do quadril. Uma fisgada aguda desce pela perna, travando os movimentos do alvo. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: fica impedido até receber tratamento."
       },
       "Cortante": {
         "title": "Coluna Machucada",
-        "description": "A lâmina rasga os tecidos próximos à espinha. O comando do cérebro para as pernas é interrompido e o alvo desaba como um boneco de pano. || Mecânica: Dano Crítico; o alvo fica caído e não pode se levantar até receber tratamento."
+        "description": "A lâmina rasga os tecidos próximos à espinha. O comando do cérebro para as pernas é interrompido e o alvo desaba como um boneco de pano. 🟩 MECÂNICA: Dano Crítico; o alvo fica caído e não pode se levantar até receber tratamento."
       },
       "Mágico": {
         "title": "Encolhimento",
-        "description": "A estrutura molecular do alvo colapsa sob a pressão arcana, comprimindo-se em uma versão minúscula e frágil de si mesmo. || Mecânica: Dano Crítico; o alvo tem seu tamanho reduzido (como na Magia \"Aumentar/Reduzir\") até receber tratamento."
+        "description": "A estrutura molecular do alvo colapsa sob a pressão arcana, comprimindo-se em uma versão minúscula e frágil de si mesmo. 🟩 MECÂNICA: Dano Crítico; o alvo tem seu tamanho reduzido (como na Magia \"Aumentar/Reduzir\") até receber tratamento."
       }
     }
   },
@@ -46,19 +46,19 @@
     "effects": {
       "Contusão": {
         "title": "Ombro Deslocado",
-        "description": "Um estalo oco ressoa quando o úmero sai do lugar. O braço pendente torna-se inútil para qualquer esforço bruto. || Mecânica: Dano Crítico; o alvo não pode realizar a ação \"Encontrão\" até receber tratamento."
+        "description": "Um estalo oco ressoa quando o úmero sai do lugar. O braço pendente torna-se inútil para qualquer esforço bruto. 🟩 MECÂNICA: Dano Crítico; o alvo não pode realizar a ação \"Encontrão\" até receber tratamento."
       },
       "Perfurante": {
         "title": "Pulmão Perfurado",
-        "description": "Cada respiração agora é um silvo doloroso acompanhado de sangue espumante. O oxigênio escasseia e o cansaço domina os músculos. || Mecânica: Dano Crítico; o alvo adquire 2 níveis de exaustão (removíveis com tratamento)."
+        "description": "Cada respiração agora é um silvo doloroso acompanhado de sangue espumante. O oxigênio escasseia e o cansaço domina os músculos. 🟩 MECÂNICA: Dano Crítico; o alvo adquire 2 níveis de exaustão (removíveis com tratamento)."
       },
       "Cortante": {
         "title": "Artéria Cortada",
-        "description": "Um corte profundo libera um jato pulsante de sangue. A vida do alvo começa a esvair-se em um ritmo alarmante. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: sofre dano igual a metade dos PV restantes."
+        "description": "Um corte profundo libera um jato pulsante de sangue. A vida do alvo começa a esvair-se em um ritmo alarmante. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: sofre dano igual a metade dos PV restantes."
       },
       "Mágico": {
         "title": "Afeto Mágico",
-        "description": "Um brilho rosado suaviza as feições do alvo. Por um momento, ele olha para você com uma admiração irracional e profunda. || Mecânica: Dano Crítico; o alvo fica enfeitiçado por você até o início de seu próximo turno."
+        "description": "Um brilho rosado suaviza as feições do alvo. Por um momento, ele olha para você com uma admiração irracional e profunda. 🟩 MECÂNICA: Dano Crítico; o alvo fica enfeitiçado por você até o início de seu próximo turno."
       }
     }
   },
@@ -67,19 +67,19 @@
     "effects": {
       "Contusão": {
         "title": "Enxergando Estrelas",
-        "description": "O impacto na cabeça faz faíscas cruzarem a visão. O mundo torna-se excessivamente brilhante e confuso. || Mecânica: Dano Crítico; sensibilidade à luz, desvantagem em ataques e testes de Percepção (Sabedoria) até o fim do encontro."
+        "description": "O impacto na cabeça faz faíscas cruzarem a visão. O mundo torna-se excessivamente brilhante e confuso. 🟩 MECÂNICA: Dano Crítico; sensibilidade à luz, desvantagem em ataques e testes de Percepção (Sabedoria) até o fim do encontro."
       },
       "Perfurante": {
         "title": "Bem no Nervo",
-        "description": "A ponta fina encontra o feixe de nervos exposto. A dor é tão aguda que o cérebro do alvo simplesmente desliga por alguns segundos. || Mecânica: Dano Crítico; o alvo fica atordoado até o início de seu próximo turno."
+        "description": "A ponta fina encontra o feixe de nervos exposto. A dor é tão aguda que o cérebro do alvo simplesmente desliga por alguns segundos. 🟩 MECÂNICA: Dano Crítico; o alvo fica atordoado até o início de seu próximo turno."
       },
       "Cortante": {
         "title": "Cicatriz no Rosto",
-        "description": "A lâmina deixa uma marca permanente e intimidadora. O rosto agora conta uma história de violência que afasta amigos e apavora fracos. || Mecânica: Dano Crítico; desvantagem em Persuasão e vantagem em Intimidação até receber tratamento."
+        "description": "A lâmina deixa uma marca permanente e intimidadora. O rosto agora conta uma história de violência que afasta amigos e apavora fracos. 🟩 MECÂNICA: Dano Crítico; desvantagem em Persuasão e vantagem em Intimidação até receber tratamento."
       },
       "Mágico": {
         "title": "Transposição",
-        "description": "A realidade se dobra em um vácuo súbito. Em um piscar de olhos, você está onde o alvo estava, e ele ocupa o seu lugar. || Mecânica: Dano Crítico; o alvo troca de lugar com você."
+        "description": "A realidade se dobra em um vácuo súbito. Em um piscar de olhos, você está onde o alvo estava, e ele ocupa o seu lugar. 🟩 MECÂNICA: Dano Crítico; o alvo troca de lugar com você."
       }
     }
   },
@@ -88,19 +88,19 @@
     "effects": {
       "Contusão": {
         "title": "Pancada na Têmpora",
-        "description": "O impacto lateral faz o mundo girar e escurecer. O alvo apaga antes mesmo de atingir o solo. || Mecânica: Dano Crítico; o alvo fica inconsciente até o início de seu próximo turno."
+        "description": "O impacto lateral faz o mundo girar e escurecer. O alvo apaga antes mesmo de atingir o solo. 🟩 MECÂNICA: Dano Crítico; o alvo fica inconsciente até o início de seu próximo turno."
       },
       "Perfurante": {
         "title": "Fragmentos Alojados",
-        "description": "Estilhaços da arma permanecem cravados na carne, infectando a ferida e impedindo que processos naturais de cura fechem o corte. || Mecânica: Dano Crítico; o alvo só pode ser curado magicamente até realizar um descanso curto ou longo."
+        "description": "Estilhaços da arma permanecem cravados na carne, infectando a ferida e impedindo que processos naturais de cura fechem o corte. 🟩 MECÂNICA: Dano Crítico; o alvo só pode ser curado magicamente até realizar um descanso curto ou longo."
       },
       "Cortante": {
         "title": "Fatiado",
-        "description": "O corte é tão preciso que atinge a musculatura fundamental. O corpo do alvo não responde mais com a destreza ou força habitual. || Mecânica: Dano Crítico; o alvo não pode usar modificadores de habilidade nas jogadas até receber tratamento."
+        "description": "O corte é tão preciso que atinge a musculatura fundamental. O corpo do alvo não responde mais com a destreza ou força habitual. 🟩 MECÂNICA: Dano Crítico; o alvo não pode usar modificadores de habilidade nas jogadas até receber tratamento."
       },
       "Mágico": {
         "title": "Lobotomia Arcana",
-        "description": "Um flash dissonante penetra os olhos do alvo, embaralhando memórias e princípios. A bússola moral dele gira descontroladamente. || Mecânica: Dano Crítico; a tendência do alvo muda em um grau entre leal e caótico."
+        "description": "Um flash dissonante penetra os olhos do alvo, embaralhando memórias e princípios. A bússola moral dele gira descontroladamente. 🟩 MECÂNICA: Dano Crítico; a tendência do alvo muda em um grau entre leal e caótico."
       }
     }
   },
@@ -109,19 +109,19 @@
     "effects": {
       "Contusão": {
         "title": "Treme Terra",
-        "description": "A força do impacto é tão brutal que racha o solo e espalha destroços. O chão sob os pés do alvo torna-se uma armadilha irregular. || Mecânica: Dano Crítico; a área do alvo e 1,5m ao redor torna-se terreno difícil."
+        "description": "A força do impacto é tão brutal que racha o solo e espalha destroços. O chão sob os pés do alvo torna-se uma armadilha irregular. 🟩 MECÂNICA: Dano Crítico; a área do alvo e 1,5m ao redor torna-se terreno difícil."
       },
       "Perfurante": {
         "title": "Barriga Perfurada",
-        "description": "A arma atravessa o abdômen, atingindo órgãos vitais. Cada movimento causa uma fisgada debilitante que prejudica qualquer ação. || Mecânica: Dano Crítico; penalidade de -1 em todas as jogadas até receber tratamento."
+        "description": "A arma atravessa o abdômen, atingindo órgãos vitais. Cada movimento causa uma fisgada debilitante que prejudica qualquer ação. 🟩 MECÂNICA: Dano Crítico; penalidade de -1 em todas as jogadas até receber tratamento."
       },
       "Cortante": {
         "title": "Corte no Nervo",
-        "description": "A lâmina secciona um tendão defensivo. O alvo perde a agilidade necessária para aparar ou esquivar de golpes futuros. || Mecânica: Dano Crítico; penalidade de -1 na CA até receber tratamento."
+        "description": "A lâmina secciona um tendão defensivo. O alvo perde a agilidade necessária para aparar ou esquivar de golpes futuros. 🟩 MECÂNICA: Dano Crítico; penalidade de -1 na CA até receber tratamento."
       },
       "Mágico": {
         "title": "Descontrole",
-        "description": "Sussurros ininteligíveis invadem a mente do inimigo, fazendo-o confundir aliados com ameaças imediatas. || Mecânica: Dano Crítico; o alvo realiza um ataque de oportunidade contra um aliado aleatório."
+        "description": "Sussurros ininteligíveis invadem a mente do inimigo, fazendo-o confundir aliados com ameaças imediatas. 🟩 MECÂNICA: Dano Crítico; o alvo realiza um ataque de oportunidade contra um aliado aleatório."
       }
     }
   },
@@ -130,19 +130,19 @@
     "effects": {
       "Contusão": {
         "title": "Impacto Profundo",
-        "description": "A força do golpe arremessa o alvo contra a mobília ou as paredes próximas, transformando o ambiente em uma arma. || Mecânica: Dano Crítico; dano extra igual ao nível/CR causado por objeto do ambiente."
+        "description": "A força do golpe arremessa o alvo contra a mobília ou as paredes próximas, transformando o ambiente em uma arma. 🟩 MECÂNICA: Dano Crítico; dano extra igual ao nível/CR causado por objeto do ambiente."
       },
       "Perfurante": {
         "title": "Língua Perfurada",
-        "description": "Um golpe azarado atravessa a bochecha e a língua. O gosto metálico do sangue preenche a boca e as palavras saem enroladas. || Mecânica: Dano Crítico; o alvo fala com a língua entre os dentes até receber tratamento."
+        "description": "Um golpe azarado atravessa a bochecha e a língua. O gosto metálico do sangue preenche a boca e as palavras saem enroladas. 🟩 MECÂNICA: Dano Crítico; o alvo fala com a língua entre os dentes até receber tratamento."
       },
       "Cortante": {
         "title": "Adrenalina",
-        "description": "O cheiro do sangue e a precisão do seu corte inflamam seu espírito. Você sente um súbito vigor, mas sabe que o preço virá depois. || Mecânica: Dano Crítico; +1 em ataques até o fim do encontro. Após, perca 1 dado de vida ou ganhe 1 exaustão."
+        "description": "O cheiro do sangue e a precisão do seu corte inflamam seu espírito. Você sente um súbito vigor, mas sabe que o preço virá depois. 🟩 MECÂNICA: Dano Crítico; +1 em ataques até o fim do encontro. Após, perca 1 dado de vida ou ganhe 1 exaustão."
       },
       "Mágico": {
         "title": "Confusão",
-        "description": "Um redemoinho de cores impossíveis nubla a mente do alvo. Ele não sabe mais para que lado apontar sua arma. || Mecânica: Dano Crítico; a próxima jogada de ataque do alvo é feita contra uma criatura aleatória."
+        "description": "Um redemoinho de cores impossíveis nubla a mente do alvo. Ele não sabe mais para que lado apontar sua arma. 🟩 MECÂNICA: Dano Crítico; a próxima jogada de ataque do alvo é feita contra uma criatura aleatória."
       }
     }
   },
@@ -151,19 +151,19 @@
     "effects": {
       "Contusão": {
         "title": "Hematoma",
-        "description": "Um enorme vergão roxo se forma instantaneamente, endurecendo o músculo e tornando qualquer esforço físico um suplício. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Força até receber tratamento."
+        "description": "Um enorme vergão roxo se forma instantaneamente, endurecendo o músculo e tornando qualquer esforço físico um suplício. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Força até receber tratamento."
       },
       "Perfurante": {
         "title": "Atravessado",
-        "description": "Sua arma passa pelo corpo do alvo como se fosse papel, continuando sua trajetória letal em direção a quem estiver atrás. || Mecânica: Dano Crítico; um alvo adjacente atrás deste sofre metade do dano."
+        "description": "Sua arma passa pelo corpo do alvo como se fosse papel, continuando sua trajetória letal em direção a quem estiver atrás. 🟩 MECÂNICA: Dano Crítico; um alvo adjacente atrás deste sofre metade do dano."
       },
       "Cortante": {
         "title": "Corte Comprido",
-        "description": "Um talho longo e superficial, mas preciso, corta correias e fivelas. O equipamento do alvo começa a se soltar. || Mecânica: Dano Crítico; dano extra (nível/CR) e o alvo deixa cair algo preso por cordas/tiras."
+        "description": "Um talho longo e superficial, mas preciso, corta correias e fivelas. O equipamento do alvo começa a se soltar. 🟩 MECÂNICA: Dano Crítico; dano extra (nível/CR) e o alvo deixa cair algo preso por cordas/tiras."
       },
       "Mágico": {
         "title": "Mudança de Personalidade",
-        "description": "O choque mágico reescreve sinapses. O alvo encara um dilema existencial: aceitar a nova psique ou lutar contra o colapso mental. || Mecânica: Dano Crítico; o alvo troca um traço de personalidade ou sofre 1d10 de dano psíquico."
+        "description": "O choque mágico reescreve sinapses. O alvo encara um dilema existencial: aceitar a nova psique ou lutar contra o colapso mental. 🟩 MECÂNICA: Dano Crítico; o alvo troca um traço de personalidade ou sofre 1d10 de dano psíquico."
       }
     }
   },
@@ -172,19 +172,19 @@
     "effects": {
       "Contusão": {
         "title": "Costelas Quebradas",
-        "description": "O som de ossos partindo é seguido por uma respiração curta. O tórax do alvo torna-se um fardo pesado de carregar. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Força até o fim de um descanso."
+        "description": "O som de ossos partindo é seguido por uma respiração curta. O tórax do alvo torna-se um fardo pesado de carregar. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Força até o fim de um descanso."
       },
       "Perfurante": {
         "title": "Pregado no Lugar",
-        "description": "Sua arma perfura o pé ou a vestimenta do alvo, fixando-o firmemente ao chão ou à parede. || Mecânica: Dano Crítico; o alvo fica impedido até passar em um teste de Atletismo CD (8 + Prof. + Atributo do Atacante)."
+        "description": "Sua arma perfura o pé ou a vestimenta do alvo, fixando-o firmemente ao chão ou à parede. 🟩 MECÂNICA: Dano Crítico; o alvo fica impedido até passar em um teste de Atletismo CD (8 + Prof. + Atributo do Atacante)."
       },
       "Cortante": {
         "title": "Reação Alérgica",
-        "description": "A lâmina introduz impurezas que reagem violentamente com o sangue do alvo. O rosto dele incha e o estômago revira. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: envenenado até receber tratamento."
+        "description": "A lâmina introduz impurezas que reagem violentamente com o sangue do alvo. O rosto dele incha e o estômago revira. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: envenenado até receber tratamento."
       },
       "Mágico": {
         "title": "Descarga Cerebral",
-        "description": "Um relâmpago de energia pura atravessa os hemisférios cerebrais, invertendo os impulsos de bondade e malícia do alvo. || Mecânica: Dano Crítico; a tendência do alvo muda um grau entre Bom e Mau."
+        "description": "Um relâmpago de energia pura atravessa os hemisférios cerebrais, invertendo os impulsos de bondade e malícia do alvo. 🟩 MECÂNICA: Dano Crítico; a tendência do alvo muda um grau entre Bom e Mau."
       }
     }
   },
@@ -193,19 +193,19 @@
     "effects": {
       "Contusão": {
         "title": "Beijando o Chão",
-        "description": "Uma pancada seca no queixo ou nos joelhos faz as pernas do inimigo falharem. Ele desaba de cara na poeira. || Mecânica: Dano Crítico; o alvo fica caído."
+        "description": "Uma pancada seca no queixo ou nos joelhos faz as pernas do inimigo falharem. Ele desaba de cara na poeira. 🟩 MECÂNICA: Dano Crítico; o alvo fica caído."
       },
       "Perfurante": {
         "title": "Coluna Perfurada",
-        "description": "A arma encontra o espaço entre as vértebras. Um choque sobe pela espinha do alvo e sua consciência se apaga instantaneamente. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: inconsciente até receber tratamento."
+        "description": "A arma encontra o espaço entre as vértebras. Um choque sobe pela espinha do alvo e sua consciência se apaga instantaneamente. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: inconsciente até receber tratamento."
       },
       "Cortante": {
         "title": "Corte Dilacerante",
-        "description": "A lâmina abre um talho que incapacita os principais grupos musculares. O alvo fica paralisado pelo choque e pela dor. || Mecânica: Dano Crítico; deslocamento 0 e falha em testes de Força até o início do próximo turno."
+        "description": "A lâmina abre um talho que incapacita os principais grupos musculares. O alvo fica paralisado pelo choque e pela dor. 🟩 MECÂNICA: Dano Crítico; deslocamento 0 e falha em testes de Força até o início do próximo turno."
       },
       "Mágico": {
         "title": "Efeito Máximo",
-        "description": "A barreira entre o conjurador e a fonte primordial desaparece. A magia flui com pureza e força absoluta. || Mecânica: Dano Crítico; todas as variáveis da magia são maximizadas."
+        "description": "A barreira entre o conjurador e a fonte primordial desaparece. A magia flui com pureza e força absoluta. 🟩 MECÂNICA: Dano Crítico; todas as variáveis da magia são maximizadas."
       }
     }
   },
@@ -214,19 +214,19 @@
     "effects": {
       "Contusão": {
         "title": "Fibrilação Atrial",
-        "description": "Um golpe certeiro no peito faz o coração do alvo errar o compasso. Ele congela, incapaz de mover um músculo. || Mecânica: Dano Crítico; o alvo fica paralisado até o início do seu próximo turno."
+        "description": "Um golpe certeiro no peito faz o coração do alvo errar o compasso. Ele congela, incapaz de mover um músculo. 🟩 MECÂNICA: Dano Crítico; o alvo fica paralisado até o início do seu próximo turno."
       },
       "Perfurante": {
         "title": "Perna Perfurada",
-        "description": "A arma atravessa a coxa ou a panturrilha. O sangue flui e cada passo é uma agonia que retarda o movimento. || Mecânica: Dano Crítico; deslocamento reduzido pela metade até receber tratamento."
+        "description": "A arma atravessa a coxa ou a panturrilha. O sangue flui e cada passo é uma agonia que retarda o movimento. 🟩 MECÂNICA: Dano Crítico; deslocamento reduzido pela metade até receber tratamento."
       },
       "Cortante": {
         "title": "Golpe Amplo",
-        "description": "Seu movimento é um arco perfeito e mortal. O excesso de força do golpe corta o primeiro alvo e alcança o próximo. || Mecânica: Dano Crítico; outro alvo adjacente pode sofrer metade do dano."
+        "description": "Seu movimento é um arco perfeito e mortal. O excesso de força do golpe corta o primeiro alvo e alcança o próximo. 🟩 MECÂNICA: Dano Crítico; outro alvo adjacente pode sofrer metade do dano."
       },
       "Mágico": {
         "title": "Brilho Arcano",
-        "description": "Partículas de luz mágica grudam na pele e nas roupas do alvo, tornando impossível para ele se esconder nas sombras. || Mecânica: Dano Crítico; o alvo emite luz como uma tocha até o fim de um descanso."
+        "description": "Partículas de luz mágica grudam na pele e nas roupas do alvo, tornando impossível para ele se esconder nas sombras. 🟩 MECÂNICA: Dano Crítico; o alvo emite luz como uma tocha até o fim de um descanso."
       }
     }
   },
@@ -235,19 +235,19 @@
     "effects": {
       "Contusão": {
         "title": "Lesão Cerebral",
-        "description": "O crânio absorve o impacto, mas o cérebro chacoalha lá dentro. O alvo olha ao redor, sem saber quem é ou onde está. || Mecânica: Dano Crítico; perde 1d8 dias de memória e habilidades de antecedente até receber tratamento."
+        "description": "O crânio absorve o impacto, mas o cérebro chacoalha lá dentro. O alvo olha ao redor, sem saber quem é ou onde está. 🟩 MECÂNICA: Dano Crítico; perde 1d8 dias de memória e habilidades de antecedente até receber tratamento."
       },
       "Perfurante": {
         "title": "Farpas na Pele",
-        "description": "Sua arma deixa pequenos detritos infecciosos dentro do ferimento. O local inflama instantaneamente, causando náusea. || Mecânica: Dano Crítico; envenenado até o início do próximo turno."
+        "description": "Sua arma deixa pequenos detritos infecciosos dentro do ferimento. O local inflama instantaneamente, causando náusea. 🟩 MECÂNICA: Dano Crítico; envenenado até o início do próximo turno."
       },
       "Cortante": {
         "title": "Escalpado",
-        "description": "A lâmina remove parte do couro cabeludo ou pele do rosto. A visão é grotesca e o alvo perde toda a confiança. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Carisma até receber tratamento."
+        "description": "A lâmina remove parte do couro cabeludo ou pele do rosto. A visão é grotesca e o alvo perde toda a confiança. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Carisma até receber tratamento."
       },
       "Mágico": {
         "title": "Aura de Proteção",
-        "description": "O rebote da sua magia cria uma película de energia cintilante ao seu redor, desviando golpes inimigos. || Mecânica: Dano Crítico; +2 de bônus na CA até o início do próximo turno."
+        "description": "O rebote da sua magia cria uma película de energia cintilante ao seu redor, desviando golpes inimigos. 🟩 MECÂNICA: Dano Crítico; +2 de bônus na CA até o início do próximo turno."
       }
     }
   },
@@ -256,19 +256,19 @@
     "effects": {
       "Contusão": {
         "title": "Lobo Temporal Danificado",
-        "description": "O impacto na lateral da cabeça embaralha o processamento auditivo. O mundo parece estar rodando de trás para frente. || Mecânica: Dano Crítico; o alvo escuta frases pronunciadas de trás para frente até receber tratamento."
+        "description": "O impacto na lateral da cabeça embaralha o processamento auditivo. O mundo parece estar rodando de trás para frente. 🟩 MECÂNICA: Dano Crítico; o alvo escuta frases pronunciadas de trás para frente até receber tratamento."
       },
       "Perfurante": {
         "title": "Enterrada nas Costas",
-        "description": "Sua arma penetra profundamente entre as escápulas, travando a respiração e os reflexos do oponente. || Mecânica: Dano Crítico; o alvo fica incapacitado até o início do próximo turno."
+        "description": "Sua arma penetra profundamente entre as escápulas, travando a respiração e os reflexos do oponente. 🟩 MECÂNICA: Dano Crítico; o alvo fica incapacitado até o início do próximo turno."
       },
       "Cortante": {
         "title": "Garganta Cortada",
-        "description": "A lâmina abre um sorriso vermelho no pescoço. O ar escapa pela ferida e o sangue borbulha, silenciando o alvo. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: não fala nem respira até receber tratamento."
+        "description": "A lâmina abre um sorriso vermelho no pescoço. O ar escapa pela ferida e o sangue borbulha, silenciando o alvo. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: não fala nem respira até receber tratamento."
       },
       "Mágico": {
         "title": "Telepata",
-        "description": "O golpe estabelece uma ponte mental efêmera. Você sente os pensamentos do alvo ecoando em sua própria mente. || Mecânica: Dano Crítico; você pode se comunicar telepaticamente até o fim de um descanso longo."
+        "description": "O golpe estabelece uma ponte mental efêmera. Você sente os pensamentos do alvo ecoando em sua própria mente. 🟩 MECÂNICA: Dano Crítico; você pode se comunicar telepaticamente até o fim de um descanso longo."
       }
     }
   },
@@ -277,19 +277,19 @@
     "effects": {
       "Contusão": {
         "title": "Vista Borrada",
-        "description": "A pressão ocular do golpe deforma momentaneamente a visão. Letras e símbolos tornam-se borrões incompreensíveis. || Mecânica: Dano Crítico; o alvo é incapaz de ler até receber tratamento."
+        "description": "A pressão ocular do golpe deforma momentaneamente a visão. Letras e símbolos tornam-se borrões incompreensíveis. 🟩 MECÂNICA: Dano Crítico; o alvo é incapaz de ler até receber tratamento."
       },
       "Perfurante": {
         "title": "Peito Atravessado",
-        "description": "A arma atravessa o esterno. O alvo encara o metal sainao pelo seu peito e um pavor gélido domina seu coração. || Mecânica: Dano Crítico; o alvo fica amedrontado até o início de seu próximo turno."
+        "description": "A arma atravessa o esterno. O alvo encara o metal sainao pelo seu peito e um pavor gélido domina seu coração. 🟩 MECÂNICA: Dano Crítico; o alvo fica amedrontado até o início de seu próximo turno."
       },
       "Cortante": {
         "title": "Tirou do Sério",
-        "description": "O corte no rosto é um instrumento de desonra. O alvo perde a calma necessária para julgar a situação. || Mecânica: Dano Crítico; penalidade de -3 em jogadas de Sabedoria até o próximo turno."
+        "description": "O corte no rosto é um instrumento de desonra. O alvo perde a calma necessária para julgar a situação. 🟩 MECÂNICA: Dano Crítico; penalidade de -3 em jogadas de Sabedoria até o próximo turno."
       },
       "Mágico": {
         "title": "Super Visão",
-        "description": "Seus olhos brilham com uma luz sobrenatural. A matéria sólida torna-se translúcida, revelando o que está oculto. || Mecânica: Dano Crítico; visão de Raio-X (como \"Detectar Magia\") até o fim de um descanso."
+        "description": "Seus olhos brilham com uma luz sobrenatural. A matéria sólida torna-se translúcida, revelando o que está oculto. 🟩 MECÂNICA: Dano Crítico; visão de Raio-X (como \"Detectar Magia\") até o fim de um descanso."
       }
     }
   },
@@ -298,19 +298,19 @@
     "effects": {
       "Contusão": {
         "title": "Audição Prejudicada",
-        "description": "Um zumbido agudo e constante substitui todos os outros sons. O equilíbrio do alvo vacila. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: desvantagem em Percepção auditiva."
+        "description": "Um zumbido agudo e constante substitui todos os outros sons. O equilíbrio do alvo vacila. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: desvantagem em Percepção auditiva."
       },
       "Perfurante": {
         "title": "Crânio Atravessado",
-        "description": "A arma perfura o lobo frontal. O dano é grave, mas o alvo começa a rir e falar sem parar. || Mecânica: Dano Crítico; o alvo torna-se extrovertido e possui desvantagem em testes de Destreza (Furtividade) até receber tratamento."
+        "description": "A arma perfura o lobo frontal. O dano é grave, mas o alvo começa a rir e falar sem parar. 🟩 MECÂNICA: Dano Crítico; o alvo torna-se extrovertido e possui desvantagem em testes de Destreza (Furtividade) até receber tratamento."
       },
       "Cortante": {
         "title": "Ira de Sangue",
-        "description": "O trauma corta a conexão com a realidade. O alvo vê apenas formas em movimento e ataca sem discernimento moral. || Mecânica: Dano Crítico; o alvo não distingue vivos de mortos até receber tratamento."
+        "description": "O trauma corta a conexão com a realidade. O alvo vê apenas formas em movimento e ataca sem discernimento moral. 🟩 MECÂNICA: Dano Crítico; o alvo não distingue vivos de mortos até receber tratamento."
       },
       "Mágico": {
         "title": "Contato Idiomático",
-        "description": "O resíduo arcano do golpe transfere o conhecimento linguístico do alvo para você. As palavras dele agora fazem sentido. || Mecânica: Dano Crítico; você entende e fala a língua do alvo até o fim de um descanso longo."
+        "description": "O resíduo arcano do golpe transfere o conhecimento linguístico do alvo para você. As palavras dele agora fazem sentido. 🟩 MECÂNICA: Dano Crítico; você entende e fala a língua do alvo até o fim de um descanso longo."
       }
     }
   },
@@ -319,19 +319,19 @@
     "effects": {
       "Contusão": {
         "title": "Deficiência Visual",
-        "description": "A pancada compromete os nervos ópticos. Se o alvo via no escuro, o mundo se apaga; se não via, agora está em trevas totais. || Mecânica: Dano Crítico; visão torna-se normal ou fica cego até receber tratamento."
+        "description": "A pancada compromete os nervos ópticos. Se o alvo via no escuro, o mundo se apaga; se não via, agora está em trevas totais. 🟩 MECÂNICA: Dano Crítico; visão torna-se normal ou fica cego até receber tratamento."
       },
       "Perfurante": {
         "title": "Perfurada Cruel",
-        "description": "A dor excruciante faz o alvo se fechar em si mesmo. Ele evita qualquer contacto visual e se recusa a emitir um som. || Mecânica: Dano Crítico; o alvo torna-se muito introvertido até receber tratamento."
+        "description": "A dor excruciante faz o alvo se fechar em si mesmo. Ele evita qualquer contacto visual e se recusa a emitir um som. 🟩 MECÂNICA: Dano Crítico; o alvo torna-se muito introvertido até receber tratamento."
       },
       "Cortante": {
         "title": "Olho por Olho",
-        "description": "O corte gera uma obsessão vingativa. O alvo ignora todos os outros e foca seu ódio inteiramente em você. || Mecânica: Dano Crítico; o alvo só pode atacar você até causar o mesmo dano ou o fim do encontro."
+        "description": "O corte gera uma obsessão vingativa. O alvo ignora todos os outros e foca seu ódio inteiramente em você. 🟩 MECÂNICA: Dano Crítico; o alvo só pode atacar você até causar o mesmo dano ou o fim do encontro."
       },
       "Mágico": {
         "title": "Magia Vampírica",
-        "description": "Ao ferir o alvo, você sente a essência vital dele sendo drenada e infundida em suas próprias feridas. || Mecânica: Dano Crítico; você recupera metade do dano causado em PV."
+        "description": "Ao ferir o alvo, você sente a essência vital dele sendo drenada e infundida em suas próprias feridas. 🟩 MECÂNICA: Dano Crítico; você recupera metade do dano causado em PV."
       }
     }
   },
@@ -340,19 +340,19 @@
     "effects": {
       "Contusão": {
         "title": "Miopia Severa",
-        "description": "O impacto deforma o cristalino. Tudo o que está a mais de alguns passos de distância torna-se um borrão indistinguível. || Mecânica: Dano Crítico; enxerga apenas até metade do deslocamento até receber tratamento."
+        "description": "O impacto deforma o cristalino. Tudo o que está a mais de alguns passos de distância torna-se um borrão indistinguível. 🟩 MECÂNICA: Dano Crítico; enxerga apenas até metade do deslocamento até receber tratamento."
       },
       "Perfurante": {
         "title": "Dor Agoniante",
-        "description": "A arma atinge um centro nervoso. O corpo do alvo trava em um espasmo de dor pura, impedindo qualquer movimento. || Mecânica: Dano Crítico; o alvo fica impedido até o início do próximo turno."
+        "description": "A arma atinge um centro nervoso. O corpo do alvo trava em um espasmo de dor pura, impedindo qualquer movimento. 🟩 MECÂNICA: Dano Crítico; o alvo fica impedido até o início do próximo turno."
       },
       "Cortante": {
         "title": "Fatigado",
-        "description": "O esforço para estancar o sangue esgota o inimigo. Ele precisa escolher bem como gastará suas últimas energias. || Mecânica: Dano Crítico; alvo escolhe apenas um tipo de ataque para usar até o fim do encontro."
+        "description": "O esforço para estancar o sangue esgota o inimigo. Ele precisa escolher bem como gastará suas últimas energias. 🟩 MECÂNICA: Dano Crítico; alvo escolhe apenas um tipo de ataque para usar até o fim do encontro."
       },
       "Mágico": {
         "title": "Lentificado",
-        "description": "O tempo parece se dilatar ao redor do alvo. Ele se move como se estivesse sob a água, lutando contra a inércia arcana. || Mecânica: Dano Crítico; alvo sob efeito de \"Lentidão\" até o próximo turno."
+        "description": "O tempo parece se dilatar ao redor do alvo. Ele se move como se estivesse sob a água, lutando contra a inércia arcana. 🟩 MECÂNICA: Dano Crítico; alvo sob efeito de \"Lentidão\" até o próximo turno."
       }
     }
   },
@@ -361,19 +361,19 @@
     "effects": {
       "Contusão": {
         "title": "Dano em Cadeia",
-        "description": "A onda de choque do impacto é tão massiva que reverbera pelo ar, atingindo todos os que estão por perto. || Mecânica: Dano Crítico; 1/4 do dano em todos os inimigos adjacentes ao alvo."
+        "description": "A onda de choque do impacto é tão massiva que reverbera pelo ar, atingindo todos os que estão por perto. 🟩 MECÂNICA: Dano Crítico; 1/4 do dano em todos os inimigos adjacentes ao alvo."
       },
       "Perfurante": {
         "title": "Perfuração Profunda",
-        "description": "A arma penetra tão fundo que compromete a coordenação motora básica. Cada gesto exige um esforço hercúleo. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: só pode mover OU agir até receber tratamento."
+        "description": "A arma penetra tão fundo que compromete a coordenação motora básica. Cada gesto exige um esforço hercúleo. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: só pode mover OU agir até receber tratamento."
       },
       "Cortante": {
         "title": "Perda de Compostura",
-        "description": "O corte desfigurante abala a confiança do alvo. Ele começa a duvidar de seus próprios instintos e hesita em cada decisão. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Sabedoria até o fim de um descanso."
+        "description": "O corte desfigurante abala a confiança do alvo. Ele começa a duvidar de seus próprios instintos e hesita em cada decisão. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Sabedoria até o fim de um descanso."
       },
       "Mágico": {
         "title": "Dobra Planar",
-        "description": "O impacto abre uma fenda momentânea no espaço. Você desaparece e reaparece instantaneamente em uma nova posição estratégica. || Mecânica: Dano Crítico; você pode se teleportar até o seu valor de deslocamento."
+        "description": "O impacto abre uma fenda momentânea no espaço. Você desaparece e reaparece instantaneamente em uma nova posição estratégica. 🟩 MECÂNICA: Dano Crítico; você pode se teleportar até o seu valor de deslocamento."
       }
     }
   },
@@ -382,19 +382,19 @@
     "effects": {
       "Contusão": {
         "title": "Resistência Baixa",
-        "description": "A força bruta esmaga as proteções naturais do alvo. Sua pele rígida ou casca grossa torna-se macia e vulnerável. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: perde todas as resistências naturais até o tratamento."
+        "description": "A força bruta esmaga as proteções naturais do alvo. Sua pele rígida ou casca grossa torna-se macia e vulnerável. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: perde todas as resistências naturais até o tratamento."
       },
       "Perfurante": {
         "title": "Buraco no Corpo",
-        "description": "Um ferimento feio e visível que drena a moral do alvo. Ele se sente diminuído e ridicularizado pela própria ferida. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Carisma até o fim de um descanso."
+        "description": "Um ferimento feio e visível que drena a moral do alvo. Ele se sente diminuído e ridicularizado pela própria ferida. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Carisma até o fim de um descanso."
       },
       "Cortante": {
         "title": "Talho no Braço",
-        "description": "A lâmina corta os músculos flexores do antebraço. A mão do alvo torna-se trêmula e desajeitada. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Destreza até receber tratamento."
+        "description": "A lâmina corta os músculos flexores do antebraço. A mão do alvo torna-se trêmula e desajeitada. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Destreza até receber tratamento."
       },
       "Mágico": {
         "title": "Vórtex Temporal",
-        "description": "O alvo é tragado por uma anomalia temporal, sendo removido do presente por alguns segundos. || Mecânica: Dano Crítico; o alvo desaparece e reaparece no mesmo local no próximo turno."
+        "description": "O alvo é tragado por uma anomalia temporal, sendo removido do presente por alguns segundos. 🟩 MECÂNICA: Dano Crítico; o alvo desaparece e reaparece no mesmo local no próximo turno."
       }
     }
   },
@@ -403,19 +403,19 @@
     "effects": {
       "Contusão": {
         "title": "Desorientado",
-        "description": "O labirinto do ouvido interno é afetado. O alvo tenta fugir, mas seus pés o levam direto para a ameaça mais próxima. || Mecânica: Dano Crítico; o alvo gasta todo o movimento em direção à criatura mais próxima."
+        "description": "O labirinto do ouvido interno é afetado. O alvo tenta fugir, mas seus pés o levam direto para a ameaça mais próxima. 🟩 MECÂNICA: Dano Crítico; o alvo gasta todo o movimento em direção à criatura mais próxima."
       },
       "Perfurante": {
         "title": "Ombro Ferido",
-        "description": "A arma perfura a articulação. Qualquer movimento com o braço envia choques de agonia que sabotam o ataque. || Mecânica: Dano Crítico; desvantagem em jogadas que usam o braço afetado até receber tratamento."
+        "description": "A arma perfura a articulação. Qualquer movimento com o braço envia choques de agonia que sabotam o ataque. 🟩 MECÂNICA: Dano Crítico; desvantagem em jogadas que usam o braço afetado até receber tratamento."
       },
       "Cortante": {
         "title": "Tripas de Fora",
-        "description": "Um corte abdominal profundo expõe o que deveria estar oculto. O terror de ver o próprio interior paralisa o coração do alvo. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: amedrontado até receber tratamento."
+        "description": "Um corte abdominal profundo expõe o que deveria estar oculto. O terror de ver o próprio interior paralisa o coração do alvo. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: amedrontado até receber tratamento."
       },
       "Mágico": {
         "title": "Conduíte",
-        "description": "O impacto sintoniza você com a trama arcana da área, tornando suas magias subsequentes impossíveis de ignorar. || Mecânica: Dano Crítico; +1 na CD e ataques de magia até o fim do encontro."
+        "description": "O impacto sintoniza você com a trama arcana da área, tornando suas magias subsequentes impossíveis de ignorar. 🟩 MECÂNICA: Dano Crítico; +1 na CD e ataques de magia até o fim do encontro."
       }
     }
   },
@@ -424,19 +424,19 @@
     "effects": {
       "Contusão": {
         "title": "Pancada na Cabeça",
-        "description": "O crânio retumba como um sino. Pensamentos complexos fogem e o alvo mal consegue lembrar o próprio nome. || Mecânica: Dano Crítico; penalidade de -3 em jogadas de Inteligência até o próximo turno."
+        "description": "O crânio retumba como um sino. Pensamentos complexos fogem e o alvo mal consegue lembrar o próprio nome. 🟩 MECÂNICA: Dano Crítico; penalidade de -3 em jogadas de Inteligência até o próximo turno."
       },
       "Perfurante": {
         "title": "Contração Muscular",
-        "description": "O choque da perfuração causa um espasmo violento. O braço do alvo se volta contra ele mesmo em um movimento reflexo. || Mecânica: Dano Crítico; o alvo ataca a si mesmo com sua arma principal (sem modificadores)."
+        "description": "O choque da perfuração causa um espasmo violento. O braço do alvo se volta contra ele mesmo em um movimento reflexo. 🟩 MECÂNICA: Dano Crítico; o alvo ataca a si mesmo com sua arma principal (sem modificadores)."
       },
       "Cortante": {
         "title": "Pedaço Arrancado",
-        "description": "Um pedaço de carne voa e o sangue espirra nos olhos dos aliados do alvo. Todos agora veem a fraqueza dele. || Mecânica: Dano Crítico; outro inimigo que possa ver fica marcado até o próximo turno."
+        "description": "Um pedaço de carne voa e o sangue espirra nos olhos dos aliados do alvo. Todos agora veem a fraqueza dele. 🟩 MECÂNICA: Dano Crítico; outro inimigo que possa ver fica marcado até o próximo turno."
       },
       "Mágico": {
         "title": "Pancada Mágica",
-        "description": "Energia pura explode no ponto de impacto, enviando uma vibração que desliga o sistema nervoso do oponente. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: atordoado até o próximo turno."
+        "description": "Energia pura explode no ponto de impacto, enviando uma vibração que desliga o sistema nervoso do oponente. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: atordoado até o próximo turno."
       }
     }
   },
@@ -445,19 +445,19 @@
     "effects": {
       "Contusão": {
         "title": "Guarda Baixa",
-        "description": "O impacto esmaga a postura defensiva do alvo. Ele cambaleia, expondo todas as suas aberturas para o próximo golpe. || Mecânica: Dano Crítico; perde bônus de DEX na CA e falha automaticamente em testes de DEX até o próximo turno."
+        "description": "O impacto esmaga a postura defensiva do alvo. Ele cambaleia, expondo todas as suas aberturas para o próximo golpe. 🟩 MECÂNICA: Dano Crítico; perde bônus de DEX na CA e falha automaticamente em testes de DEX até o próximo turno."
       },
       "Perfurante": {
         "title": "Cravado na Cabeça",
-        "description": "A arma penetra o osso frontal. O alvo sobrevive, mas seu raciocínio lógico torna-se lento e confuso. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Inteligência até um descanso."
+        "description": "A arma penetra o osso frontal. O alvo sobrevive, mas seu raciocínio lógico torna-se lento e confuso. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Inteligência até um descanso."
       },
       "Cortante": {
         "title": "Sacrifício Heroico",
-        "description": "Você coloca toda a sua alma neste corte, ignorando sua própria segurança para garantir que o inimigo sofra o dobro. || Mecânica: Dano Crítico; você pode escolher sofrer 1 nível de exaustão para triplicar (em vez de duplicar) os dados de dano deste ataque."
+        "description": "Você coloca toda a sua alma neste corte, ignorando sua própria segurança para garantir que o inimigo sofra o dobro. 🟩 MECÂNICA: Dano Crítico; você pode escolher sofrer 1 nível de exaustão para triplicar (em vez de duplicar) os dados de dano deste ataque."
       },
       "Mágico": {
         "title": "Cãibra Arcana",
-        "description": "A magia trava os músculos do alvo em uma contração eterna. Ele torna-se uma estátua de carne e agonia. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: paralisado até receber tratamento."
+        "description": "A magia trava os músculos do alvo em uma contração eterna. Ele torna-se uma estátua de carne e agonia. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: paralisado até receber tratamento."
       }
     }
   },
@@ -466,19 +466,19 @@
     "effects": {
       "Contusão": {
         "title": "Interior Exposto",
-        "description": "A armadura racha e a resistência natural colapsa. O que antes era impenetrável agora é apenas um obstáculo frágil. || Mecânica: Dano Crítico; imunidades tornam-se resistências até o início do próximo turno."
+        "description": "A armadura racha e a resistência natural colapsa. O que antes era impenetrável agora é apenas um obstáculo frágil. 🟩 MECÂNICA: Dano Crítico; imunidades tornam-se resistências até o início do próximo turno."
       },
       "Perfurante": {
         "title": "Ofensiva Astuta",
-        "description": "Você perfura e se move com tal rapidez que desaparece da perceção do inimigo enquanto ele ainda sente a dor. || Mecânica: Dano Crítico; você fica invisível para o alvo até o início do próximo turno."
+        "description": "Você perfura e se move com tal rapidez que desaparece da perceção do inimigo enquanto ele ainda sente a dor. 🟩 MECÂNICA: Dano Crítico; você fica invisível para o alvo até o início do próximo turno."
       },
       "Cortante": {
         "title": "Osso Lascado",
-        "description": "A lâmina morde fundo e lasca o osso. A dor é constante e impede qualquer reação rápida ou pensamento estratégico. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: sem ações bónus ou reações até tratamento."
+        "description": "A lâmina morde fundo e lasca o osso. A dor é constante e impede qualquer reação rápida ou pensamento estratégico. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: sem ações bónus ou reações até tratamento."
       },
       "Mágico": {
         "title": "Magia Pegajosa",
-        "description": "Uma gosma arcana ou selo místico cola os lábios do alvo, impedindo-o de pronunciar qualquer palavra ou conjuração. || Mecânica: Dano Crítico; alvo não fala até passar em Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
+        "description": "Uma gosma arcana ou selo místico cola os lábios do alvo, impedindo-o de pronunciar qualquer palavra ou conjuração. 🟩 MECÂNICA: Dano Crítico; alvo não fala até passar em Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante) ou receber tratamento."
       }
     }
   },
@@ -487,19 +487,19 @@
     "effects": {
       "Contusão": {
         "title": "Falta de Ar",
-        "description": "O golpe no diafragma expulsa todo o ar. O alvo luta para reencontrar o fôlego enquanto seu corpo fraqueja. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Constituição até um descanso."
+        "description": "O golpe no diafragma expulsa todo o ar. O alvo luta para reencontrar o fôlego enquanto seu corpo fraqueja. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Constituição até um descanso."
       },
       "Perfurante": {
         "title": "Punhaladas",
-        "description": "Uma sucessão de furos rápidos desorienta o alvo, forçando-o a se expor enquanto tenta desesperadamente se proteger. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: provoca ataque de oportunidade de sua parte."
+        "description": "Uma sucessão de furos rápidos desorienta o alvo, forçando-o a se expor enquanto tenta desesperadamente se proteger. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: provoca ataque de oportunidade de sua parte."
       },
       "Cortante": {
         "title": "Em Sequência",
-        "description": "O sangue no aço te impulsiona. Você gira a arma em um arco mortal, buscando a próxima vítima sem hesitar. || Mecânica: Dano Crítico; se mover, pode atacar outra criatura com desvantagem."
+        "description": "O sangue no aço te impulsiona. Você gira a arma em um arco mortal, buscando a próxima vítima sem hesitar. 🟩 MECÂNICA: Dano Crítico; se mover, pode atacar outra criatura com desvantagem."
       },
       "Mágico": {
         "title": "Barreira Mágica",
-        "description": "O excesso de energia do golpe cristaliza-se ao seu redor, criando um escudo que absorve vibrações mentais e energéticas. || Mecânica: Dano Crítico; imunidade a dano de energia e psíquico até o próximo turno."
+        "description": "O excesso de energia do golpe cristaliza-se ao seu redor, criando um escudo que absorve vibrações mentais e energéticas. 🟩 MECÂNICA: Dano Crítico; imunidade a dano de energia e psíquico até o próximo turno."
       }
     }
   },
@@ -508,19 +508,19 @@
     "effects": {
       "Contusão": {
         "title": "Trauma Abdominal",
-        "description": "O impacto interno é tão severo que o alvo mal consegue se manter ereto, quanto mais esquivar de novos golpes. || Mecânica: Dano Crítico; o alvo não pode realizar a ação \"Esquivar\" até receber tratamento."
+        "description": "O impacto interno é tão severo que o alvo mal consegue se manter ereto, quanto mais esquivar de novos golpes. 🟩 MECÂNICA: Dano Crítico; o alvo não pode realizar a ação \"Esquivar\" até receber tratamento."
       },
       "Perfurante": {
         "title": "Rim Perfurado",
-        "description": "A ferida interna é silenciosa e letal. O corpo do alvo entra em um estado de choque que impede a recuperação natural. || Mecânica: Dano Crítico; alvo não pode realizar descansos (curto/longo) até receber tratamento."
+        "description": "A ferida interna é silenciosa e letal. O corpo do alvo entra em um estado de choque que impede a recuperação natural. 🟩 MECÂNICA: Dano Crítico; alvo não pode realizar descansos (curto/longo) até receber tratamento."
       },
       "Cortante": {
         "title": "Corte Profundo",
-        "description": "O corte atinge a estrutura vital do inimigo. Ele sente sua vitalidade se esvair a cada batida do coração. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Constituição até receber tratamento."
+        "description": "O corte atinge a estrutura vital do inimigo. Ele sente sua vitalidade se esvair a cada batida do coração. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Constituição até receber tratamento."
       },
       "Mágico": {
         "title": "Fé Mágica",
-        "description": "Um brilho sagrado ou profano emana de você após o golpe, protegendo sua alma contra as forças da morte e da luz. || Mecânica: Dano Crítico; imunidade a dano necrótico e radiante até o próximo turno."
+        "description": "Um brilho sagrado ou profano emana de você após o golpe, protegendo sua alma contra as forças da morte e da luz. 🟩 MECÂNICA: Dano Crítico; imunidade a dano necrótico e radiante até o próximo turno."
       }
     }
   },
@@ -529,19 +529,19 @@
     "effects": {
       "Contusão": {
         "title": "Marretando",
-        "description": "Seu golpe é tão pesado que a autoconfiança dos seus aliados explode. Eles se sentem inspirados pela sua força bruta. || Mecânica: Dano Crítico; aliados adjacentes ganham +1 em ataques corpo a corpo até o fim do encontro."
+        "description": "Seu golpe é tão pesado que a autoconfiança dos seus aliados explode. Eles se sentem inspirados pela sua força bruta. 🟩 MECÂNICA: Dano Crítico; aliados adjacentes ganham +1 em ataques corpo a corpo até o fim do encontro."
       },
       "Perfurante": {
         "title": "Estocada no Peito",
-        "description": "A arma atravessa tecidos vitais. O alvo sente uma fraqueza súbita e uma parte de sua força vital simplesmente desaparece. || Mecânica: Dano Crítico; alvo ganha 1 exaustão e perde 1 dado de vida (ou sofre 1d10 de dano)."
+        "description": "A arma atravessa tecidos vitais. O alvo sente uma fraqueza súbita e uma parte de sua força vital simplesmente desaparece. 🟩 MECÂNICA: Dano Crítico; alvo ganha 1 exaustão e perde 1 dado de vida (ou sofre 1d10 de dano)."
       },
       "Cortante": {
         "title": "A Sorte está ao seu Lado",
-        "description": "Este golpe perfeito parece ter alterado as probabilidades do destino ao seu redor. Seus inimigos agora parecem amaldiçoados. || Mecânica: Dano Crítico; se o próximo ataque contra você tirar 10 ou menos no dado, será falha crítica."
+        "description": "Este golpe perfeito parece ter alterado as probabilidades do destino ao seu redor. Seus inimigos agora parecem amaldiçoados. 🟩 MECÂNICA: Dano Crítico; se o próximo ataque contra você tirar 10 ou menos no dado, será falha crítica."
       },
       "Mágico": {
         "title": "Fitomágika",
-        "description": "Energia verdejante envolve seu corpo, neutralizando toxinas e ácidos antes que possam queimar sua pele. || Mecânica: Dano Crítico; imunidade a dano ácido e veneno até o próximo turno."
+        "description": "Energia verdejante envolve seu corpo, neutralizando toxinas e ácidos antes que possam queimar sua pele. 🟩 MECÂNICA: Dano Crítico; imunidade a dano ácido e veneno até o próximo turno."
       }
     }
   },
@@ -550,19 +550,19 @@
     "effects": {
       "Contusão": {
         "title": "Ossos Quebrados",
-        "description": "O estalo de ossos longos partindo ecoa no campo de batalha. O alvo desaba, incapaz de suportar o próprio peso. || Mecânica: Dano Crítico; Teste de Resistência de Força CD (8 + Prof. + Atributo do Atacante). Falha: cai e não levanta até tratamento."
+        "description": "O estalo de ossos longos partindo ecoa no campo de batalha. O alvo desaba, incapaz de suportar o próprio peso. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Força CD (8 + Prof. + Atributo do Atacante). Falha: cai e não levanta até tratamento."
       },
       "Perfurante": {
         "title": "Estocada nas Costas",
-        "description": "Sua precisão é cirúrgica. Você encontra a brecha exata na proteção, causando um ferimento que sangra profusamente. || Mecânica: Dano Crítico; dano extra igual ao seu bónus de proficiência."
+        "description": "Sua precisão é cirúrgica. Você encontra a brecha exata na proteção, causando um ferimento que sangra profusamente. 🟩 MECÂNICA: Dano Crítico; dano extra igual ao seu bónus de proficiência."
       },
       "Cortante": {
         "title": "Jugular Cortada",
-        "description": "O sangue jorra em um ritmo frenético. Nenhuma bandagem ou reza parece ser capaz de fechar esse ferimento agora. || Mecânica: Dano Crítico; alvo não recupera PV até realizar um descanso."
+        "description": "O sangue jorra em um ritmo frenético. Nenhuma bandagem ou reza parece ser capaz de fechar esse ferimento agora. 🟩 MECÂNICA: Dano Crítico; alvo não recupera PV até realizar um descanso."
       },
       "Mágico": {
         "title": "Raio da Mentira",
-        "description": "A magia altera o centro da fala do alvo. Ele torna-se incapaz de proferir qualquer verdade, mesmo que sua vida dependa disso. || Mecânica: Dano Crítico; alvo torna-se um mentiroso compulsivo até receber tratamento."
+        "description": "A magia altera o centro da fala do alvo. Ele torna-se incapaz de proferir qualquer verdade, mesmo que sua vida dependa disso. 🟩 MECÂNICA: Dano Crítico; alvo torna-se um mentiroso compulsivo até receber tratamento."
       }
     }
   },
@@ -571,19 +571,19 @@
     "effects": {
       "Contusão": {
         "title": "Pancada da Indecência",
-        "description": "O golpe deforma as feições do alvo de forma humilhante. Ele sente a vergonha e a perda de dignidade em cada olhar. || Mecânica: Dano Crítico; penalidade de -3 em jogadas de Carisma até o próximo turno."
+        "description": "O golpe deforma as feições do alvo de forma humilhante. Ele sente a vergonha e a perda de dignidade em cada olhar. 🟩 MECÂNICA: Dano Crítico; penalidade de -3 em jogadas de Carisma até o próximo turno."
       },
       "Perfurante": {
         "title": "Estocada no Nariz",
-        "description": "A arma fere as cavidades nasais. O alvo perde o olfato e a respiração torna-se um sibilo sangrento e doloroso. || Mecânica: Dano Crítico; desvantagem em Percepção (olfato) até receber tratamento."
+        "description": "A arma fere as cavidades nasais. O alvo perde o olfato e a respiração torna-se um sibilo sangrento e doloroso. 🟩 MECÂNICA: Dano Crítico; desvantagem em Percepção (olfato) até receber tratamento."
       },
       "Cortante": {
         "title": "Corte em X",
-        "description": "Com um movimento de ida e volta, você desenha uma marca sangrenta no inimigo, aproveitando o momento para golpear novamente. || Mecânica: Dano Crítico; realize um novo ataque com desvantagem contra o mesmo alvo."
+        "description": "Com um movimento de ida e volta, você desenha uma marca sangrenta no inimigo, aproveitando o momento para golpear novamente. 🟩 MECÂNICA: Dano Crítico; realize um novo ataque com desvantagem contra o mesmo alvo."
       },
       "Mágico": {
         "title": "Escudo Elemental",
-        "description": "O rebote da magia cria uma barreira prismática que dissipa o calor, o frio e os relâmpagos antes que te toquem. || Mecânica: Dano Crítico; imunidade a dano elemental (fogo, frio, elétrico, trovão) até o próximo turno."
+        "description": "O rebote da magia cria uma barreira prismática que dissipa o calor, o frio e os relâmpagos antes que te toquem. 🟩 MECÂNICA: Dano Crítico; imunidade a dano elemental (fogo, frio, elétrico, trovão) até o próximo turno."
       }
     }
   },
@@ -592,19 +592,19 @@
     "effects": {
       "Contusão": {
         "title": "Nocaute",
-        "description": "Um golpe perfeitamente colocado no queixo apaga as luzes do oponente. Ele cai em um sono profundo e forçado. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: inconsciente até receber tratamento."
+        "description": "Um golpe perfeitamente colocado no queixo apaga as luzes do oponente. Ele cai em um sono profundo e forçado. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: inconsciente até receber tratamento."
       },
       "Perfurante": {
         "title": "Sem Noção",
-        "description": "A perfuração atinge uma parte do cérebro responsável pela intuição. O alvo olha para o perigo e não sente nada. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Sabedoria até receber tratamento."
+        "description": "A perfuração atinge uma parte do cérebro responsável pela intuição. O alvo olha para o perigo e não sente nada. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Sabedoria até receber tratamento."
       },
       "Cortante": {
         "title": "Braço Lesionado",
-        "description": "A lâmina corta os tendões principais. O braço do alvo pende morto ao lado do corpo, recusando-se a obedecer. || Mecânica: Dano Crítico; não pode usar o braço afetado até receber tratamento."
+        "description": "A lâmina corta os tendões principais. O braço do alvo pende morto ao lado do corpo, recusando-se a obedecer. 🟩 MECÂNICA: Dano Crítico; não pode usar o braço afetado até receber tratamento."
       },
       "Mágico": {
         "title": "Espirro de Basilisco",
-        "description": "A energia mágica transforma a carne em pedra acinzentada. O alvo congela em uma estátua por um momento eterno. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: petrificado até o início do próximo turno."
+        "description": "A energia mágica transforma a carne em pedra acinzentada. O alvo congela em uma estátua por um momento eterno. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: petrificado até o início do próximo turno."
       }
     }
   },
@@ -613,19 +613,19 @@
     "effects": {
       "Contusão": {
         "title": "Cabeça Esmagada",
-        "description": "O crânio cede sob a pressão. O alvo cambaleia, incapaz de processar qualquer comando motor básico. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: atordoado até receber tratamento."
+        "description": "O crânio cede sob a pressão. O alvo cambaleia, incapaz de processar qualquer comando motor básico. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: atordoado até receber tratamento."
       },
       "Perfurante": {
         "title": "No Olho!",
-        "description": "A precisão é cruel. A ponta da arma busca o globo ocular, deixando o inimigo em um mundo de sombras e dor. || Mecânica: Dano Crítico; Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante). Falha: desvantagem em Percepção (visão)."
+        "description": "A precisão é cruel. A ponta da arma busca o globo ocular, deixando o inimigo em um mundo de sombras e dor. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante). Falha: desvantagem em Percepção (visão)."
       },
       "Cortante": {
         "title": "Abdome Ferido",
-        "description": "O corte é tão feio que ninguém consegue ficar atrás do alvo para se proteger. Ele tornou-se um fardo inútil. || Mecânica: Dano Crítico; o alvo não concede mais meia-cobertura até o fim do encontro."
+        "description": "O corte é tão feio que ninguém consegue ficar atrás do alvo para se proteger. Ele tornou-se um fardo inútil. 🟩 MECÂNICA: Dano Crítico; o alvo não concede mais meia-cobertura até o fim do encontro."
       },
       "Mágico": {
         "title": "Band-aid Power",
-        "description": "Sua magia endurece sua pele contra cortes. Lâminas parecem escorregar por você como se fossem feitas de vidro. || Mecânica: Dano Crítico; imunidade a dano cortante até o início do próximo turno."
+        "description": "Sua magia endurece sua pele contra cortes. Lâminas parecem escorregar por você como se fossem feitas de vidro. 🟩 MECÂNICA: Dano Crítico; imunidade a dano cortante até o início do próximo turno."
       }
     }
   },
@@ -634,19 +634,19 @@
     "effects": {
       "Contusão": {
         "title": "Órgão Esmagado",
-        "description": "O impacto atravessa a armadura e atinge o interior. O alvo sente algo se romper e o peso da sua força física o esmagar. || Mecânica: Dano Crítico; dano extra igual à soma dos modificadores de FOR e CON (Poder Bruto)."
+        "description": "O impacto atravessa a armadura e atinge o interior. O alvo sente algo se romper e o peso da sua força física o esmagar. 🟩 MECÂNICA: Dano Crítico; dano extra igual à soma dos modificadores de FOR e CON (Poder Bruto)."
       },
       "Perfurante": {
         "title": "Estômago Perfurado",
-        "description": "A arma libera os sucos gástricos no abdómen. O alvo queima por dentro enquanto seus próprios fluidos o corroem. || Mecânica: Dano Crítico; dano extra de ácido igual ao nível/CR."
+        "description": "A arma libera os sucos gástricos no abdómen. O alvo queima por dentro enquanto seus próprios fluidos o corroem. 🟩 MECÂNICA: Dano Crítico; dano extra de ácido igual ao nível/CR."
       },
       "Cortante": {
         "title": "Tente me Acertar",
-        "description": "Após o golpe, você entra em um fluxo de combate perfeito, antecipando cada movimento inimigo com facilidade. || Mecânica: Dano Crítico; pode usar Esquivar como ação bónus se não se mover."
+        "description": "Após o golpe, você entra em um fluxo de combate perfeito, antecipando cada movimento inimigo com facilidade. 🟩 MECÂNICA: Dano Crítico; pode usar Esquivar como ação bónus se não se mover."
       },
       "Mágico": {
         "title": "Magia Defletora",
-        "description": "Uma malha de força invisível se forma ao seu redor, desviando flechas e estocadas com precisão absoluta. || Mecânica: Dano Crítico; imunidade a dano perfurante até o início do próximo turno."
+        "description": "Uma malha de força invisível se forma ao seu redor, desviando flechas e estocadas com precisão absoluta. 🟩 MECÂNICA: Dano Crítico; imunidade a dano perfurante até o início do próximo turno."
       }
     }
   },
@@ -655,19 +655,19 @@
     "effects": {
       "Contusão": {
         "title": "Rótula Amassada",
-        "description": "O joelho do alvo explode sob o impacto. Ele agora é forçado a mover-se em uma linha previsível e lenta. || Mecânica: Dano Crítico; alvo não pode quebrar o movimento até receber tratamento."
+        "description": "O joelho do alvo explode sob o impacto. Ele agora é forçado a mover-se em uma linha previsível e lenta. 🟩 MECÂNICA: Dano Crítico; alvo não pode quebrar o movimento até receber tratamento."
       },
       "Perfurante": {
         "title": "Sangramento Interno",
-        "description": "O furo parece pequeno por fora, mas por dentro o sangue se acumula nos espaços errados, causando pressão insuportável. || Mecânica: Dano Crítico; dano extra de contusão igual ao nível/CR."
+        "description": "O furo parece pequeno por fora, mas por dentro o sangue se acumula nos espaços errados, causando pressão insuportável. 🟩 MECÂNICA: Dano Crítico; dano extra de contusão igual ao nível/CR."
       },
       "Cortante": {
         "title": "Cortar e Correr",
-        "description": "Você usa o momento do impacto para se afastar, deixando o inimigo para trás enquanto ele ainda tenta entender o que aconteceu. || Mecânica: Dano Crítico; pode realizar a ação \"Desengajar\" como uma ação bónus gratuita neste turno."
+        "description": "Você usa o momento do impacto para se afastar, deixando o inimigo para trás enquanto ele ainda tenta entender o que aconteceu. 🟩 MECÂNICA: Dano Crítico; pode realizar a ação \"Desengajar\" como uma ação bónus gratuita neste turno."
       },
       "Mágico": {
         "title": "Truque de Invisibilidade",
-        "description": "O excesso de energia mágica dobra a luz ao seu redor. Se você ficar quieto, o mundo simplesmente deixará de te ver. || Mecânica: Dano Crítico; fica invisível até o próximo turno se não se mover."
+        "description": "O excesso de energia mágica dobra a luz ao seu redor. Se você ficar quieto, o mundo simplesmente deixará de te ver. 🟩 MECÂNICA: Dano Crítico; fica invisível até o próximo turno se não se mover."
       }
     }
   },
@@ -676,19 +676,19 @@
     "effects": {
       "Contusão": {
         "title": "Hematoma",
-        "description": "Um impacto maciço que deixa uma marca escura e dolorosa. O alvo sente sua força ser esmagada pelo seu poder bruto. || Mecânica: Dano Crítico; dano extra igual a 2x o seu modificador de Força."
+        "description": "Um impacto maciço que deixa uma marca escura e dolorosa. O alvo sente sua força ser esmagada pelo seu poder bruto. 🟩 MECÂNICA: Dano Crítico; dano extra igual a 2x o seu modificador de Força."
       },
       "Perfurante": {
         "title": "Super Crítico",
-        "description": "A estocada é tão violenta que arremessa o alvo para trás enquanto a arma ainda está cravada nele. || Mecânica: Dano Crítico; empurrado 3 metros e sofre 2x o nível/CR em dano extra."
+        "description": "A estocada é tão violenta que arremessa o alvo para trás enquanto a arma ainda está cravada nele. 🟩 MECÂNICA: Dano Crítico; empurrado 3 metros e sofre 2x o nível/CR em dano extra."
       },
       "Cortante": {
         "title": "Sangue para todo lado",
-        "description": "O corte libera uma névoa vermelha. O alvo, coberto de sangue, entra em pânico ao ver outros feridos como ele. || Mecânica: Dano Crítico; alvo amedrontado por criaturas feridas que possa ver."
+        "description": "O corte libera uma névoa vermelha. O alvo, coberto de sangue, entra em pânico ao ver outros feridos como ele. 🟩 MECÂNICA: Dano Crítico; alvo amedrontado por criaturas feridas que possa ver."
       },
       "Mágico": {
         "title": "Rejuvenescimento",
-        "description": "Um fluxo de energia temporal reversa envolve o corpo do alvo. Rugas desaparecem e tecidos se regeneram, mas sua mente regride. || Mecânica: Dano Crítico; o alvo tem sua idade dividida pela metade até realizar um descanso longo."
+        "description": "Um fluxo de energia temporal reversa envolve o corpo do alvo. Rugas desaparecem e tecidos se regeneram, mas sua mente regride. 🟩 MECÂNICA: Dano Crítico; o alvo tem sua idade dividida pela metade até realizar um descanso longo."
       }
     }
   },
@@ -697,19 +697,19 @@
     "effects": {
       "Contusão": {
         "title": "Falta de Ar",
-        "description": "O alvo mal consegue respirar, quanto mais pensar em ajudar seus companheiros. Ele foca apenas em sobreviver. || Mecânica: Dano Crítico; alvo não pode realizar a ação \"Ajuda\" até o fim do encontro."
+        "description": "O alvo mal consegue respirar, quanto mais pensar em ajudar seus companheiros. Ele foca apenas em sobreviver. 🟩 MECÂNICA: Dano Crítico; alvo não pode realizar a ação \"Ajuda\" até o fim do encontro."
       },
       "Perfurante": {
         "title": "Embaixo da Linha",
-        "description": "Sua precisão atinge um ponto vulnerável abaixo das costelas, onde a agilidade do alvo não pode protegê-lo. || Mecânica: Dano Crítico; dano extra igual a 2x o seu modificador de Destreza."
+        "description": "Sua precisão atinge um ponto vulnerável abaixo das costelas, onde a agilidade do alvo não pode protegê-lo. 🟩 MECÂNICA: Dano Crítico; dano extra igual a 2x o seu modificador de Destreza."
       },
       "Cortante": {
         "title": "Braço Amputado",
-        "description": "A lâmina passa pelo osso como se fosse manteiga. O braço cai no chão, deixando o alvo em estado de choque absoluto. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: perde o braço até receber tratamento."
+        "description": "A lâmina passa pelo osso como se fosse manteiga. O braço cai no chão, deixando o alvo em estado de choque absoluto. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: perde o braço até receber tratamento."
       },
       "Mágico": {
         "title": "Envelhecimento",
-        "description": "O alvo vê sua própria vida passar diante dos olhos em segundos. Seus cabelos branqueiam e seus ossos tornam-se frágeis. || Mecânica: Dano Crítico; o alvo tem sua idade dobrada até realizar um descanso longo."
+        "description": "O alvo vê sua própria vida passar diante dos olhos em segundos. Seus cabelos branqueiam e seus ossos tornam-se frágeis. 🟩 MECÂNICA: Dano Crítico; o alvo tem sua idade dobrada até realizar um descanso longo."
       }
     }
   },
@@ -718,19 +718,19 @@
     "effects": {
       "Contusão": {
         "title": "Pancadão",
-        "description": "Seu golpe é tão pesado que o metal da arma inimiga racha ou sua armadura se deforma além do reparo. || Mecânica: Dano Crítico; um item não mágico segurado pelo alvo pode ser destruído."
+        "description": "Seu golpe é tão pesado que o metal da arma inimiga racha ou sua armadura se deforma além do reparo. 🟩 MECÂNICA: Dano Crítico; um item não mágico segurado pelo alvo pode ser destruído."
       },
       "Perfurante": {
         "title": "Vertigem",
-        "description": "O equilíbrio do alvo é permanentemente afetado. O mundo não para de girar, tornando cada ataque um palpite incerto. || Mecânica: Dano Crítico; 50% de chance de errar ataques até receber tratamento."
+        "description": "O equilíbrio do alvo é permanentemente afetado. O mundo não para de girar, tornando cada ataque um palpite incerto. 🟩 MECÂNICA: Dano Crítico; 50% de chance de errar ataques até receber tratamento."
       },
       "Cortante": {
         "title": "Slijo de Sangue",
-        "description": "A carnificina deste golpe é tão brutal que os companheiros do alvo vacilam, temendo que o mesmo aconteça com eles. || Mecânica: Dano Crítico; inimigos adjacentes fazem Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante) ou ficam amedrontados."
+        "description": "A carnificina deste golpe é tão brutal que os companheiros do alvo vacilam, temendo que o mesmo aconteça com eles. 🟩 MECÂNICA: Dano Crítico; inimigos adjacentes fazem Teste de Resistência de Sabedoria CD (8 + Prof. + Atributo do Atacante) ou ficam amedrontados."
       },
       "Mágico": {
         "title": "Ossos de Borracha",
-        "description": "Sua estrutura física torna-se flexível e resiliente, absorvendo impactos que normalmente esmagariam seus órgãos. || Mecânica: Dano Crítico; imunidade a dano de contusão até o início do próximo turno."
+        "description": "Sua estrutura física torna-se flexível e resiliente, absorvendo impactos que normalmente esmagariam seus órgãos. 🟩 MECÂNICA: Dano Crítico; imunidade a dano de contusão até o início do próximo turno."
       }
     }
   },
@@ -739,19 +739,19 @@
     "effects": {
       "Contusão": {
         "title": "Porrada Motivadora",
-        "description": "Seu sucesso em combate é uma luz de esperança. Ao ver seu golpe, um aliado sente suas próprias dores diminuírem. || Mecânica: Dano Crítico; um aliado que possa te ver remove uma condição negativa."
+        "description": "Seu sucesso em combate é uma luz de esperança. Ao ver seu golpe, um aliado sente suas próprias dores diminuírem. 🟩 MECÂNICA: Dano Crítico; um aliado que possa te ver remove uma condição negativa."
       },
       "Perfurante": {
         "title": "Queda de Pressão",
-        "description": "O sangramento faz a pressão do alvo despencar. Seus ataques perdem a força e tornam-se meras carícias inofensivas. || Mecânica: Dano Crítico; ataques do alvo causam metade do dano até o próximo turno."
+        "description": "O sangramento faz a pressão do alvo despencar. Seus ataques perdem a força e tornam-se meras carícias inofensivas. 🟩 MECÂNICA: Dano Crítico; ataques do alvo causam metade do dano até o próximo turno."
       },
       "Cortante": {
         "title": "Virilha Seccionada",
-        "description": "Um corte em um lugar sensível impede o alvo de recuar com segurança. Ele está preso na sua zona de morte. || Mecânica: Dano Crítico; alvo não pode realizar Desengajar até receber tratamento."
+        "description": "Um corte em um lugar sensível impede o alvo de recuar com segurança. Ele está preso na sua zona de morte. 🟩 MECÂNICA: Dano Crítico; alvo não pode realizar Desengajar até receber tratamento."
       },
       "Mágico": {
         "title": "Zumbido Agudo",
-        "description": "Uma explosão sonora mágica estoura os tímpanos do inimigo, deixando-o em um silêncio absoluto e isolado. || Mecânica: Dano Crítico; o alvo fica surdo até o fim do encontro."
+        "description": "Uma explosão sonora mágica estoura os tímpanos do inimigo, deixando-o em um silêncio absoluto e isolado. 🟩 MECÂNICA: Dano Crítico; o alvo fica surdo até o fim do encontro."
       }
     }
   },
@@ -760,19 +760,19 @@
     "effects": {
       "Contusão": {
         "title": "Fêmur Fraturado",
-        "description": "O osso mais forte do corpo cede sob sua força. O alvo tenta se mover, mas sua perna não sustenta mais sua ambição. || Mecânica: Dano Crítico; deslocamento pela metade e não pode saltar até tratamento."
+        "description": "O osso mais forte do corpo cede sob sua força. O alvo tenta se mover, mas sua perna não sustenta mais sua ambição. 🟩 MECÂNICA: Dano Crítico; deslocamento pela metade e não pode saltar até tratamento."
       },
       "Perfurante": {
         "title": "Ataque Duplo",
-        "description": "O ímpeto da perfuração te permite girar e buscar um novo alvo com a mesma rapidez letal. || Mecânica: Dano Crítico; realize um novo ataque com desvantagem contra outro alvo."
+        "description": "O ímpeto da perfuração te permite girar e buscar um novo alvo com a mesma rapidez letal. 🟩 MECÂNICA: Dano Crítico; realize um novo ataque com desvantagem contra outro alvo."
       },
       "Cortante": {
         "title": "Pele Arrancada",
-        "description": "A lâmina remove uma camada externa de proteção e beleza. O alvo sente o ar queimar sua carne exposta. || Mecânica: Dano Crítico; -1 na CA e -1 em jogadas de Carisma até tratamento."
+        "description": "A lâmina remove uma camada externa de proteção e beleza. O alvo sente o ar queimar sua carne exposta. 🟩 MECÂNICA: Dano Crítico; -1 na CA e -1 em jogadas de Carisma até tratamento."
       },
       "Mágico": {
         "title": "Feitiço do Amor",
-        "description": "A magia inebria os sentidos do alvo, fazendo-o esquecer que você é seu inimigo e vê-lo como seu único e verdadeiro amor. || Mecânica: Dano Crítico; Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante). Falha: enfeitiçado até tratamento."
+        "description": "A magia inebria os sentidos do alvo, fazendo-o esquecer que você é seu inimigo e vê-lo como seu único e verdadeiro amor. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Carisma CD (8 + Prof. + Atributo do Atacante). Falha: enfeitiçado até tratamento."
       }
     }
   },
@@ -781,19 +781,19 @@
     "effects": {
       "Contusão": {
         "title": "Ritmo de Combate",
-        "description": "Você entra em um transe de batalha onde falhar é impossível. Cada movimento seu é fluido e guiado pelo destino. || Mecânica: Dano Crítico; tirar 1 natural no dado não é falha crítica até o fim do encontro."
+        "description": "Você entra em um transe de batalha onde falhar é impossível. Cada movimento seu é fluido e guiado pelo destino. 🟩 MECÂNICA: Dano Crítico; tirar 1 natural no dado não é falha crítica até o fim do encontro."
       },
       "Perfurante": {
         "title": "Miolo Afetado",
-        "description": "A arma penetra profundamente, afetando a coordenação fina do alvo. Ele luta para lembrar como empunhar sua própria arma. || Mecânica: Dano Crítico; alvo não usa modificadores de habilidade nos ataques até o tratamento."
+        "description": "A arma penetra profundamente, afetando a coordenação fina do alvo. Ele luta para lembrar como empunhar sua própria arma. 🟩 MECÂNICA: Dano Crítico; alvo não usa modificadores de habilidade nos ataques até o tratamento."
       },
       "Cortante": {
         "title": "Golpe Anão!",
-        "description": "Este golpe possui a solidez das montanhas e o peso de um machado ancestral. O estrago é devastador. || Mecânica: Dano Crítico; dados de dano substituídos por d12 (ou +1d12 se já forem d12)."
+        "description": "Este golpe possui a solidez das montanhas e o peso de um machado ancestral. O estrago é devastador. 🟩 MECÂNICA: Dano Crítico; dados de dano substituídos por d12 (ou +1d12 se já forem d12)."
       },
       "Mágico": {
         "title": "Força de Vontade",
-        "description": "Ao desferir este golpe, você sente um sopro de vitalidade mística restaurando suas capacidades heróicas. || Mecânica: Dano Crítico; recupera um uso de poder de raça/classe (recuperável em descanso)."
+        "description": "Ao desferir este golpe, você sente um sopro de vitalidade mística restaurando suas capacidades heróicas. 🟩 MECÂNICA: Dano Crítico; recupera um uso de poder de raça/classe (recuperável em descanso)."
       }
     }
   },
@@ -802,19 +802,19 @@
     "effects": {
       "Contusão": {
         "title": "Joelho Deslocado",
-        "description": "A articulação cede com um som húmido. O alvo cambaleia, perdendo toda a sua agilidade e equilíbrio. || Mecânica: Dano Crítico; penalidade de -3 em jogadas de Destreza até o próximo turno."
+        "description": "A articulação cede com um som húmido. O alvo cambaleia, perdendo toda a sua agilidade e equilíbrio. 🟩 MECÂNICA: Dano Crítico; penalidade de -3 em jogadas de Destreza até o próximo turno."
       },
       "Perfurante": {
         "title": "Trespassada",
-        "description": "Sua inteligência brilha neste ataque. Você encontra o ponto exato onde a armadura é mais fina e a morte é certa. || Mecânica: Dano Crítico; dano extra igual a 2x o seu modificador de Inteligência."
+        "description": "Sua inteligência brilha neste ataque. Você encontra o ponto exato onde a armadura é mais fina e a morte é certa. 🟩 MECÂNICA: Dano Crítico; dano extra igual a 2x o seu modificador de Inteligência."
       },
       "Cortante": {
         "title": "Braço Dilacerado",
-        "description": "A lâmina rasga os músculos do braço do alvo, tornando-o um apêndice inútil e sangrento. || Mecânica: Dano Crítico; solta item e não usa o braço até receber tratamento."
+        "description": "A lâmina rasga os músculos do braço do alvo, tornando-o um apêndice inútil e sangrento. 🟩 MECÂNICA: Dano Crítico; solta item e não usa o braço até receber tratamento."
       },
       "Mágico": {
         "title": "Instabilidade Arcana",
-        "description": "Sua magia perfura o véu que separa a mente do alvo da realidade, causando uma dissonância mágica perigosa. || Mecânica: Dano Crítico; o próximo feitiço que o alvo conjurar tem 50% de chance de falhar ou causar um efeito de Magia Selvagem."
+        "description": "Sua magia perfura o véu que separa a mente do alvo da realidade, causando uma dissonância mágica perigosa. 🟩 MECÂNICA: Dano Crítico; o próximo feitiço que o alvo conjurar tem 50% de chance de falhar ou causar um efeito de Magia Selvagem."
       }
     }
   },
@@ -823,19 +823,19 @@
     "effects": {
       "Contusão": {
         "title": "Sangue Espirrado",
-        "description": "O impacto é tão forte que o sangue do alvo voa em seus aliados, marcando-os como as próximas vítimas da sua fúria. || Mecânica: Dano Crítico; outro inimigo adjacente fica marcado até o próximo turno."
+        "description": "O impacto é tão forte que o sangue do alvo voa em seus aliados, marcando-os como as próximas vítimas da sua fúria. 🟩 MECÂNICA: Dano Crítico; outro inimigo adjacente fica marcado até o próximo turno."
       },
       "Perfurante": {
         "title": "Intestino Perfurado",
-        "description": "A arma introduz sujidade nas entranhas. O alvo sente uma infeção instantânea e tóxica se espalhar por seu corpo. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: envenenado até o tratamento."
+        "description": "A arma introduz sujidade nas entranhas. O alvo sente uma infeção instantânea e tóxica se espalhar por seu corpo. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: envenenado até o tratamento."
       },
       "Cortante": {
         "title": "Tecido Exposto",
-        "description": "O corte remove as camadas superficiais, expondo nervos e músculos à agilidade do seu próximo movimento. || Mecânica: Dano Crítico; dano extra igual à soma dos mods de FOR e DEX."
+        "description": "O corte remove as camadas superficiais, expondo nervos e músculos à agilidade do seu próximo movimento. 🟩 MECÂNICA: Dano Crítico; dano extra igual à soma dos mods de FOR e DEX."
       },
       "Mágico": {
         "title": "Vulnerabilidade Física",
-        "description": "Sua magia enfraquece a estrutura material do alvo, tornando sua carne tão frágil quanto papel. || Mecânica: Dano Crítico; alvo tem vulnerabilidade a danos físicos até o próximo turno."
+        "description": "Sua magia enfraquece a estrutura material do alvo, tornando sua carne tão frágil quanto papel. 🟩 MECÂNICA: Dano Crítico; alvo tem vulnerabilidade a danos físicos até o próximo turno."
       }
     }
   },
@@ -844,19 +844,19 @@
     "effects": {
       "Contusão": {
         "title": "Tíbia Quebrada",
-        "description": "Um golpe seco na canela parte o osso. O alvo mal consegue andar, muito menos correr pelo campo de batalha. || Mecânica: Dano Crítico; alvo não pode realizar a ação \"Disparada\" até receber tratamento."
+        "description": "Um golpe seco na canela parte o osso. O alvo mal consegue andar, muito menos correr pelo campo de batalha. 🟩 MECÂNICA: Dano Crítico; alvo não pode realizar a ação \"Disparada\" até receber tratamento."
       },
       "Perfurante": {
         "title": "Fraqueza Temporária",
-        "description": "A dor da perfuração é tão debilitante que o alvo não consegue colocar força em seus próprios golpes. || Mecânica: Dano Crítico; dano causado pelo alvo reduzido pela metade até o próximo turno."
+        "description": "A dor da perfuração é tão debilitante que o alvo não consegue colocar força em seus próprios golpes. 🟩 MECÂNICA: Dano Crítico; dano causado pelo alvo reduzido pela metade até o próximo turno."
       },
       "Cortante": {
         "title": "Preso na Lâmina",
-        "description": "Sua lâmina fica presa nas costelas ou armadura do inimigo, impedindo-o de fugir do seu abraço mortal. || Mecânica: Dano Crítico; alvo fica agarrado enquanto você segurar a arma."
+        "description": "Sua lâmina fica presa nas costelas ou armadura do inimigo, impedindo-o de fugir do seu abraço mortal. 🟩 MECÂNICA: Dano Crítico; alvo fica agarrado enquanto você segurar a arma."
       },
       "Mágico": {
         "title": "Resistência Física",
-        "description": "A magia absorvida fortalece suas fibras musculares, tornando-o quase imune a ataques físicos mundanos. || Mecânica: Dano Crítico; resistência a danos físicos (contusão, perfurante, cortante) até o próximo turno."
+        "description": "A magia absorvida fortalece suas fibras musculares, tornando-o quase imune a ataques físicos mundanos. 🟩 MECÂNICA: Dano Crítico; resistência a danos físicos (contusão, perfurante, cortante) até o próximo turno."
       }
     }
   },
@@ -865,19 +865,19 @@
     "effects": {
       "Contusão": {
         "title": "Miolo Solto",
-        "description": "O impacto na cabeça faz as palavras se perderem. O alvo tenta falar em sua língua nativa, mas apenas sons estranhos saem. || Mecânica: Dano Crítico; esquece um idioma aleatório até realizar um descanso longo."
+        "description": "O impacto na cabeça faz as palavras se perderem. O alvo tenta falar em sua língua nativa, mas apenas sons estranhos saem. 🟩 MECÂNICA: Dano Crítico; esquece um idioma aleatório até realizar um descanso longo."
       },
       "Perfurante": {
         "title": "Testa Marcada",
-        "description": "Você deixa um furo sangrento bem no centro da visão do alvo, tornando-o um alvo fácil para qualquer um. || Mecânica: Dano Crítico; o alvo fica marcado até o início de seu próximo turno."
+        "description": "Você deixa um furo sangrento bem no centro da visão do alvo, tornando-o um alvo fácil para qualquer um. 🟩 MECÂNICA: Dano Crítico; o alvo fica marcado até o início de seu próximo turno."
       },
       "Cortante": {
         "title": "Investida Intimidadora",
-        "description": "Seu corte é tão feroz que o instinto de preservação do alvo grita mais alto que seu dever, impedindo-o de revidar. || Mecânica: Dano Crítico; o alvo não pode te atacar até o início do próximo turno."
+        "description": "Seu corte é tão feroz que o instinto de preservação do alvo grita mais alto que seu dever, impedindo-o de revidar. 🟩 MECÂNICA: Dano Crítico; o alvo não pode te atacar até o início do próximo turno."
       },
       "Mágico": {
         "title": "Resistência Mágica",
-        "description": "Seu golpe cria um vácuo arcano ao seu redor, dissipando energias mágicas hostis antes que elas te atinjam. || Mecânica: Dano Crítico; você tem resistência a dano mágico até o próximo turno."
+        "description": "Seu golpe cria um vácuo arcano ao seu redor, dissipando energias mágicas hostis antes que elas te atinjam. 🟩 MECÂNICA: Dano Crítico; você tem resistência a dano mágico até o próximo turno."
       }
     }
   },
@@ -886,19 +886,19 @@
     "effects": {
       "Contusão": {
         "title": "Roxo de Pancada",
-        "description": "A marca do seu golpe atrai os olhos de todos. O alvo torna-se o foco óbvio de cada ataque subsequente. || Mecânica: Dano Crítico; Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante). Falha: marcado até receber tratamento."
+        "description": "A marca do seu golpe atrai os olhos de todos. O alvo torna-se o foco óbvio de cada ataque subsequente. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Destreza CD (8 + Prof. + Atributo do Atacante). Falha: marcado até receber tratamento."
       },
       "Perfurante": {
         "title": "Entre as Costelas",
-        "description": "Sua arma encontra o caminho perfeito para os órgãos vitais. O ferimento é uma ferida aberta que convida ao desastre. || Mecânica: Dano Crítico; ataques contra o alvo são críticos com 19 ou 20 até o fim do encontro."
+        "description": "Sua arma encontra o caminho perfeito para os órgãos vitais. O ferimento é uma ferida aberta que convida ao desastre. 🟩 MECÂNICA: Dano Crítico; ataques contra o alvo são críticos com 19 ou 20 até o fim do encontro."
       },
       "Cortante": {
         "title": "Dedos Amputados",
-        "description": "A lâmina remove os dedos do alvo enquanto ele tenta se defender. Sua capacidade de agarrar coisas foi destruída. || Mecânica: Dano Crítico; penalidade permanente de -1 em Atletismo."
+        "description": "A lâmina remove os dedos do alvo enquanto ele tenta se defender. Sua capacidade de agarrar coisas foi destruída. 🟩 MECÂNICA: Dano Crítico; penalidade permanente de -1 em Atletismo."
       },
       "Mágico": {
         "title": "Sensibilidade Auditiva",
-        "description": "Sua magia sintoniza os ouvidos do alvo com a frequência do trovão, tornando qualquer som alto uma tortura. || Mecânica: Dano Crítico; vulnerabilidade a dano trovejante até receber tratamento."
+        "description": "Sua magia sintoniza os ouvidos do alvo com a frequência do trovão, tornando qualquer som alto uma tortura. 🟩 MECÂNICA: Dano Crítico; vulnerabilidade a dano trovejante até receber tratamento."
       }
     }
   },
@@ -907,19 +907,19 @@
     "effects": {
       "Contusão": {
         "title": "Hemorragia Interna",
-        "description": "O dano interno é profundo e silencioso. O alvo sente sua energia de recuperação minguar enquanto seu corpo luta contra si mesmo. || Mecânica: Dano Crítico; próximo descanso curto recupera apenas metade dos PV."
+        "description": "O dano interno é profundo e silencioso. O alvo sente sua energia de recuperação minguar enquanto seu corpo luta contra si mesmo. 🟩 MECÂNICA: Dano Crítico; próximo descanso curto recupera apenas metade dos PV."
       },
       "Perfurante": {
         "title": "Nervo Pinçado",
-        "description": "A arma atinge o feixe nervoso principal. O alvo perde a confiança e o ímpeto, tornando cada ação medíocre. || Mecânica: Dano Crítico; não pode realizar jogadas com vantagem até um descanso."
+        "description": "A arma atinge o feixe nervoso principal. O alvo perde a confiança e o ímpeto, tornando cada ação medíocre. 🟩 MECÂNICA: Dano Crítico; não pode realizar jogadas com vantagem até um descanso."
       },
       "Cortante": {
         "title": "Orelha Amputada",
-        "description": "Um talho remove a orelha do inimigo. Ele agora parece uma fera mutilada: terrível de se ver, mas socialmente repelente. || Mecânica: Dano Crítico; -1 em Persuasão e +1 em Intimidação."
+        "description": "Um talho remove a orelha do inimigo. Ele agora parece uma fera mutilada: terrível de se ver, mas socialmente repelente. 🟩 MECÂNICA: Dano Crítico; -1 em Persuasão e +1 em Intimidação."
       },
       "Mágico": {
         "title": "Tratamento de Choque",
-        "description": "A eletricidade mística reconfigura as falhas mentais do alvo, oferecendo uma nova perspetiva ao custo da sanidade. || Mecânica: Dano Crítico; troca um defeito por outro ou sofre 1d10 de dano psíquico."
+        "description": "A eletricidade mística reconfigura as falhas mentais do alvo, oferecendo uma nova perspetiva ao custo da sanidade. 🟩 MECÂNICA: Dano Crítico; troca um defeito por outro ou sofre 1d10 de dano psíquico."
       }
     }
   },
@@ -928,19 +928,19 @@
     "effects": {
       "Contusão": {
         "title": "Empolgado",
-        "description": "O sucesso do seu golpe te enche de uma energia frenética. Você está pronto para agir novamente antes que o inimigo pisque. || Mecânica: Dano Crítico; ganha uma ação bónus extra neste turno."
+        "description": "O sucesso do seu golpe te enche de uma energia frenética. Você está pronto para agir novamente antes que o inimigo pisque. 🟩 MECÂNICA: Dano Crítico; ganha uma ação bónus extra neste turno."
       },
       "Perfurante": {
         "title": "Até o Cabo",
-        "description": "Você enterra a arma tão fundo que ela fica presa no inimigo. O metal morde a carne a cada movimento dele. || Mecânica: Dano Crítico; se escolher soltar a arma, ela permanece cravada no alvo. O alvo sofre 1d6 de dano perfurante extra no início de cada um dos turnos dele enquanto a arma não for removida (exigindo uma ação)."
+        "description": "Você enterra a arma tão fundo que ela fica presa no inimigo. O metal morde a carne a cada movimento dele. 🟩 MECÂNICA: Dano Crítico; se escolher soltar a arma, ela permanece cravada no alvo. O alvo sofre 1d6 de dano perfurante extra no início de cada um dos turnos dele enquanto a arma não for removida (exigindo uma ação)."
       },
       "Cortante": {
         "title": "Nariz Amputado",
-        "description": "A lâmina remove o nariz do alvo, deixando um buraco grotesco. Ele agora é o pesadelo de qualquer um que o encare. || Mecânica: Dano Crítico; -3 em Persuasão e +3 em Intimidação."
+        "description": "A lâmina remove o nariz do alvo, deixando um buraco grotesco. Ele agora é o pesadelo de qualquer um que o encare. 🟩 MECÂNICA: Dano Crítico; -3 em Persuasão e +3 em Intimidação."
       },
       "Mágico": {
         "title": "Recarga Mágica",
-        "description": "Ao desferir este golpe místico, você sente o eco do poder retornando para você, preservando suas reservas arcanas. || Mecânica: Dano Crítico; o espaço de magia utilizado não é gasto."
+        "description": "Ao desferir este golpe místico, você sente o eco do poder retornando para você, preservando suas reservas arcanas. 🟩 MECÂNICA: Dano Crítico; o espaço de magia utilizado não é gasto."
       }
     }
   },
@@ -949,19 +949,19 @@
     "effects": {
       "Contusão": {
         "title": "Dedão Esmagado",
-        "description": "Um golpe nos pés do inimigo destrói seu apoio. Ele luta para manter o equilíbrio e não consegue atacar com precisão. || Mecânica: Dano Crítico; desvantagem em ataques físicos até o próximo turno."
+        "description": "Um golpe nos pés do inimigo destrói seu apoio. Ele luta para manter o equilíbrio e não consegue atacar com precisão. 🟩 MECÂNICA: Dano Crítico; desvantagem em ataques físicos até o próximo turno."
       },
       "Perfurante": {
         "title": "Antecipar",
-        "description": "A precisão deste golpe te permite prever a reação inimiga, preparando sua próxima jogada com calma mortal. || Mecânica: Dano Crítico; pode usar ação bónus para a ação \"Preparar\"."
+        "description": "A precisão deste golpe te permite prever a reação inimiga, preparando sua próxima jogada com calma mortal. 🟩 MECÂNICA: Dano Crítico; pode usar ação bónus para a ação \"Preparar\"."
       },
       "Cortante": {
         "title": "Slijo de Sangue",
-        "description": "O corte é tão satisfatório e perfeito que o destino parece sorrir para você, recompensando sua perícia com inspiração. || Mecânica: Dano Crítico; você recebe um ponto de Inspiração."
+        "description": "O corte é tão satisfatório e perfeito que o destino parece sorrir para você, recompensando sua perícia com inspiração. 🟩 MECÂNICA: Dano Crítico; você recebe um ponto de Inspiração."
       },
       "Mágico": {
         "title": "Solo Deformado",
-        "description": "A energia mágica derrete ou cristaliza o chão ao redor do alvo, tornando o campo de batalha uma armadilha irregular. || Mecânica: Dano Crítico; a área atingida torna-se terreno difícil."
+        "description": "A energia mágica derrete ou cristaliza o chão ao redor do alvo, tornando o campo de batalha uma armadilha irregular. 🟩 MECÂNICA: Dano Crítico; a área atingida torna-se terreno difícil."
       }
     }
   },
@@ -970,19 +970,19 @@
     "effects": {
       "Contusão": {
         "title": "Pé Esmagado",
-        "description": "Seu golpe esmaga os ossos do pé do alvo. Ele agora é forçado a mancar enquanto tenta desesperadamente se reposicionar. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: deslocamento reduzido pela metade até tratamento."
+        "description": "Seu golpe esmaga os ossos do pé do alvo. Ele agora é forçado a mancar enquanto tenta desesperadamente se reposicionar. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: deslocamento reduzido pela metade até tratamento."
       },
       "Perfurante": {
         "title": "Membro Atravessado",
-        "description": "A arma atravessa o membro, prendendo músculos e tendões. O alvo torna-se desajeitado e lento. || Mecânica: Dano Crítico; penalidade de -2 em jogadas de Destreza até um descanso."
+        "description": "A arma atravessa o membro, prendendo músculos e tendões. O alvo torna-se desajeitado e lento. 🟩 MECÂNICA: Dano Crítico; penalidade de -2 em jogadas de Destreza até um descanso."
       },
       "Cortante": {
         "title": "Cheiro de Sangue",
-        "description": "Sua crueldade em combate é contagiante. Um aliado vê seu sucesso e sente-se renovado pela promessa de vitória. || Mecânica: Dano Crítico; uma criatura aliada que você veja recebe Inspiração."
+        "description": "Sua crueldade em combate é contagiante. Um aliado vê seu sucesso e sente-se renovado pela promessa de vitória. 🟩 MECÂNICA: Dano Crítico; uma criatura aliada que você veja recebe Inspiração."
       },
       "Mágico": {
         "title": "Pulso Mágico",
-        "description": "Uma explosão de força cinética emana do ponto de impacto, arremessando o alvo para trás como se fosse uma folha ao vento. || Mecânica: Dano Crítico; empurrado 3 metros e fica caído."
+        "description": "Uma explosão de força cinética emana do ponto de impacto, arremessando o alvo para trás como se fosse uma folha ao vento. 🟩 MECÂNICA: Dano Crítico; empurrado 3 metros e fica caído."
       }
     }
   },
@@ -991,19 +991,19 @@
     "effects": {
       "Contusão": {
         "title": "Derrame Ocular",
-        "description": "A pressão do golpe estoura os vasos sanguíneos nos olhos do alvo. O mundo torna-se escuro e húmido. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: cego até receber tratamento."
+        "description": "A pressão do golpe estoura os vasos sanguíneos nos olhos do alvo. O mundo torna-se escuro e húmido. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: cego até receber tratamento."
       },
       "Perfurante": {
         "title": "Cravada nas Costas",
-        "description": "Sua arma penetra fundo na musculatura dorsal. O alvo sente sua força bruta esvair-se enquanto tenta manter-se ereto. || Mecânica: Dano Crítico; penalidade de -3 em jogadas de Força até o próximo turno."
+        "description": "Sua arma penetra fundo na musculatura dorsal. O alvo sente sua força bruta esvair-se enquanto tenta manter-se ereto. 🟩 MECÂNICA: Dano Crítico; penalidade de -3 em jogadas de Força até o próximo turno."
       },
       "Cortante": {
         "title": "Perna Decepada",
-        "description": "A lâmina remove o membro inferior. O alvo desaba, encarando o toco sangrento onde antes estava sua perna. || Mecânica: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: deslocamento reduzido permanentemente pela metade até receber tratamento."
+        "description": "A lâmina remove o membro inferior. O alvo desaba, encarando o toco sangrento onde antes estava sua perna. 🟩 MECÂNICA: Dano Crítico; Teste de Resistência de Constituição CD (8 + Prof. + Atributo do Atacante). Falha: deslocamento reduzido permanentemente pela metade até receber tratamento."
       },
       "Mágico": {
         "title": "Sobrevida Arcana",
-        "description": "Ao ferir seu inimigo, você absorve o resíduo da alma dele, tecendo uma armadura de energia temporária sobre sua carne. || Mecânica: Dano Crítico; recebe PV temporários igual a 2x seu nível/CR."
+        "description": "Ao ferir seu inimigo, você absorve o resíduo da alma dele, tecendo uma armadura de energia temporária sobre sua carne. 🟩 MECÂNICA: Dano Crítico; recebe PV temporários igual a 2x seu nível/CR."
       }
     }
   },
@@ -1012,19 +1012,19 @@
     "effects": {
       "Contusão": {
         "title": "Joelho Destruído",
-        "description": "Um golpe lateral estraçalha os ligamentos. O alvo agora manca com dificuldade, incapaz de acompanhar o ritmo da luta. || Mecânica: Dano Crítico; deslocamento reduzido em 1,5m até receber tratamento."
+        "description": "Um golpe lateral estraçalha os ligamentos. O alvo agora manca com dificuldade, incapaz de acompanhar o ritmo da luta. 🟩 MECÂNICA: Dano Crítico; deslocamento reduzido em 1,5m até receber tratamento."
       },
       "Perfurante": {
         "title": "Rosto Retalhado",
-        "description": "A ponta da arma desenha marcas profundas e feias no rosto do inimigo, transformando-o em uma visão de puro horror. || Mecânica: Dano Crítico; -3 em Persuasão e +3 em Intimidação até tratamento."
+        "description": "A ponta da arma desenha marcas profundas e feias no rosto do inimigo, transformando-o em uma visão de puro horror. 🟩 MECÂNICA: Dano Crítico; -3 em Persuasão e +3 em Intimidação até tratamento."
       },
       "Cortante": {
         "title": "Tendão Rompido",
-        "description": "A lâmina corta o tendão de Aquiles ou similar. O alvo torna-se lento para reagir, sempre um passo atrás de todos. || Mecânica: Dano Crítico; iniciativa do alvo torna-se 0 até receber tratamento."
+        "description": "A lâmina corta o tendão de Aquiles ou similar. O alvo torna-se lento para reagir, sempre um passo atrás de todos. 🟩 MECÂNICA: Dano Crítico; iniciativa do alvo torna-se 0 até receber tratamento."
       },
       "Mágico": {
         "title": "Magia Perfurante",
-        "description": "Sua conjuração é tão poderosa que as defesas mentais do inimigo simplesmente colapsam antes mesmo do impacto. || Mecânica: Dano Crítico; o alvo falha automaticamente no teste de resistência da magia."
+        "description": "Sua conjuração é tão poderosa que as defesas mentais do inimigo simplesmente colapsam antes mesmo do impacto. 🟩 MECÂNICA: Dano Crítico; o alvo falha automaticamente no teste de resistência da magia."
       }
     }
   },
@@ -1033,19 +1033,19 @@
     "effects": {
       "Contusão": {
         "title": "Dentes Perdidos",
-        "description": "Uma pancada na boca faz dentes voarem. O sorriso do alvo agora é um buraco sangrento que assusta os fracos. || Mecânica: Dano Crítico; -1 em Persuasão e +1 em Intimidação até receber tratamento."
+        "description": "Uma pancada na boca faz dentes voarem. O sorriso do alvo agora é um buraco sangrento que assusta os fracos. 🟩 MECÂNICA: Dano Crítico; -1 em Persuasão e +1 em Intimidação até receber tratamento."
       },
       "Perfurante": {
         "title": "Sede de Sangue",
-        "description": "A sensação do metal perfurando a carne te dá um novo vigor. Você se move como um predador em busca da próxima brecha. || Mecânica: Dano Crítico; pode fazer um novo ataque com desvantagem ou mover seu deslocamento."
+        "description": "A sensação do metal perfurando a carne te dá um novo vigor. Você se move como um predador em busca da próxima brecha. 🟩 MECÂNICA: Dano Crítico; pode fazer um novo ataque com desvantagem ou mover seu deslocamento."
       },
       "Cortante": {
         "title": "Corte Doloroso",
-        "description": "A lâmina deixa uma ferida que queima como fogo. O alvo precisa escolher entre mover-se ou agir, a dor não permite ambos. || Mecânica: Dano Crítico; alvo apenas se move OU age até receber tratamento."
+        "description": "A lâmina deixa uma ferida que queima como fogo. O alvo precisa escolher entre mover-se ou agir, a dor não permite ambos. 🟩 MECÂNICA: Dano Crítico; alvo apenas se move OU age até receber tratamento."
       },
       "Mágico": {
         "title": "Alteração Mental",
-        "description": "A magia invade os sonhos e ideais do alvo, forçando-o a reavaliar tudo em que acredita sob uma luz distorcida. || Mecânica: Dano Crítico; troca um ideal por outro ou sofre 1d10 de dano psíquico."
+        "description": "A magia invade os sonhos e ideais do alvo, forçando-o a reavaliar tudo em que acredita sob uma luz distorcida. 🟩 MECÂNICA: Dano Crítico; troca um ideal por outro ou sofre 1d10 de dano psíquico."
       }
     }
   }
